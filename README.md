@@ -165,13 +165,13 @@ const ahmer = {
 </div>
 
 <p align="center">
-  <a href="https://medium.com/@ahmershahdev">
+  <a href="https://medium.com/@syedahmershah">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="https://dev.to/ahmershahdev">
+  <a href="https://dev.to/syedahmershah">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
-  <a href="https://hashnode.com/@ahmershahdev">
+  <a href="https://hashnode.com/@syedahmershah">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
   <a href="https://github.com/ahmershahdev">
