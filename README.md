@@ -1,4 +1,3 @@
-<!-- Welcome Animation -->
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
   <h1>&lt; Syed Ahmer Shah /&gt;</h1>
@@ -9,7 +8,6 @@
 
 <br>
 
-<!-- Profile Views Counter -->
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=ahmershahdev&color=blueviolet&style=for-the-badge)
@@ -18,39 +16,36 @@
   
 </div>
 
-<!-- Introduction -->
 <h2 align="center">⚡ Transforming Ideas into Digital Reality ⚡</h2>
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder" width="500">
 </div>
 
-<!-- About Me Section -->
 ## 🚀 About Me
 
 ```js
 const ahmer = {
     pronouns: "He" | "Him",
-    code: ["C++", "Java", "Python", "JavaScript"],
-    askMeAbout: ["Web Dev", "Tech", "AI", "DSA", "OOP"],
+    code: ["Java", "HTML5", "CSS3", "JavaScript", "PHP"],
+    askMeAbout: ["Web Dev", "E-commerce", "OOP"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Bootstrap", "Tailwind CSS"]
+            js: ["jQuery", "Vanilla JS"],
+            css: ["Bootstrap", "Minimal CSS"]
         },
         backEnd: {
-            python: ["Django"],
-            java: ["Spring Boot"]
+            php: ["Laravel"],
+            java: ["Core Java"]
         },
-        databases: ["MongoDB", "MySQL"],
-        tools: ["Git", "GitHub", "VS Code", "Cursor"]
+        databases: ["MySQL"],
+        tools: ["Git"]
     },
-    currentFocus: "Building AI-Enhanced Web Applications",
+    currentFocus: "Building Commerza - Full Stack E-commerce (in progress)",
     funFact: "I can turn coffee into code! ☕→💻"
 };
 ```
 
-<!-- Tech Stack Animation -->
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Tech" width="500">
 </div>
@@ -61,101 +56,104 @@ const ahmer = {
   <table>
     <tr>
       <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="55" height="55" />
-        <br>C++
-      </td>
-      <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="55" height="55" />
         <br>Java
       </td>
       <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
-        <br>Python
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="55" height="55" />
+        <br>HTML5
       </td>
       <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="55" height="55" />
+        <br>CSS3
+      </td>
+      <td align="center" width="90">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55" />
         <br>JavaScript
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="55" height="55" />
-        <br>HTML
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" alt="jQuery" width="55" height="55" />
+        <br>jQuery
       </td>
     </tr>
     <tr>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="55" height="55" />
-        <br>CSS
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="55" height="55" />
+        <br>Bootstrap
       </td>
       <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
-        <br>GitHub
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55" />
+        <br>MySQL
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=ai" alt="AI" width="55" height="55" />
-        <br>AI
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="55" height="55" />
+        <br>PHP
       </td>
       <td align="center" width="90">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="OOP" width="55" height="55" />
-        <br>OOP
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" width="55" height="55" />
+        <br>Laravel
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=py" alt="DSA" width="55" height="55" />
-        <br>DSA
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="55" height="55" />
+        <br>WordPress
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://img.shields.io/badge/SEO-1572B6?style=for-the-badge&logo=google&logoColor=white" alt="SEO" width="55" height="55" />
+        <br>SEO
+      </td>
+      <td align="center" width="90">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="55" height="55" />
+        <br>Git
       </td>
     </tr>
   </table>
-</div>
+</div> 
 
-<!-- GitHub Stats -->
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmershahdev&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmershahdev&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" width="49%" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmershahdev&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" width="49%" alt="Languages" />
-  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmershahdev&bg_color=1a1b27&color=38bdae&line=628fdb&point=38bdae&area=true&hide_border=true&radius=8" alt="Activity" width="100%" />
 </div>
 
-## 🎯 2028 Goals Roadmap
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Goals" width="300">
-</div>
-
-### My Learning Journey
-- **DSA & Algorithms**
-  - 📚 Master Core DSA (2025 Q1-Q2)
-  - 💻 Complete 150+ LeetCode Problems (2025 Q2-Q3)
-- **Development**
-  - 🌐 Full Stack Development (2025)
-  - 🤖 AI Integration (2025 Q2-Q3)
-- **Projects**
-  - 🚀 Build SaaS Projects (2025 Q1-Q4)
-  - 🌟 Open Source Contribution (Throughout 2025)
 
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/ahmershahdev/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmershahdev&repo=Portfolio&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/ahmershahdev/Commerza">
+    
   </a>
 </div>
 
 <div align="center">
-  <h3>Portfolio Tech Stack</h3>
+  <h3>Commerza - Full Stack E-commerce (In Progress)</h3>
+  <p><a href="https://github.com/ahmershahdev/Commerza">Repository: github.com/ahmershahdev/Commerza</a></p>
+  <p>Commerza is a 12-page full-stack e-commerce website (currently under development). Pages include: Login, Signup, Forgot Password, Main Shopping, Cart, Account Info, Warranty, Returns, Shipping Info, About Us, Contact.</p>
+  <h4>Tech Stack</h4>
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-    <img src="https://img.shields.io/badge/Anime.js-FF1A1A?style=for-the-badge&logo=anime.js&logoColor=white" alt="Anime.js" />
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/CSS-minimal-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Minimal CSS" />
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </p>
-  <p>
-    <em>🤖 Fully developed using AI assistance for enhanced user experience and modern design</em>
-  </p>
+  <p><em>Currently in progress — not finished yet.</em></p>
+</div>
+
+## 🎓 Education
+
+<div align="left">
+  <ul>
+    <li><strong>Nov 2024 - Dec 2028</strong> — Hyderabad Institute For Technology & Management Science — Bachelor's in Software Engineering</li>
+    <li><strong>Aug 2025 - Sep 2028</strong> — Aptech Pakistan — Advanced Diploma in Software Engineering (ADSE)</li>
+    <li><strong>Jul 2022 - Jul 2024</strong> — Superior College of Science Hyderabad — Higher Secondary Certificate (HSC), Pre-Engineering</li>
+    <li><strong>Apr 2012 - Jul 2022</strong> — St. Bonaventure's High School Hyderabad - City Branch — Secondary School Certificate (SSC), Computer Science</li>
+  </ul>
 </div>
 
 ## 🔗 Connect & Collaborate
@@ -180,19 +178,14 @@ const ahmer = {
   <a href="https://www.linkedin.com/in/ahmer-shah">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://ahmershahdev.github.io/Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
 </p>
 
-<!-- Spotify Now Playing -->
 <div align="center">
   
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ahmershahdev)
 
 </div>
 
-<!-- Final Section -->
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Developer" width="200">
   <br><br>
@@ -216,7 +209,6 @@ const ahmer = {
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Bottom" />
 </p>
 
-<!-- Footer -->
 <p align="center">
-  <em>© 2025 Syed Ahmer Shah — All rights reserved.</em>
+  <em>© 2026 Syed Ahmer Shah — All rights reserved.</em>
 </p>
