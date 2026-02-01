@@ -187,7 +187,7 @@ const ahmer = {
   <br><br>
   <blockquote>
     <p align="center">
-      <em>"Write code with logic, train models with precision & trust the divine architecture that powers it all"</em>
+      <em>“And I can fight only for something that I love, love only what I respect, and respect only what I at least know.”</em>
     </p>
     <p align="center">
       <em>- Ahmer Shah</em>
