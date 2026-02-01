@@ -180,11 +180,7 @@ const ahmer = {
   </a>
 </p>
 
-<div align="center">
-  
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ahmershahdev)
 
-</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Developer" width="200">
