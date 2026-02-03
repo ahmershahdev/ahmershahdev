@@ -208,9 +208,5 @@ const ahmer = {
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Bottom" />
-</p>
-
-<p align="center">
   <em>© 2026 Syed Ahmer Shah — All rights reserved.</em>
 </p>
