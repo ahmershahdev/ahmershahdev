@@ -130,7 +130,7 @@ const ahmer = {
 <div align="center">
   <h3>Commerza - Full Stack E-commerce (In Progress)</h3>
   <p><a href="https://github.com/ahmershahdev/Commerza">Repository: github.com/ahmershahdev/Commerza</a></p>
-  <p>Commerza is a 12-page full-stack e-commerce website (currently under development). Pages include: Login, Signup, Forgot Password, Main Shopping, Cart, Account Info, Warranty, Returns, Shipping Info, About Us, Contact.</p>
+  <p>Commerza is a 14+ page full-stack e-commerce website (currently under development). Pages include: Login, Signup, Forgot Password, Main Shopping, Cart, Account Info, Warranty, Returns, Shipping Info, About Us, Contact.</p>
   <h4>Tech Stack</h4>
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
