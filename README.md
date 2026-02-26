@@ -9,12 +9,19 @@
 <br>
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=ahmershahdev&color=blueviolet&style=for-the-badge)
-  ![GitHub followers](https://img.shields.io/github/followers/ahmershahdev?style=for-the-badge&color=blue)
-  ![GitHub User's stars](https://img.shields.io/github/stars/ahmershahdev?style=for-the-badge&color=red)
-  
+
+  <img src="https://komarev.com/ghpvc/?username=ahmershahdev&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+
+  <img src="https://img.shields.io/github/followers/ahmershahdev?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+
+  <img src="https://img.shields.io/badge/dynamic/json?color=red&label=Total%20Stars&query=stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fahmershahdev&style=for-the-badge" alt="Total Stars" />
+
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+
 </div>
+
 
 <h2 align="center">⚡ Transforming Ideas into Digital Reality ⚡</h2>
 
