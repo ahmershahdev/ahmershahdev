@@ -166,11 +166,13 @@ const ahmer = {
 ## 🔗 Connect & Collaborate
 
 <div align="center">
+  <a href="https://g.page/r/CS9yn4Q_UhZ4EBM">
   <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" alt="Connect" width="400">
+    </a>
 </div>
 
 <p align="center">
-  <a href="https://g.page/r/CS9yn4Q_UhZ4EBM">
+  <a href="https://ahmershah.dev/">
   <img src="https://img.shields.io/badge/Google%20Business-Verified-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </a>
   <a href="https://medium.com/@syedahmershah">
@@ -188,7 +190,7 @@ const ahmer = {
   <a href="https://www.linkedin.com/in/syedahmershah">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:syedahmershahofficial@gmail.com">
+  <a href="mailto:support@ahmershah.dev">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
