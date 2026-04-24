@@ -22,7 +22,6 @@
 
 </div>
 
-
 <h2 align="center">⚡ Transforming Ideas into Digital Reality ⚡</h2>
 
 <div align="center">
@@ -33,23 +32,23 @@
 
 ```js
 const ahmer = {
-    pronouns: "He" | "Him",
-    code: ["Java", "HTML5", "CSS3", "JavaScript", "PHP"],
-    askMeAbout: ["Web Dev", "E-commerce", "OOP"],
-    technologies: {
-        frontEnd: {
-            js: ["jQuery", "Vanilla JS"],
-            css: ["Bootstrap", "Minimal CSS"]
-        },
-        backEnd: {
-            php: ["Laravel"],
-            java: ["Core Java"]
-        },
-        databases: ["MySQL"],
-        tools: ["Git"]
+  pronouns: "He" | "Him",
+  code: ["Java", "HTML5", "CSS3", "JavaScript", "PHP"],
+  askMeAbout: ["Web Dev", "E-commerce", "OOP"],
+  technologies: {
+    frontEnd: {
+      js: ["jQuery", "Vanilla JS"],
+      css: ["Bootstrap", "CSS"],
     },
-    currentFocus: "Building Commerza - Full Stack E-commerce (in progress)",
-    funFact: "I can turn coffee into code! ☕→💻"
+    backEnd: {
+      php: ["Laravel"],
+      java: ["Core Java"],
+    },
+    databases: ["MySQL"],
+    tools: ["Git"],
+  },
+  currentFocus: "Building Commerza - Full Stack E-commerce Platform",
+  funFact: "I can turn coffee into code! ☕→💻",
 };
 ```
 
@@ -63,68 +62,82 @@ const ahmer = {
   <table>
     <tr>
       <td align="center" width="90">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="55" height="55" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" />
         <br>Java
       </td>
       <td align="center" width="90">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="55" height="55" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
         <br>HTML5
       </td>
       <td align="center" width="90">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="55" height="55" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
         <br>CSS3
       </td>
       <td align="center" width="90">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
         <br>JavaScript
       </td>
       <td align="center" width="90">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" alt="jQuery" width="55" height="55" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" alt="jQuery" width="50" height="50" />
         <br>jQuery
       </td>
     </tr>
     <tr>
       <td align="center" width="90">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="55" height="55" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" />
         <br>Bootstrap
       </td>
       <td align="center" width="90">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" />
         <br>MySQL
       </td>
       <td align="center" width="90">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="55" height="55" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50" />
         <br>PHP
       </td>
       <td align="center" width="90">
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" width="55" height="55" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="50" height="50" />
         <br>Laravel
       </td>
       <td align="center" width="90">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="55" height="55" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="50" height="50" />
         <br>WordPress
       </td>
     </tr>
     <tr>
       <td align="center" width="90">
-        <img src="https://img.shields.io/badge/SEO-1572B6?style=for-the-badge&logo=google&logoColor=white" alt="SEO" width="55" height="55" />
-        <br>SEO
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" />
+        <br>Git
       </td>
       <td align="center" width="90">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="55" height="55" />
-        <br>Git
+        <br>
+       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50" />
+        <br>Firebase
+      </td>
+      <td align="center" width="90">
+        <br>
+       <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase"  width="50" height="50" />
+        <br>Supabase
+      </td>
+      <td align="center" width="90">
+        <br>
+ <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" width="50" height="50" />
+        <br>Vercel
+      </td>
+      <td align="center" width="90">
+        <br>
+        <img src="https://img.shields.io/badge/SEO-1572B6?style=for-the-badge&logo=google&logoColor=white" alt="SEO" height="28" />
+        <br>SEO
       </td>
     </tr>
   </table>
-</div> 
+</div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmershahdev&bg_color=1a1b27&color=38bdae&line=628fdb&point=38bdae&area=true&hide_border=true&radius=8" alt="Activity" width="100%" />
 </div>
-
-
 
 ## 🌟 Featured Projects
 
@@ -135,21 +148,22 @@ const ahmer = {
 </div>
 
 <div align="center">
-  <h3>Commerza - Full Stack E-commerce (In Progress)</h3>
-  <p><a href="https://github.com/ahmershahdev/Commerza">Repository: github.com/ahmershahdev/Commerza</a></p>
-  <p>Commerza is a 14+ page full-stack e-commerce website (currently under development). Pages include: Login, Signup, Forgot Password, Main Shopping, Cart, Account Info, Warranty, Returns, Shipping Info, About Us, Contact.</p>
+  <h3>Commerza - Full Stack E-commerce Platform</h3>
+  <p><a href="https://github.com/ahmershahdev/commerza">Repository: github.com/ahmershahdev/commerza</a></p>
+  <p>Commerza is a production-grade (PHP + MySQL) e-commerce platform with a modern storefront and secure admin dashboard. It includes product management, cart, authentication, checkout (COD + Stripe), orders, reviews, and enterprise security (CSRF, CAPTCHA, rate limiting, audit logs, stock locking).</p>
   <h4>Tech Stack</h4>
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/CSS-minimal-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Minimal CSS" />
+    <img src="https://img.shields.io/badge/CSS-minimal-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Advanced CSS" />
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+     <img src="https://img.shields.io/badge/SEO-00897B?style=for-the-badge&logo=google-search-console&logoColor=white" alt="SEO" />
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+    <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" alt="Apache">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </p>
-  <p><em>Currently in progress — not finished yet.</em></p>
+  <p><em>The security-first PHP + MySQL engine for modern digital commerce.** Built for speed, designed for developers, and hardened for production. <a href="https://github.com/ahmershahdev/commerza/blob/main/README.md">Commerza README</a></em></p>
 </div>
 
 ## 🎓 Education
@@ -172,9 +186,6 @@ const ahmer = {
 </div>
 
 <p align="center">
-  <a href="https://ahmershah.dev/">
-  <img src="https://img.shields.io/badge/Google%20Business-Verified-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
-</a>
   <a href="https://medium.com/@syedahmershah">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
@@ -184,18 +195,22 @@ const ahmer = {
   <a href="https://hashnode.com/@syedahmershah">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
+  <a href="https://www.leetcode.com/syedahmershah">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
   <a href="https://github.com/ahmershahdev">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/syedahmershah">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://ahmershah.dev/">
+  <img src="https://img.shields.io/badge/Google%20Business-Verified-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</a>
   <a href="mailto:support@ahmershah.dev">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
-
-
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Developer" width="200">
