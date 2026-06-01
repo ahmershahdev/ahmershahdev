@@ -3,7 +3,7 @@
   <h1>&lt; Syed Ahmer Shah /&gt;</h1> 
   <div align="center"> 
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3CE0F7&center=true&vCenter=true&random=false&width=440&lines=Software+Engineering+Undergraduate;Full+Stack+Developer;Problem+Solver;WordPress+Developer;Java+Developer;Prompt+Engineering+Enthusiast" alt="Typing SVG" /> 
-  </div>
+  </div> 
 </div>
  
 <br>
