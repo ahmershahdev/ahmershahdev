@@ -106,7 +106,7 @@ const ahmer = {
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmershahdev&bg_color=0D1117&color=39B54A&line=39B54A&point=FFFFFF&area=true&hide_border=true&radius=8" alt="Activity" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmershahdev&bg_color=001D4A&color=39B54A&line=39B54A&point=FFFFFF&area=true&hide_border=true&radius=8" alt="Activity" width="100%" />
 </div>
 
 ---
