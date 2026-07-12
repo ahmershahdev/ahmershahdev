@@ -3,7 +3,7 @@
 
   <h1>&lt; Syed Ahmer Shah /&gt;</h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=39B54A&center=true&vCenter=true&random=false&width=460&lines=Software+Engineering+Undergraduate;Full+Stack+Web+Developer;WordPress+Developer;Problem+Solver;Java+Developer;Prompt+Engineering+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=39B54A&center=true&vCenter=true&random=false&width=460&lines=Software+Engineering+Undergraduate;Full+Stack+Developer;Building+Scalable+Web+Applications;Crafting+Digital+Experiences;Developing+AI-Powered+Solutions" alt="Typing SVG" />
 
   <br>
 
