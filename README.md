@@ -278,6 +278,7 @@ Every profile below is verified and actively maintained, grouped by purpose so y
 |:---|:---|
 | [![Behance](https://img.shields.io/badge/Behance-Portfolio-001D4A?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/syedahmershah) | Visual & design portfolio |
 | [![Dribbble](https://img.shields.io/badge/Dribbble-Shots-001D4A?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/syedahmershah) | UI shots & design work |
+| [![Pinterest](https://img.shields.io/badge/Pinterest-ahmershahdev-5A6B85?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/ahmershahdev) | Professional |
 
 </div>
 
