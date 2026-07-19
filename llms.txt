@@ -1,0 +1,35 @@
+# Syed Ahmer Shah
+
+> Full-stack web developer and software engineering student from Hyderabad, Pakistan. Builds modern web applications, scalable backend systems, and maintainable software with a focus on clean code, security, and long-term reliability.
+
+- DOB: 29 October 2006
+- Location: Hyderabad, Pakistan
+- Tagline: "Designing order within the digital wilderness."
+- Current focus: PHP/Laravel, MySQL, WordPress, MERN stack (expanding)
+- Freelancing: WordPress, full-stack web development
+
+## Core Tech Stack
+
+PHP, Laravel, MySQL, HTML5, CSS3, JavaScript, jQuery, Bootstrap, Tailwind CSS,
+WordPress, Git, Java, Firebase, Supabase, Vercel, SEO
+
+## Education
+
+- B.S. Software Engineering — HITMS (Nov 2024 – Dec 2028)
+- ADSE — Aptech Pakistan (Aug 2025 – Sep 2028)
+
+## Featured Project
+
+- [Commerza](https://github.com/ahmershahdev/Commerza): Production-grade PHP + MySQL e-commerce platform with secure admin dashboard, cart, Stripe + COD checkout, CSRF, CAPTCHA, rate limiting, audit logs, and stock locking.
+
+## Primary Links
+
+- [Portfolio](https://ahmershah.dev/)
+- [GitHub](https://github.com/ahmershahdev)
+- [LinkedIn](https://linkedin.com/in/syedahmershah)
+- [Dev.to](https://dev.to/syedahmershah)
+- [All Links](https://linktr.ee/syedahmershah)
+
+## Full Reference
+
+See [llms-full](llms-full.txt) for complete profile, all social links, certifications, and project details.
