@@ -21,7 +21,7 @@
 <h3 align="center">Designing order within the digital wilderness.</h3>
 
 <p align="center">
-Syed Ahmer Shah is a Software Engineering student/undergraduate, full-stack web developer, and WordPress developer on freelancing platforms, based in Hyderabad, Pakistan — building practical, production-grade software while documenting the process in public.
+Syed Ahmer Shah is a Software Engineering student/undergraduate, full-stack developer, and WordPress developer on freelancing platforms, based in Hyderabad, Pakistan — building practical, production-grade software while documenting the process in public.
 </p>
 
 <div align="center">
@@ -190,13 +190,13 @@ Every profile below is verified and actively maintained, grouped by purpose so y
 
 | | |
 |:---|:---|
-| [![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-39B54A?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/ahmershahdev) | WordPress / Elementor Pro gigs |
-| [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-39B54A?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01d033487ce8ecd83f) | Full-stack development contracts |
-| [![PeoplePerHour](https://img.shields.io/badge/PeoplePerHour-Hire%20Me-39B54A?style=for-the-badge)](https://www.peopleperhour.com/freelancer/technology-programming/syed_ahmer-shah-syed-ahmer-shah-full-stack-web-zxqqamxq) | Full-stack web development |
-| [![Freelancer](https://img.shields.io/badge/Freelancer-Profile-001D4A?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/syedahmershah) | Project bidding profile |
-| [![Contra](https://img.shields.io/badge/Contra-Profile-001D4A?style=for-the-badge)](https://contra.com/syedahmershah?referralExperimentNid=DEFAULT_REFERRAL_PROGRAM&referrerUsername=syedahmershah) | Commission-free freelance profile |
-| [![Workchest](https://img.shields.io/badge/Workchest-Profile-001D4A?style=for-the-badge)](https://workchest.com/freelancer/syedahmershah) | Freelance marketplace profile |
-| [![Guru](https://img.shields.io/badge/Guru-Profile-001D4A?style=for-the-badge)](https://www.guru.com/freelancers/syed-ahmer-shah) | Freelance marketplace profile |
+| [![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-39B54A?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/ahmershahdev) | Full-Stack Web & App Development · E-commerce Websites · CMS (Shopify & WordPress) · Writing |
+| [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-39B54A?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01d033487ce8ecd83f) | Full-Stack Web & App Development · E-commerce Websites · CMS (Shopify & WordPress) · Writing |
+| [![PeoplePerHour](https://img.shields.io/badge/PeoplePerHour-Hire%20Me-39B54A?style=for-the-badge)](https://www.peopleperhour.com/freelancer/technology-programming/syed_ahmer-shah-syed-ahmer-shah-full-stack-web-zxqqamxq) | Full-Stack Web & App Development · E-commerce Websites · CMS (Shopify & WordPress) · Writing |
+| [![Freelancer](https://img.shields.io/badge/Freelancer-Profile-001D4A?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/syedahmershah) | Full-Stack Web & App Development · E-commerce Websites · CMS (Shopify & WordPress) · Writing |
+| [![Contra](https://img.shields.io/badge/Contra-Profile-001D4A?style=for-the-badge)](https://contra.com/syedahmershah?referralExperimentNid=DEFAULT_REFERRAL_PROGRAM&referrerUsername=syedahmershah) | Full-Stack Web & App Development · E-commerce Websites · CMS (Shopify & WordPress) · Writing |
+| [![Workchest](https://img.shields.io/badge/Workchest-Profile-001D4A?style=for-the-badge)](https://workchest.com/freelancer/syedahmershah) | Full-Stack Web & App Development · E-commerce Websites · CMS (Shopify & WordPress) · Writing |
+| [![Guru](https://img.shields.io/badge/Guru-Profile-001D4A?style=for-the-badge)](https://www.guru.com/freelancers/syed-ahmer-shah) | Full-Stack Web & App Development · E-commerce Websites · CMS (Shopify & WordPress) · Writing |
 
 </div>
 
@@ -212,7 +212,6 @@ Every profile below is verified and actively maintained, grouped by purpose so y
 | [![Wellfound](https://img.shields.io/badge/Wellfound-Startup%20Profile-001D4A?style=for-the-badge&logo=angellist&logoColor=white)](https://wellfound.com/u/syedahmershah) | Startup jobs & talent network |
 | [![Crunchbase](https://img.shields.io/badge/Crunchbase-Profile-001D4A?style=for-the-badge&logo=crunchbase&logoColor=white)](https://www.crunchbase.com/person/syed-ahmer-shah) | Professional business profile |
 | [![Arc.dev](https://img.shields.io/badge/Arc.dev-Developer%20Profile-001D4A?style=for-the-badge)](https://arc.dev/@syedahmershah?preview=1) | Vetted remote developer network |
-| [![AWS Builder](https://img.shields.io/badge/AWS%20Builder-Community-001D4A?style=for-the-badge&logo=amazonaws&logoColor=white)](http://builder.aws.com/community/syedahmershah) | AWS builder community profile |
 | [![Bluesky](https://img.shields.io/badge/Bluesky-Follow-001D4A?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/syedahmershah.bsky.social) | Professional microblogging |
 
 </div>
@@ -226,7 +225,7 @@ Every profile below is verified and actively maintained, grouped by purpose so y
 | [![Instagram](https://img.shields.io/badge/Instagram-@ahmershahdev-001D4A?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahmershahdev) | Dev content & behind the scenes |
 | [![TikTok](https://img.shields.io/badge/TikTok-@ahmershahdev-001D4A?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@ahmershahdev) | Short-form dev content |
 | [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-001D4A?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ahmershahdev) | Long-form dev content |
-| [![Facebook](https://img.shields.io/badge/Facebook-ahmershahdev-001D4A?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ahmershahdev) | Business page |
+| [![Facebook](https://img.shields.io/badge/Facebook-ahmershahdev-001D4A?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ahmershahdev) | Developer Page |
 | [![X](https://img.shields.io/badge/Follow-@ahmershahdev-001D4A?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ahmershahdev) | Dev updates & threads |
 
 </div>
@@ -241,12 +240,14 @@ Every profile below is verified and actively maintained, grouped by purpose so y
 
 | | |
 |:---|:---|
-| [![Medium](https://img.shields.io/badge/Medium-Blog-001D4A?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@syedahmershah) | Long-form technical writing |
-| [![Dev.to](https://img.shields.io/badge/dev.to-Articles-001D4A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/syedahmershah) | Developer articles & guides |
-| [![Hashnode](https://img.shields.io/badge/Hashnode-Blog-001D4A?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@syedahmershah) | Personal dev blog |
-| [![Substack](https://img.shields.io/badge/Substack-Newsletter-001D4A?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@syedahmershah) | Newsletter & essays |
-| [![HackerNoon](https://img.shields.io/badge/HackerNoon-Author-001D4A?style=for-the-badge&logo=hackernoon&logoColor=white)](https://hackernoon.com/u/syedahmershah) | Published tech articles |
-| [![Sessionize](https://img.shields.io/badge/Sessionize-Speaker%20Profile-001D4A?style=for-the-badge&logo=sessionize&logoColor=white)](https://sessionize.com/syedahmershah) | Speaking engagements |
+| [![Medium](https://img.shields.io/badge/Medium-Blog-001D4A?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@syedahmershah) | AWS & Software Engineering Articles |
+| [![AWS Builder](https://img.shields.io/badge/AWS%20Builder-Community-001D4A?style=for-the-badge&logo=amazonaws&logoColor=white)](http://builder.aws.com/community/syedahmershah) | AWS Projects & Engineering Practices |
+| [![CoderLegion](https://img.shields.io/badge/Coder-Legion%20Profile-001D4A?style=for-the-badge&logo=coderlegion&logoColor=white)](https://coderlegion.com/user/syedahmershah) | Programming & Software Engineering Guides |
+| [![Dev.to](https://img.shields.io/badge/dev.to-Articles-001D4A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/syedahmershah) | Developer Tutorials & Technical Guides |
+| [![Hashnode](https://img.shields.io/badge/Hashnode-Blog-001D4A?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@syedahmershah) | Architecture & Software Development Insights |
+| [![Substack](https://img.shields.io/badge/Substack-Newsletter-001D4A?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@syedahmershah) | Engineering Essays & Technology Perspectives |
+| [![HackerNoon](https://img.shields.io/badge/HackerNoon-Author-001D4A?style=for-the-badge&logo=hackernoon&logoColor=white)](https://hackernoon.com/u/syedahmershah) | Programming, AWS & Emerging Technology |
+| [![Sessionize](https://img.shields.io/badge/Sessionize-Speaker%20Profile-001D4A?style=for-the-badge&logo=sessionize&logoColor=white)](https://sessionize.com/syedahmershah) | AWS & Software Engineering Talks |
 
 </div>
 
@@ -279,6 +280,26 @@ Every profile below is verified and actively maintained, grouped by purpose so y
 | [![Behance](https://img.shields.io/badge/Behance-Portfolio-001D4A?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/syedahmershah) | Visual & design portfolio |
 | [![Dribbble](https://img.shields.io/badge/Dribbble-Shots-001D4A?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/syedahmershah) | UI shots & design work |
 | [![Pinterest](https://img.shields.io/badge/Pinterest-ahmershahdev-5A6B85?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/ahmershahdev) | Professional |
+
+</div>
+
+</details>
+
+<details>
+<summary><strong>🏢 B2B, Business & Review Profiles</strong></summary>
+<br>
+
+<div align="center">
+
+| | |
+|:---|:---|
+| [![TechBehemoths](https://img.shields.io/badge/TechBehemoths-B2B%20Company%20Profile-001D4A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://techbehemoths.com/company/syed-ahmer-shah) | B2B company profile & ratings |
+| [![Clutch](https://img.shields.io/badge/Clutch-Business%20Profile-001D4A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://clutch.co/profile/syed-ahmer-shah) | Business & agency profile |
+| [![DesignRush](https://img.shields.io/badge/DesignRush-Agency%20Profile-001D4A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.designrush.com/agency/profile/syed-ahmer-shah) | Agency profile & directory |
+| [![Edverise](https://img.shields.io/badge/Edverise-Professional%20Profile-001D4A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://edverise.com/profile/syed-ahmer-shah) | Professional profile |
+| [![Trustpilot](https://img.shields.io/badge/Trustpilot-Reviews%20%26%20Reputation-39B54A?style=for-the-badge&logo=trustpilot&logoColor=white)](https://www.trustpilot.com/review/ahmershah.dev) | Client reviews & reputation |
+| [![Feedbax](https://img.shields.io/badge/Feedbax-Agency%20Profile%20%26%20Reviews-001D4A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://feedbax.ai/profile/syed-ahmer-shah) | B2B agency profile & reviews |
+| [![G2](https://img.shields.io/badge/G2-Product%20Reviews-001D4A?style=for-the-badge&logo=g2&logoColor=white)](https://www.g2.com/products/syed-ahmer-shah/reviews#product_2016818_media) | Product reviews & profile |
 
 </div>
 
