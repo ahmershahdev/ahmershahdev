@@ -1,26 +1,30 @@
 # Syed Ahmer Shah
 
-> Full-stack web developer and software engineering student from Hyderabad, Pakistan. Builds modern web applications, scalable backend systems, and maintainable software with a focus on clean code, security, and long-term reliability.
+> Syed Ahmer Shah (@ahmershahdev) is a full-stack web developer, Laravel and WordPress developer, and Software Engineering undergraduate from Hyderabad, Pakistan. He builds production-grade web applications — secure Laravel/PHP back-ends, React front-ends and e-commerce platforms — with a focus on clean code, security and long-term reliability.
 
 - DOB: 29 October 2006
-- Location: Hyderabad, Pakistan
+- Location: Hyderabad, Sindh, Pakistan
 - Tagline: "Designing order within the digital wilderness."
-- Current focus: PHP/Laravel, MySQL, WordPress, MERN stack (expanding)
-- Freelancing: WordPress, full-stack web development
+- Roles: Full-Stack Developer · Software Engineering Undergraduate · WordPress & E-commerce Developer · Freelancer
+- Current focus: Laravel + React (Inertia.js) products; expanding into the MERN stack and cross-platform apps
+- Available for: freelance full-stack web & app development, e-commerce websites, CMS (Shopify & WordPress), technical writing
 
 ## Core Tech Stack
 
-PHP, Laravel, MySQL, HTML5, CSS3, JavaScript, jQuery, Bootstrap, Tailwind CSS,
-WordPress, Git, Java, Firebase, Supabase, Vercel, SEO
+PHP, Laravel, JavaScript, TypeScript, React, Inertia.js, MySQL, HTML5, CSS3,
+Tailwind CSS, Bootstrap, jQuery, Three.js, Java, WordPress, Firebase, Supabase,
+Vercel, Git, Playwright, SEO
+
+## Featured Projects
+
+- [GleanGrid](https://github.com/ahmershahdev/GleanGrid): Farmers-market pre-order platform for Hyderabad. Laravel 12 + React 19 (Inertia SSR), MySQL row-locked checkout, Easypaisa/JazzCash/card/cash payments, 8 languages with RTL, PWA, nonce CSP, 133 tests.
+- [BookMyMovie](https://github.com/ahmershahdev/bookmymovie): Cinema ticket booking for Pakistan. Laravel 12 + React 19 + TypeScript, live and 3D (Three.js) seat maps, trailers, signed QR e-tickets with Apple/Google Wallet passes, food add-ons, loyalty points, gift cards, Urdu and offline PWA.
+- [Commerza](https://github.com/ahmershahdev/commerza): Security-first PHP + MySQL e-commerce platform with storefront and admin dashboard, Stripe + COD checkout, CSRF, CAPTCHA, rate limiting, audit logs and stock locking.
 
 ## Education
 
-- B.S. Software Engineering — HITMS (Nov 2024 – Dec 2028)
-- ADSE — Aptech Pakistan (Aug 2025 – Sep 2028)
-
-## Featured Project
-
-- [Commerza](https://github.com/ahmershahdev/Commerza): Production-grade PHP + MySQL e-commerce platform with secure admin dashboard, cart, Stripe + COD checkout, CSRF, CAPTCHA, rate limiting, audit logs, and stock locking.
+- B.S. Software Engineering — Hyderabad Institute For Technology & Management Science (Nov 2024 – Dec 2028)
+- ADSE (Advanced Diploma in Software Engineering) — Aptech Pakistan (Aug 2025 – Sep 2028)
 
 ## Primary Links
 
@@ -28,8 +32,10 @@ WordPress, Git, Java, Firebase, Supabase, Vercel, SEO
 - [GitHub](https://github.com/ahmershahdev)
 - [LinkedIn](https://linkedin.com/in/syedahmershah)
 - [Dev.to](https://dev.to/syedahmershah)
+- [Fiverr](https://www.fiverr.com/ahmershahdev)
+- [Upwork](https://www.upwork.com/freelancers/~01d033487ce8ecd83f)
 - [All Links](https://linktr.ee/syedahmershah)
 
-## Full Reference
+## Optional
 
-See [llms-full](llms-full.txt) for complete profile, all social links, certifications, and project details.
+- [Full reference](llms-full.txt): complete profile, every verified social and freelancing link, certifications and detailed project notes.

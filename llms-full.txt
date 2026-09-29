@@ -15,6 +15,10 @@
 - Tagline: "Designing order within the digital wilderness."
 - Dev Handle: @ahmershahdev
 - Personal Handle: @ahmershah29
+- Roles: Full-Stack Developer, Software Engineering Undergraduate,
+  WordPress & E-commerce Developer, Freelancer
+- Logo: https://github.com/ahmershahdev/ahmershahdev/blob/master/assets/logo-circular.webp
+  (brand colours: navy #0F2C54 and green #39B54A)
 
 ---
 
@@ -27,8 +31,8 @@ Bachelor's degree in Software Engineering at HITMS while simultaneously
 completing a three-year Advanced Diploma in Software Engineering (ADSE) at
 Aptech Pakistan, both expected to be completed in 2028.
 
-His primary areas of work include PHP, Laravel, MySQL, WordPress, HTML, CSS,
-JavaScript, Tailwind CSS, Bootstrap, Git, and SEO. He develops responsive
+His primary areas of work include PHP, Laravel, React, TypeScript, Inertia.js,
+MySQL, WordPress, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, Git, and SEO. He develops responsive
 websites and backend-driven applications with an emphasis on clean code,
 efficient database design, security, and long-term maintainability.
 
@@ -53,11 +57,15 @@ the MERN stack and cross-platform application development.
 ### Languages
 - PHP
 - JavaScript
+- TypeScript
 - Java
 - HTML5
 - CSS3
 
 ### Frontend
+- React
+- Inertia.js
+- Three.js
 - Bootstrap
 - Tailwind CSS
 - jQuery
@@ -79,6 +87,9 @@ the MERN stack and cross-platform application development.
 
 ### Other
 - SEO (Search Engine Optimization)
+- Web security (CSP, CSRF, rate limiting, row locking)
+- Progressive Web Apps (PWA)
+- End-to-end testing (Playwright)
 
 ---
 
@@ -95,15 +106,37 @@ the MERN stack and cross-platform application development.
 
 ## Projects
 
+### GleanGrid — Farmers-Market Pre-Order Platform
+- Repository: https://github.com/ahmershahdev/GleanGrid
+- Context: Aptech TechWiz 7 (MarketLink · eGreen Basket), Hyderabad, Sindh, Pakistan
+- Stack: Laravel 12, React 19, Inertia.js (SSR), Tailwind CSS, MySQL, PWA, Playwright
+- Description: Customers pre-order this week's harvest from Hyderabad's farmers
+  markets, pay with Easypaisa, JazzCash, card or cash, and collect at the stall.
+  Farmers publish weekly stock, prices and pickup windows; administrators approve
+  stalls, moderate content and read platform reports. Features MySQL row-locked
+  checkout to prevent overselling, 8 languages including right-to-left Urdu and
+  Arabic, light and dark themes, nonce-based CSP, and 133 passing tests in CI.
+
+### BookMyMovie — Cinema Ticket Booking for Pakistan
+- Repository: https://github.com/ahmershahdev/bookmymovie
+- Context: Aptech DISM project
+- Stack: Laravel 12, React 19, Inertia.js, TypeScript (strict), Tailwind CSS 4,
+  MySQL 8 / MariaDB, Three.js, PWA
+- Description: Full-stack cinema booking platform with no page reloads. Visitors
+  browse films, watch trailers, pick seats on a live map or inside a 3D model of
+  the hall, add food and book. Customers receive signed QR e-tickets that work
+  offline and can be added to Apple or Google Wallet. Includes loyalty points,
+  gift cards, verified-booking reviews, an Urdu interface, and a back office with
+  live occupancy, ticket scanning, refunds and audit logging.
+
 ### Commerza — Full Stack E-commerce Platform
-- Repository: https://github.com/ahmershahdev/Commerza
-- Stack: PHP, MySQL, HTML5, Bootstrap, jQuery, JavaScript
+- Repository: https://github.com/ahmershahdev/commerza
+- Stack: PHP, MySQL, HTML5, Bootstrap, jQuery, JavaScript, Stripe
 - Description: Production-grade e-commerce platform with a modern storefront
   and secure admin dashboard. Includes product management, shopping cart,
   user authentication, checkout (COD + Stripe), order management, reviews,
   and enterprise-grade security: CSRF protection, CAPTCHA, rate limiting,
   audit logs, and stock locking.
-- README: https://github.com/ahmershahdev/commerza/blob/main/README.md
 
 ---
 
@@ -166,6 +199,7 @@ Full LinkedIn list: https://linkedin.com/in/syedahmershah
 - Hashnode: https://hashnode.com/@syedahmershah
 - Substack: https://substack.com/@syedahmershah
 - HackerNoon: https://hackernoon.com/u/syedahmershah
+- CoderLegion: https://coderlegion.com/user/syedahmershah
 - Sessionize (Speaking): https://sessionize.com/syedahmershah
 
 ### Coding & Problem Solving
@@ -176,6 +210,16 @@ Full LinkedIn list: https://linkedin.com/in/syedahmershah
 ### Design
 - Behance: https://www.behance.net/syedahmershah
 - Dribbble: https://dribbble.com/syedahmershah
+- Pinterest (professional): https://pinterest.com/ahmershahdev
+
+### B2B, Business & Reviews
+- TechBehemoths: https://techbehemoths.com/company/syed-ahmer-shah
+- Clutch: https://clutch.co/profile/syed-ahmer-shah
+- DesignRush: https://www.designrush.com/agency/profile/syed-ahmer-shah
+- Edverise: https://edverise.com/profile/syed-ahmer-shah
+- Trustpilot: https://www.trustpilot.com/review/ahmershah.dev
+- Feedbax: https://feedbax.ai/profile/syed-ahmer-shah
+- G2: https://www.g2.com/products/syed-ahmer-shah/reviews
 
 ### Personal Profiles (@ahmershah29)
 - Instagram: https://www.instagram.com/ahmershah29/
@@ -191,6 +235,7 @@ Full LinkedIn list: https://linkedin.com/in/syedahmershah
 - Via portfolio: https://ahmershah.dev/
 - Via LinkedIn: https://linkedin.com/in/syedahmershah
 - Via Linktree: https://linktr.ee/syedahmershah
+- Hire: https://www.fiverr.com/ahmershahdev · https://www.upwork.com/freelancers/~01d033487ce8ecd83f
 
 ---
 
