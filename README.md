@@ -1,5 +1,5 @@
 <!--
-  Syed Ahmer Shah (@ahmershahdev) — Full-Stack Developer, Laravel & WordPress Developer,
+  Syed Ahmer Shah (@ahmershahdev) — Full-Stack Developer, Laravel & MERN Developer,
   Software Engineering undergraduate from Hyderabad, Pakistan. Portfolio: https://ahmershah.dev/
 -->
 
@@ -10,12 +10,12 @@
 <h1 align="center">Syed Ahmer Shah — Full-Stack Developer &amp; Software Engineer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=39B54A&center=true&vCenter=true&random=false&width=520&lines=Software+Engineering+Undergraduate;Full-Stack+Developer+%C2%B7+Laravel+%2B+React;WordPress+%26+E-commerce+Engineer;Building+Scalable+Web+Applications;Crafting+Digital+Experiences" alt="Software Engineering Undergraduate · Full-Stack Developer · Laravel + React · WordPress & E-commerce Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=39B54A&center=true&vCenter=true&random=false&width=520&lines=Software+Engineering+Undergraduate;Full-Stack+Developer+%C2%B7+Laravel+%2B+React;Shopify+%26+E-commerce+Engineer;Building+Scalable+Web+Applications;Crafting+Digital+Experiences" alt="Software Engineering Undergraduate · Full-Stack Developer · Laravel + React · Shopify & E-commerce Engineer" />
 </p>
 
 <p align="center">
   I build <strong>production-grade web applications</strong> — secure Laravel &amp; PHP back-ends, fast React front-ends and
-  conversion-focused <strong>e-commerce &amp; WordPress</strong> sites — from Hyderabad, Pakistan, and document the process in public.
+  conversion-focused <strong>e-commerce &amp; Shopify</strong> sites — from Hyderabad, Pakistan, and document the process in public.
 </p>
 
 <p align="center">
