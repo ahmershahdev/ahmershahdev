@@ -1,7 +1,7 @@
 <!--
   Syed Ahmer Shah (@ahmershahdev) — Full-Stack Developer, Laravel & MERN Developer,
   Software Engineering undergraduate from Hyderabad, Pakistan. Portfolio: https://ahmershah.dev/
--->
+--> 
 
 <a href="https://ahmershah.dev/">
   <img src="assets/banner.svg" width="100%" alt="Syed Ahmer Shah — Full-Stack Developer and Software Engineer from Hyderabad, Pakistan. Designing order within the digital wilderness." />
