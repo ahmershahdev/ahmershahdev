@@ -1,345 +1,277 @@
 <!--
-  Syed Ahmer Shah (@ahmershahdev) — Full-Stack Developer, Laravel & MERN Developer,
+  Syed Ahmer Shah (@ahmershahdev) — Software Engineer & Full-Stack Developer (Laravel · Django · MERN · MySQL · Shopify),
   Software Engineering undergraduate from Hyderabad, Pakistan. Portfolio: https://ahmershah.dev/
---> 
+-->
 
 <a href="https://ahmershah.dev/">
-  <img src="assets/banner.svg" width="100%" alt="Syed Ahmer Shah — Full-Stack Developer and Software Engineer from Hyderabad, Pakistan. Designing order within the digital wilderness." />
+  <img src="assets/banner.svg" width="100%" alt="Syed Ahmer Shah — Software Engineer and Full-Stack Developer from Hyderabad, Pakistan. Designing order within the digital wilderness." />
 </a>
 
-<h1 align="center">Syed Ahmer Shah — Full-Stack Developer &amp; Software Engineer</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=39B54A&center=true&vCenter=true&random=false&width=520&lines=Software+Engineering+Undergraduate;Full-Stack+Developer+%C2%B7+Laravel+%2B+React;Shopify+%26+E-commerce+Engineer;Building+Scalable+Web+Applications;Crafting+Digital+Experiences" alt="Software Engineering Undergraduate · Full-Stack Developer · Laravel + React · Shopify & E-commerce Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=4CC22E&center=true&vCenter=true&width=560&lines=Software+Engineer+%C2%B7+Full-Stack+Developer;Laravel+%C2%B7+Django+%C2%B7+React+%C2%B7+MySQL;Five+platforms+built+solo+in+2026;676+LeetCode+problems+solved;Designing+order+within+the+digital+wilderness." alt="Software Engineer · Full-Stack Developer · Laravel · Django · React · MySQL" />
 </p>
 
 <p align="center">
-  I build <strong>production-grade web applications</strong> — secure Laravel &amp; PHP back-ends, fast React front-ends and
-  conversion-focused <strong>e-commerce &amp; Shopify</strong> sites — from Hyderabad, Pakistan, and document the process in public.
+  I design, build and ship web applications end to end — schema, backend, interface, security and deployment.<br>
+  In 2026 I built <strong>five production-grade platforms solo</strong> and completed a full-stack internship at <strong>XCL Technologies</strong>.
 </p>
 
 <p align="center">
-  <a href="https://ahmershah.dev/"><img src="https://img.shields.io/badge/Portfolio-ahmershah.dev-39B54A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F2C54" alt="Portfolio — ahmershah.dev" /></a>
-  <a href="https://linkedin.com/in/syedahmershah"><img src="https://img.shields.io/badge/LinkedIn-0F2C54?style=for-the-badge&logo=linkedin&logoColor=white" alt="Syed Ahmer Shah on LinkedIn" /></a>
-  <a href="https://github.com/ahmershahdev"><img src="https://img.shields.io/badge/GitHub-0F2C54?style=for-the-badge&logo=github&logoColor=white" alt="ahmershahdev on GitHub" /></a>
-  <a href="https://www.fiverr.com/ahmershahdev"><img src="https://img.shields.io/badge/Fiverr-0F2C54?style=for-the-badge&logo=fiverr&logoColor=white" alt="Hire Syed Ahmer Shah on Fiverr" /></a>
-  <a href="https://www.upwork.com/freelancers/~01d033487ce8ecd83f"><img src="https://img.shields.io/badge/Upwork-0F2C54?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire Syed Ahmer Shah on Upwork" /></a>
+  <a href="https://ahmershah.dev/"><img src="https://img.shields.io/badge/Portfolio-ahmershah.dev-4cc22e?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0b0d11" alt="Portfolio — ahmershah.dev" /></a>
+  <a href="https://ahmershah.dev/docs/syed-ahmer-shah-resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-1e4fd8?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0b0d11" alt="Résumé (PDF)" /></a>
+  <a href="https://linkedin.com/in/syedahmershah"><img src="https://img.shields.io/badge/LinkedIn-Connect-0b0d11?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjZmZmZmZmIj48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4K" alt="Syed Ahmer Shah on LinkedIn" /></a>
+  <a href="https://leetcode.com/u/syedahmershah"><img src="https://img.shields.io/badge/LeetCode-676%20solved-0b0d11?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="676 LeetCode problems solved" /></a>
+  <a href="https://www.fiverr.com/ahmershahdev"><img src="https://img.shields.io/badge/Fiverr-Hire%20me-0b0d11?style=for-the-badge&logo=fiverr&logoColor=1DBF73" alt="Hire Syed Ahmer Shah on Fiverr" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmershahdev&color=0F2C54&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/ahmershahdev?label=Followers&style=flat-square&color=39B54A&labelColor=0F2C54" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=39B54A&labelColor=0F2C54&label=Total%20Stars&query=stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fahmershahdev&style=flat-square" alt="Total GitHub stars" />
-  <img src="https://img.shields.io/badge/Design%20%C2%B7%20Sync%20%C2%B7%20Energize-39B54A?style=flat-square&labelColor=0F2C54" alt="Design · Sync · Energize" />
+  <img src="https://img.shields.io/badge/Platforms%20built%20solo-5-4cc22e?style=flat-square&labelColor=0b0d11" alt="5 platforms built solo" />
+  <img src="https://img.shields.io/badge/Verified%20certificates-13-4cc22e?style=flat-square&labelColor=0b0d11" alt="13 verified certificates" />
+  <img src="https://img.shields.io/badge/Articles%20published-40%2B-4cc22e?style=flat-square&labelColor=0b0d11" alt="40+ articles published" />
+  <img src="https://img.shields.io/github/followers/ahmershahdev?label=Followers&style=flat-square&color=1e4fd8&labelColor=0b0d11" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=ahmershahdev&color=1e4fd8&style=flat-square&label=Profile+views" alt="Profile views" />
 </p>
 
-<br>
-
-<p align="center"><sub><a href="#01--about">About</a> &nbsp;·&nbsp; <a href="#02--selected-work">Selected Work</a> &nbsp;·&nbsp; <a href="#03--stack">Stack</a> &nbsp;·&nbsp; <a href="#04--education">Education</a> &nbsp;·&nbsp; <a href="#05--certifications">Certifications</a> &nbsp;·&nbsp; <a href="#06--find-syed-ahmer-shah-online">Find Me Online</a></sub></p>
+<p align="center"><sub><a href="#01--about">About</a> &nbsp;·&nbsp; <a href="#02--selected-work">Selected work</a> &nbsp;·&nbsp; <a href="#03--stack">Stack</a> &nbsp;·&nbsp; <a href="#04--certifications">Certifications</a> &nbsp;·&nbsp; <a href="#05--education">Education</a> &nbsp;·&nbsp; <a href="#06--find-me-online">Find me online</a></sub></p>
 
 ---
 
 ## 01 — About
 
-Software Engineering undergraduate, **full-stack developer** and **WordPress developer** on freelancing platforms. I care about the parts users never see — row-locked checkouts, CSRF and rate limits, clean database design — so the parts they do see stay fast and trustworthy.
+Software engineering undergraduate (BSE at HITMS + ADSE at Aptech, both to 2028) and full-stack developer. I care about the parts users never see — row-locked checkouts, verified payment webhooks, tenant isolation, clean schemas — so the parts they do see stay fast and trustworthy.
 
 ```js
 const ahmer = {
   name: "Syed Ahmer Shah",
-  pronouns: "He/Him",
-  role: "Software Engineering Undergraduate · Full-Stack Developer",
-  location: "Hyderabad, Pakistan",
-  code: ["PHP", "JavaScript", "TypeScript", "Java", "HTML5", "CSS3"],
-  askMeAbout: ["Web Dev", "E-commerce", "OOP", "Web Security", "SEO"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Inertia.js", "jQuery", "Vanilla JS"],
-      css: ["Tailwind CSS", "Bootstrap", "CSS"],
-    },
-    backEnd: {
-      php: ["Laravel"],
-      java: ["Core Java"],
-    },
-    databases: ["MySQL"],
-    platforms: ["WordPress", "Firebase", "Supabase", "Vercel"],
-    tools: ["Git", "Playwright"],
-  },
-  currentFocus: "Laravel + React products · expanding into MERN & cross-platform apps",
-  funFact: "I can turn coffee into code! ☕→💻",
+  role: "Software Engineer · Full-Stack Developer",
+  basedIn: "Hyderabad, Pakistan · UTC+5 · open to remote",
+  builds: ["Laravel + React (Inertia)", "Django REST + React", "PHP + MySQL"],
+  strongest: { java: "advanced", dsa: "advanced · 676 LeetCode solved", sql: "row locking, views, constraints" },
+  shipped2026: ["HolidayOps", "Zovita+", "BookMyMovie", "GleanGrid", "Commerza"],
+  learningNext: ["Deeper Laravel", "TypeScript", "System design"],
+  motto: "Design, Sync, Energize.",
 };
 ```
 
 ---
 
-## 02 — Selected Work
+## 02 — Selected work
 
-<!-- ─────────────── 01 · GleanGrid ─────────────── -->
+<!-- ─────────────── 01 · HolidayOps ─────────────── -->
 
-<a href="https://github.com/ahmershahdev/GleanGrid">
-  <img src="assets/projects/gleangrid.webp" width="100%" alt="GleanGrid — farmers-market pre-order platform for Hyderabad built with Laravel 12 and React 19, home page screenshot" />
+<a href="https://ahmershah.dev/projects/holidayops">
+  <img src="assets/projects/holidayops.webp" width="100%" alt="HolidayOps — Working-Days API for 250 Countries — screenshot" />
 </a>
 
-### GleanGrid — Farmers-Market Pre-Order Platform
+### 01 · HolidayOps — Working-Days API for 250 Countries
 
-**Farm fresh, just a click away.** Customers reserve this week's harvest from Hyderabad's farmers markets, pay with Easypaisa, JazzCash, card or cash, and collect it at the stall. Built for Aptech TechWiz 7.
+**Every working day, in every country.** A REST API, iCal feeds, digests and signed webhooks answering one question for payroll, HR and logistics teams: is this date a working day — here and in our other offices?
 
-- **Race-condition-proof checkout** — MySQL row locking so the last mango is sold exactly once
-- **Three roles** — customers, farmers and admins, each with their own dashboard
-- **8 languages** including right-to-left Urdu and Arabic, light &amp; dark themes, installable PWA
-- **Hardened &amp; tested** — nonce-based CSP, Inertia SSR for SEO, 133 passing tests with Playwright CI
+- **250 countries, 624 regions**, each with its own weekend rules (Friday–Saturday, Saturday–Sunday, Friday only)
+- **Pure-Python domain layer with 100% branch coverage**; 481 automated tests across 43 pull requests
+- **Security by default** — tenant isolation tested on every endpoint, hashed API keys, DNS-rebinding-proof SSRF guard, replay-proof TOTP
+- English, Urdu and right-to-left Arabic; the public site is server-rendered with no JavaScript
 
 <p>
-  <img src="https://img.shields.io/badge/Laravel%2012-0F2C54?style=flat-square&logo=laravel&logoColor=white" alt="Laravel 12" />
-  <img src="https://img.shields.io/badge/React%2019-0F2C54?style=flat-square&logo=react&logoColor=white" alt="React 19" />
-  <img src="https://img.shields.io/badge/Inertia%20SSR-0F2C54?style=flat-square&logo=inertia&logoColor=white" alt="Inertia.js SSR" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-0F2C54?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/MySQL-0F2C54?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PWA-0F2C54?style=flat-square&logo=pwa&logoColor=white" alt="Progressive Web App" />
-  <img src="https://img.shields.io/badge/Playwright%20E2E-0F2C54?style=flat-square" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Django%205.2-0b0d11?style=flat-square&logo=django&logoColor=white" alt="Django 5.2" />
+  <img src="https://img.shields.io/badge/REST%20Framework-0b0d11?style=flat-square&logo=django&logoColor=white" alt="REST Framework" />
+  <img src="https://img.shields.io/badge/React%2019-0b0d11?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
+  <img src="https://img.shields.io/badge/TypeScript-0b0d11?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/MySQL%208-0b0d11?style=flat-square&logo=mysql&logoColor=white" alt="MySQL 8" />
+  <img src="https://img.shields.io/badge/Redis%20%C2%B7%20Celery-0b0d11?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis · Celery" />
+  <img src="https://img.shields.io/badge/Docker-0b0d11?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
 </p>
 
-<a href="https://github.com/ahmershahdev/GleanGrid"><img src="https://img.shields.io/badge/View%20on%20GitHub-ahmershahdev%2FGleanGrid-39B54A?style=for-the-badge&logo=github&logoColor=white&labelColor=0F2C54" alt="GleanGrid source code on GitHub" /></a>
+<a href="https://ahmershah.dev/projects/holidayops"><img src="https://img.shields.io/badge/Case%20study-ahmershah.dev-4cc22e?style=for-the-badge&labelColor=0b0d11" alt="HolidayOps case study" /></a>
+<a href="https://github.com/ahmershahdev/holidayops"><img src="https://img.shields.io/badge/Source-ahmershahdev%2Fholidayops-1e4fd8?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0d11" alt="HolidayOps source on GitHub" /></a>
 
-<br>
+<br><br>
 
-<!-- ─────────────── 02 · BookMyMovie ─────────────── -->
+<!-- ─────────────── 02 · Zovita+ ─────────────── -->
 
-<a href="https://github.com/ahmershahdev/bookmymovie">
-  <img src="assets/projects/bookmymovie.webp" width="100%" alt="BookMyMovie — cinema ticket booking platform for Pakistan with live and 3D seat maps, home page screenshot" />
+<a href="https://ahmershah.dev/projects/zovita">
+  <img src="assets/projects/zovita.webp" width="100%" alt="Zovita+ — Online Pharmacy Platform — screenshot" />
 </a>
 
-### BookMyMovie — Cinema Ticket Booking for Pakistan
+### 02 · Zovita+ — Online Pharmacy Platform
 
-A full-stack cinema platform with no page reloads: browse films, watch trailers, pick seats on a live map — or from inside a **3D model of the hall** — add snacks and book. Built for the Aptech DISM project.
+A 1,186-product pharmacy across 8 departments with prescription upload, a **3D body-map symptom finder** and an English/Urdu interface.
 
-- **Live &amp; 3D seat maps** with row-tier pricing, "best seats together" and a 10-minute hold
-- **Signed QR e-tickets** that work offline and go straight into Apple or Google Wallet
-- **Food add-ons, loyalty points &amp; gift cards**, verified-booking reviews and an Urdu interface
-- **Back office** — live occupancy per screen, refunds, ticket scanning and a full audit log
+- **Checkout in one transaction** — `SELECT … FOR UPDATE` in id order and a conditional stock decrement: stock can't be oversold, a double-submit returns the original order
+- **Card payments confirmed only by HMAC-SHA256-verified, replay-protected Stripe webhooks**
+- Staff admin with per-role permissions and TOTP 2FA, ClamAV upload scanning, 24 drug-interaction rules before payment, 201 automated tests
 
 <p>
-  <img src="https://img.shields.io/badge/Laravel%2012-0F2C54?style=flat-square&logo=laravel&logoColor=white" alt="Laravel 12" />
-  <img src="https://img.shields.io/badge/React%2019-0F2C54?style=flat-square&logo=react&logoColor=white" alt="React 19" />
-  <img src="https://img.shields.io/badge/TypeScript-0F2C54?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Three.js-0F2C54?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS%204-0F2C54?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS 4" />
-  <img src="https://img.shields.io/badge/MySQL%208-0F2C54?style=flat-square&logo=mysql&logoColor=white" alt="MySQL 8" />
-  <img src="https://img.shields.io/badge/PWA-0F2C54?style=flat-square&logo=pwa&logoColor=white" alt="Progressive Web App" />
+  <img src="https://img.shields.io/badge/Laravel%2012-0b0d11?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel 12" />
+  <img src="https://img.shields.io/badge/React%2019-0b0d11?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
+  <img src="https://img.shields.io/badge/Inertia%202%20SSR-0b0d11?style=flat-square&logo=inertia&logoColor=9553E9" alt="Inertia 2 SSR" />
+  <img src="https://img.shields.io/badge/MySQL-0b0d11?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Stripe-0b0d11?style=flat-square&logo=stripe&logoColor=635BFF" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Three.js-0b0d11?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Playwright%20%C2%B7%20201%20tests-0b0d11?style=flat-square" alt="Playwright · 201 tests" />
 </p>
 
-<a href="https://github.com/ahmershahdev/bookmymovie"><img src="https://img.shields.io/badge/View%20on%20GitHub-ahmershahdev%2Fbookmymovie-39B54A?style=for-the-badge&logo=github&logoColor=white&labelColor=0F2C54" alt="bookmymovie source code on GitHub" /></a>
+<a href="https://ahmershah.dev/projects/zovita"><img src="https://img.shields.io/badge/Case%20study-ahmershah.dev-4cc22e?style=for-the-badge&labelColor=0b0d11" alt="Zovita+ case study" /></a>
+<a href="https://github.com/ahmershahdev/zovita"><img src="https://img.shields.io/badge/Source-ahmershahdev%2Fzovita-1e4fd8?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0d11" alt="Zovita+ source on GitHub" /></a>
 
-<br>
+<br><br>
 
-<!-- ─────────────── 03 · Commerza ─────────────── -->
+<!-- ─────────────── 03 · BookMyMovie ─────────────── -->
 
-<a href="https://github.com/ahmershahdev/commerza">
-  <img src="assets/projects/commerza.webp" width="100%" alt="Commerza — security-first PHP and MySQL e-commerce platform with storefront and admin dashboard" />
+<a href="https://ahmershah.dev/projects/bookmymovie">
+  <img src="assets/projects/bookmymovie.webp" width="100%" alt="BookMyMovie — Cinema Ticketing Platform — screenshot" />
 </a>
 
-### Commerza — Full-Stack E-commerce Platform
+### 03 · BookMyMovie — Cinema Ticketing Platform
 
-The **security-first PHP + MySQL engine** for modern digital commerce. Built for speed, designed for developers, hardened for production — a modern storefront and a secure admin dashboard, written without a framework.
+Browse films, watch trailers and pick seats on a live map — or from inside a **3D model of the hall** — then add snacks and book. 56-table schema with 9 reporting views, 49 screens.
 
-- **Complete storefront** — catalogue, search, cart, wishlist, compare, reviews and order tracking
-- **Checkout** — Cash on Delivery + Stripe with server-side verification, coupons and stock locking
-- **Enterprise security** — CSRF, CAPTCHA, rate limiting, idempotency and audit logs
-- **Admin operations** — KPIs, product &amp; order management, refunds and role-based sub-admins
+- **Zero double-sold seats** — deterministic row-lock ordering, a database-enforced unique live-ticket key, idempotent checkout
+- **Offline QR e-tickets** with Apple and Google Wallet passes, split bills, loyalty points and gift cards
+- Back office for three roles with TOTP 2FA, ticket scanner, refunds and audit log; full Urdu RTL; Lighthouse 100 accessibility & SEO
 
 <p>
-  <img src="https://img.shields.io/badge/PHP-0F2C54?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-0F2C54?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/JavaScript-0F2C54?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/jQuery-0F2C54?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" />
-  <img src="https://img.shields.io/badge/Bootstrap-0F2C54?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/HTML5-0F2C54?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Stripe-0F2C54?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Laravel%2012-0b0d11?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel 12" />
+  <img src="https://img.shields.io/badge/React%2019-0b0d11?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
+  <img src="https://img.shields.io/badge/TypeScript-0b0d11?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Three.js-0b0d11?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/MySQL%208-0b0d11?style=flat-square&logo=mysql&logoColor=white" alt="MySQL 8" />
+  <img src="https://img.shields.io/badge/PWA-0b0d11?style=flat-square&logo=pwa&logoColor=5A0FC8" alt="PWA" />
 </p>
 
-<a href="https://github.com/ahmershahdev/commerza"><img src="https://img.shields.io/badge/View%20on%20GitHub-ahmershahdev%2Fcommerza-39B54A?style=for-the-badge&logo=github&logoColor=white&labelColor=0F2C54" alt="commerza source code on GitHub" /></a>
+<a href="https://ahmershah.dev/projects/bookmymovie"><img src="https://img.shields.io/badge/Case%20study-ahmershah.dev-4cc22e?style=for-the-badge&labelColor=0b0d11" alt="BookMyMovie case study" /></a>
+<a href="https://github.com/ahmershahdev/bookmymovie"><img src="https://img.shields.io/badge/Source-ahmershahdev%2Fbookmymovie-1e4fd8?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0d11" alt="BookMyMovie source on GitHub" /></a>
+
+<br><br>
+
+<!-- ─────────────── 04 · GleanGrid ─────────────── -->
+
+<a href="https://ahmershah.dev/projects/gleangrid">
+  <img src="assets/projects/gleangrid.webp" width="100%" alt="GleanGrid — Farmers-Market Pre-Orders · Aptech TechWiz 7 — screenshot" />
+</a>
+
+### 04 · GleanGrid — Farmers-Market Pre-Orders · Aptech TechWiz 7
+
+**Farm fresh, just a click away.** Customers reserve this week's harvest and collect it at the stall. Three role workspaces, 62 screens, 8 languages including right-to-left Urdu and Arabic.
+
+- **A 50-process stress test** exposed a REPEATABLE READ stale-snapshot oversell (20 orders into a 3-place window); a locking read fixed it
+- Idempotent payments with HMAC-verified gateway callbacks; live market map and QR pickup passes
+- **133 PHPUnit tests (779 assertions)**, Playwright end-to-end and GitHub Actions on PHP 8.2 and 8.3
+
+<p>
+  <img src="https://img.shields.io/badge/Laravel%2012-0b0d11?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel 12" />
+  <img src="https://img.shields.io/badge/React%2019-0b0d11?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
+  <img src="https://img.shields.io/badge/Inertia%20SSR-0b0d11?style=flat-square&logo=inertia&logoColor=9553E9" alt="Inertia SSR" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS%204-0b0d11?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS 4" />
+  <img src="https://img.shields.io/badge/MySQL-0b0d11?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Leaflet-0b0d11?style=flat-square&logo=leaflet&logoColor=199900" alt="Leaflet" />
+</p>
+
+<a href="https://ahmershah.dev/projects/gleangrid"><img src="https://img.shields.io/badge/Case%20study-ahmershah.dev-4cc22e?style=for-the-badge&labelColor=0b0d11" alt="GleanGrid case study" /></a>
+<a href="https://github.com/ahmershahdev/GleanGrid"><img src="https://img.shields.io/badge/Source-ahmershahdev%2FGleanGrid-1e4fd8?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0d11" alt="GleanGrid source on GitHub" /></a>
+
+<br><br>
+
+<!-- ─────────────── 05 · Commerza ─────────────── -->
+
+<a href="https://ahmershah.dev/projects/commerza">
+  <img src="assets/projects/commerza.webp" width="100%" alt="Commerza — Security-First E-commerce Engine — screenshot" />
+</a>
+
+### 05 · Commerza — Security-First E-commerce Engine
+
+A framework-free production platform — **339 files, 136 commits**: storefront, admin with sub-admin roles, coupons, reviews, order tracking, Google and Facebook sign-in, Stripe and cash on delivery.
+
+- **Transactional stock locking** and prepared statements on every write path
+- CSRF tokens, reCAPTCHA v2/v3, Argon2id, ClamAV scanning, audit logs and SMTP failover
+- **CI security gate on every push**
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-0b0d11?style=flat-square&logo=php&logoColor=777BB4" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-0b0d11?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/JavaScript-0b0d11?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-0b0d11?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Redis-0b0d11?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis" />
+  <img src="https://img.shields.io/badge/Stripe-0b0d11?style=flat-square&logo=stripe&logoColor=635BFF" alt="Stripe" />
+</p>
+
+<a href="https://ahmershah.dev/projects/commerza"><img src="https://img.shields.io/badge/Case%20study-ahmershah.dev-4cc22e?style=for-the-badge&labelColor=0b0d11" alt="Commerza case study" /></a>
+<a href="https://github.com/ahmershahdev/commerza"><img src="https://img.shields.io/badge/Source-ahmershahdev%2Fcommerza-1e4fd8?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0d11" alt="Commerza source on GitHub" /></a>
 
 ---
 
 ## 03 — Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://ahmershah.dev/#skills">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=php,laravel,js,ts,react,html,css,tailwind,bootstrap,jquery,java,mysql,wordpress,firebase,supabase,vercel,git&perline=9&theme=light" />
-      <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,html,css,tailwind,bootstrap,jquery,java,mysql,wordpress,firebase,supabase,vercel,git&perline=9&theme=dark" alt="Tech stack: PHP, Laravel, JavaScript, TypeScript, React, HTML5, CSS3, Tailwind CSS, Bootstrap, jQuery, Java, MySQL, WordPress, Firebase, Supabase, Vercel, Git" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=php,laravel,java,python,django,js,ts,react,html,css,tailwind,bootstrap,nodejs,express,mongodb,mysql,git,github,vercel&perline=10&theme=light" />
+      <img src="https://skillicons.dev/icons?i=php,laravel,java,python,django,js,ts,react,html,css,tailwind,bootstrap,nodejs,express,mongodb,mysql,git,github,vercel&perline=10&theme=dark" alt="Stack: PHP, Laravel, Java, Python, Django, JavaScript, TypeScript, React, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, Express, MongoDB, MySQL, Git, GitHub, Vercel" />
     </picture>
   </a>
 </p>
 
-| Area | Tools |
+| Area | Skill · level — same scale as [ahmershah.dev](https://ahmershah.dev/#skills) |
 |:---|:---|
-| **Languages** | PHP · JavaScript · TypeScript · Java · HTML5 · CSS3 |
-| **Front-end** | React · Inertia.js · Tailwind CSS · Bootstrap · jQuery · Three.js |
-| **Back-end** | Laravel · Core Java |
-| **Data** | MySQL · Firebase · Supabase |
-| **Platforms** | WordPress · Shopify · Vercel · Git / GitHub |
-| **Craft** | SEO · Web security · Accessibility · PWA · Playwright testing |
+| **Languages** | HTML5 `●●●●●` · CSS3 `●●●●●` · JavaScript `●●●●●` · Java `●●●●○` · PHP `●●●○○` · Python `●●●○○` |
+| **Frameworks & UI** | Bootstrap `●●●●●` · React `●●●●○` · Laravel `●●●○○` · Tailwind CSS `●●○○○` |
+| **Backend & data** | Node.js `●●●●○` · Express `●●●●○` · MySQL `●●●○○` · MongoDB `●●●○○` · SQL Server `●●●○○` · Django `●●●○○` |
+| **Fundamentals** | Data structures & algorithms `●●●●○` · OOP `●●●○○` |
+| **Platforms & tools** | Git `●●●●●` · GitHub `●●●●●` · SEO `●●●●●` · Shopify `●●●○○` |
+| **AI toolkit** | ChatGPT · Claude · Claude Code · Codex · Gemini · DeepSeek |
 
 ---
 
-## 04 — Education
+## 04 — Certifications
+
+The same 13 credentials shown on [ahmershah.dev](https://ahmershah.dev/#certificates) — every one links to the issuer's own verification page.
+
+| Certificate | Issuer | Issued | Verify |
+|:---|:---|:---|:---|
+| Amazon Junior Software Developer | Amazon · Coursera | Mar 2026 | [Verify ↗](https://coursera.org/verify/professional-cert/NEGKTAK9KKN2) |
+| Full Stack Web Development | Amazon · Coursera | Mar 2025 | [Verify ↗](https://coursera.org/verify/7GGU5A4WMN5H) |
+| Full-Stack Web Development (PHP, HTML, CSS & JavaScript) | Board Infinity · Coursera | Mar 2026 | [Verify ↗](https://coursera.org/verify/specialization/AWJ2ZT3N85YT) |
+| IBM DevOps and Software Engineering | IBM · Coursera | Mar 2026 | [Verify ↗](https://coursera.org/verify/professional-cert/ECD16Q89GXCD) |
+| Meta Full Stack Developer (Front-End & Back-End) | Meta · Coursera | Mar 2026 | [Verify ↗](https://coursera.org/verify/specialization/4TU862MW0V5P) |
+| Microsoft Full-Stack Developer | Microsoft · Coursera | Mar 2026 | [Verify ↗](https://coursera.org/verify/professional-cert/V6FN6XK6SEKF) |
+| Fullstack Development | Scrimba · Coursera | Mar 2026 | [Verify ↗](https://coursera.org/verify/specialization/UHNV3UJ8ULTY) |
+| Become a Software Developer | LinkedIn Learning | Mar 2025 | [Verify ↗](https://www.linkedin.com/learning/certificates/59c5bd7f8949c26268fea7e3bd9c4321f52f0c0bb6757edd8f3c06518b0d80b5) |
+| Learning SQL Programming | LinkedIn Learning | Mar 2025 | [Verify ↗](https://www.linkedin.com/learning/certificates/81f714852a43a1c119ededdbc994335ad59c3df2355b5b0fe098d0a12dbed24d) |
+| Succeeding in Web Development: Full Stack & Front End | LinkedIn Learning | Mar 2025 | [Verify ↗](https://www.linkedin.com/learning/certificates/682b0a7dbbfc148e89eb7531f6faefa2f915435e44d80849e3af01b0b8eec6ad) |
+| JavaScript (Intermediate) | HackerRank | Mar 2026 | [Verify ↗](https://www.hackerrank.com/certificates/47DA08F71692) |
+| SQL (Advanced) | HackerRank | Mar 2026 | [Verify ↗](https://www.hackerrank.com/certificates/C77C1661CD96) |
+| Software Engineer Intern | HackerRank | Mar 2026 | [Verify ↗](https://www.hackerrank.com/certificates/B44B013B3E29) |
+
+---
+
+## 05 — Education
 
 | Period | Institution | Program |
 |:---|:---|:---|
-| Nov 2024 – Dec 2028 | Hyderabad Institute For Technology & Management Science | Bachelor's in Software Engineering |
+| Nov 2024 – Dec 2028 | Hyderabad Institute for Technology & Management Sciences (HITMS) | Bachelor's in Software Engineering |
 | Aug 2025 – Sep 2028 | Aptech Pakistan | Advanced Diploma in Software Engineering (ADSE) |
-| Jul 2022 – Jul 2024 | Superior College of Science, Hyderabad | HSC, Pre-Engineering |
-| Apr 2012 – Jul 2022 | St. Bonaventure's High School, Hyderabad (City Branch) | SSC, Computer Science |
+| Jul 2022 – Jul 2024 | Superior College of Science, Hyderabad | HSC, Pre-Engineering · Grade A |
+| Apr 2012 – Jul 2022 | St. Bonaventure's High School, Hyderabad | SSC, Computer Science · A-1 |
 
 ---
 
-## 05 — Certifications
+## 06 — Find me online
 
-<details>
-<summary><strong>20+ verified certifications — click to expand</strong></summary>
-<br>
+<p align="center">
+  <a href="https://ahmershah.dev/"><img src="https://img.shields.io/badge/ahmershah.dev-Website-4cc22e?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0b0d11" alt="Website" /></a>
+  <a href="mailto:sales@ahmershah.dev"><img src="https://img.shields.io/badge/sales%40ahmershah.dev-New%20projects-4cc22e?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0b0d11" alt="sales@ahmershah.dev" /></a>
+  <a href="https://calendly.com/syedahmershah"><img src="https://img.shields.io/badge/Calendly-Book%20a%20call-1e4fd8?style=for-the-badge&logo=calendly&logoColor=white&labelColor=0b0d11" alt="Book a call on Calendly" /></a>
+</p>
 
-| Certification | Issuer | Date | Credential ID |
-|:---|:---|:---|:---|
-| IBM iOS and Android Mobile App Developer | Coursera | Mar 2026 | O5XTNLP93YFL |
-| Meta React Native | Coursera | Mar 2026 | DYOMSGSDW68E |
-| JavaScript Programming with React, Node & MongoDB | Coursera | Mar 2026 | 0ZVBSCIPTMIE |
-| IBM Full Stack Software Developer | IBM via Coursera | Mar 2026 | GKN6NX33K09T |
-| IBM JavaScript Backend Developer | IBM via Coursera | Mar 2026 | FHUZZ7YUTQP9 |
-| Microsoft Full-Stack Developer | Microsoft via Coursera | Mar 2026 | V6FN6XK6SEKF |
-| SQL Associate | DataCamp | Apr 2026 (valid thru Apr 2028) | SQA0010634184425 |
-| Software Engineer Intern | HackerRank | Mar 2026 | b44b013b3e29 |
-| JavaScript (Intermediate) | HackerRank | Mar 2026 | 47da08f71692 |
-| CSS (Basic) | HackerRank | Mar 2026 | 4236a29e0662 |
-
-Full list with verifiable credential links: [LinkedIn](https://linkedin.com/in/syedahmershah) · [Credly](https://www.credly.com/users/syedahmershah/)
-
-</details>
-
----
-
-## 06 — Find Syed Ahmer Shah Online
-
-Every profile below is verified and actively maintained, grouped by purpose so you land on the right one on the first click.
-
-### Website & Business
-
-| | |
+| Purpose | Profiles |
 |:---|:---|
-| [![Website](https://img.shields.io/badge/ahmershah.dev-Official%20Website-0F2C54?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ahmershah.dev/) | Portfolio, services & contact |
-| [![Google Business](https://img.shields.io/badge/Google%20Business-Verified%20Profile-0F2C54?style=for-the-badge&logo=google&logoColor=white)](https://g.page/r/CS9yn4Q_UhZ4EBM) | Verified local business listing |
-| [![Linktree](https://img.shields.io/badge/Linktree-All%20Links-39B54A?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/syedahmershah) | Single link to everything |
-| [![Beacons](https://img.shields.io/badge/Beacons-Link%20Hub-39B54A?style=for-the-badge)](https://beacons.ai/syedahmershah) | Alternate link hub |
-| [![Gravatar](https://img.shields.io/badge/Gravatar-Profile-0F2C54?style=for-the-badge&logo=gravatar&logoColor=white)](https://gravatar.com/syedahmershah) | Universal profile & avatar |
-
-### Freelancing — Hire Me
-
-<sub>Full-Stack Web & App Development · E-commerce Websites · CMS (Shopify & WordPress) · Writing</sub>
-
-| | |
-|:---|:---|
-| [![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-39B54A?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/ahmershahdev) | Hire on Fiverr — web, app & e-commerce gigs |
-| [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-39B54A?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01d033487ce8ecd83f) | Hire on Upwork — hourly & fixed-price projects |
-| [![PeoplePerHour](https://img.shields.io/badge/PeoplePerHour-Hire%20Me-39B54A?style=for-the-badge)](https://www.peopleperhour.com/freelancer/technology-programming/syed_ahmer-shah-syed-ahmer-shah-full-stack-web-zxqqamxq) | Hire on PeoplePerHour |
-| [![Freelancer](https://img.shields.io/badge/Freelancer-Profile-0F2C54?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/syedahmershah) | Freelancer.com profile |
-| [![Contra](https://img.shields.io/badge/Contra-Profile-0F2C54?style=for-the-badge)](https://contra.com/syedahmershah?referralExperimentNid=DEFAULT_REFERRAL_PROGRAM&referrerUsername=syedahmershah) | Commission-free freelance profile |
-| [![Workchest](https://img.shields.io/badge/Workchest-Profile-0F2C54?style=for-the-badge)](https://workchest.com/freelancer/syedahmershah) | Workchest freelancer profile |
-| [![Guru](https://img.shields.io/badge/Guru-Profile-0F2C54?style=for-the-badge)](https://www.guru.com/freelancers/syed-ahmer-shah) | Guru freelancer profile |
-
-### Professional Networking
-
-| | |
-|:---|:---|
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0F2C54?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedahmershah) | Career profile & network |
-| [![LinkedIn Company Page](https://img.shields.io/badge/LinkedIn-Company%20Page-0F2C54?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/syedahmershah) | Brand / business page |
-| [![GitHub](https://img.shields.io/badge/GitHub-Follow-0F2C54?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmershahdev) | Code, repos & open source |
-| [![Wellfound](https://img.shields.io/badge/Wellfound-Startup%20Profile-0F2C54?style=for-the-badge&logo=angellist&logoColor=white)](https://wellfound.com/u/syedahmershah) | Startup jobs & talent network |
-| [![Crunchbase](https://img.shields.io/badge/Crunchbase-Profile-0F2C54?style=for-the-badge&logo=crunchbase&logoColor=white)](https://www.crunchbase.com/person/syed-ahmer-shah) | Professional business profile |
-| [![Arc.dev](https://img.shields.io/badge/Arc.dev-Developer%20Profile-0F2C54?style=for-the-badge)](https://arc.dev/@syedahmershah?preview=1) | Vetted remote developer network |
-| [![Bluesky](https://img.shields.io/badge/Bluesky-Follow-0F2C54?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/syedahmershah.bsky.social) | Professional microblogging |
-
-### Brand & Content — @ahmershahdev
-
-| | |
-|:---|:---|
-| [![Instagram](https://img.shields.io/badge/Instagram-@ahmershahdev-0F2C54?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahmershahdev) | Dev content & behind the scenes |
-| [![TikTok](https://img.shields.io/badge/TikTok-@ahmershahdev-0F2C54?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@ahmershahdev) | Short-form dev content |
-| [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-0F2C54?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ahmershahdev) | Long-form dev content |
-| [![Facebook](https://img.shields.io/badge/Facebook-ahmershahdev-0F2C54?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ahmershahdev) | Developer page |
-| [![X](https://img.shields.io/badge/Follow-@ahmershahdev-0F2C54?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ahmershahdev) | Dev updates & threads |
-
-<br>
-
-<details>
-<summary><strong>✍️ Writing & Blogging</strong></summary>
-<br>
-
-| | |
-|:---|:---|
-| [![Medium](https://img.shields.io/badge/Medium-Blog-0F2C54?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@syedahmershah) | AWS & Software Engineering Articles |
-| [![AWS Builder](https://img.shields.io/badge/AWS%20Builder-Community-0F2C54?style=for-the-badge&logo=amazonaws&logoColor=white)](http://builder.aws.com/community/syedahmershah) | AWS Projects & Engineering Practices |
-| [![CoderLegion](https://img.shields.io/badge/Coder-Legion%20Profile-0F2C54?style=for-the-badge&logo=coderlegion&logoColor=white)](https://coderlegion.com/user/syedahmershah) | Programming & Software Engineering Guides |
-| [![Dev.to](https://img.shields.io/badge/dev.to-Articles-0F2C54?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/syedahmershah) | Developer Tutorials & Technical Guides |
-| [![Hashnode](https://img.shields.io/badge/Hashnode-Blog-0F2C54?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@syedahmershah) | Architecture & Software Development Insights |
-| [![Substack](https://img.shields.io/badge/Substack-Newsletter-0F2C54?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@syedahmershah) | Engineering Essays & Technology Perspectives |
-| [![HackerNoon](https://img.shields.io/badge/HackerNoon-Author-0F2C54?style=for-the-badge&logo=hackernoon&logoColor=white)](https://hackernoon.com/u/syedahmershah) | Programming, AWS & Emerging Technology |
-| [![Sessionize](https://img.shields.io/badge/Sessionize-Speaker%20Profile-0F2C54?style=for-the-badge&logo=sessionize&logoColor=white)](https://sessionize.com/syedahmershah) | AWS & Software Engineering Talks |
-
-</details>
-
-<details>
-<summary><strong>💻 Coding & Problem Solving</strong></summary>
-<br>
-
-| | |
-|:---|:---|
-| [![LeetCode](https://img.shields.io/badge/LeetCode-Progress-0F2C54?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/syedahmershah) | DSA problem-solving journey |
-| [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-0F2C54?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/profile/syedahmershah) | Coding challenges & scores |
-| [![Credly](https://img.shields.io/badge/Credly-Certifications-0F2C54?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/syedahmershah/) | Verified certifications |
-
-</details>
-
-<details>
-<summary><strong>🎨 Design & Portfolio</strong></summary>
-<br>
-
-| | |
-|:---|:---|
-| [![Behance](https://img.shields.io/badge/Behance-Portfolio-0F2C54?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/syedahmershah) | Visual & design portfolio |
-| [![Dribbble](https://img.shields.io/badge/Dribbble-Shots-0F2C54?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/syedahmershah) | UI shots & design work |
-| [![Pinterest](https://img.shields.io/badge/Pinterest-ahmershahdev-5A6B85?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/ahmershahdev) | Professional |
-
-</details>
-
-<details>
-<summary><strong>🏢 B2B, Business & Review Profiles</strong></summary>
-<br>
-
-| | |
-|:---|:---|
-| [![TechBehemoths](https://img.shields.io/badge/TechBehemoths-B2B%20Company%20Profile-0F2C54?style=for-the-badge&logo=googlechrome&logoColor=white)](https://techbehemoths.com/company/syed-ahmer-shah) | B2B company profile & ratings |
-| [![Clutch](https://img.shields.io/badge/Clutch-Business%20Profile-0F2C54?style=for-the-badge&logo=googlechrome&logoColor=white)](https://clutch.co/profile/syed-ahmer-shah) | Business & agency profile |
-| [![DesignRush](https://img.shields.io/badge/DesignRush-Agency%20Profile-0F2C54?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.designrush.com/agency/profile/syed-ahmer-shah) | Agency profile & directory |
-| [![Edverise](https://img.shields.io/badge/Edverise-Professional%20Profile-0F2C54?style=for-the-badge&logo=googlechrome&logoColor=white)](https://edverise.com/profile/syed-ahmer-shah) | Professional profile |
-| [![Trustpilot](https://img.shields.io/badge/Trustpilot-Reviews%20%26%20Reputation-39B54A?style=for-the-badge&logo=trustpilot&logoColor=white)](https://www.trustpilot.com/review/ahmershah.dev) | Client reviews & reputation |
-| [![Feedbax](https://img.shields.io/badge/Feedbax-Agency%20Profile%20%26%20Reviews-0F2C54?style=for-the-badge&logo=googlechrome&logoColor=white)](https://feedbax.ai/profile/syed-ahmer-shah) | B2B agency profile & reviews |
-| [![G2](https://img.shields.io/badge/G2-Product%20Reviews-0F2C54?style=for-the-badge&logo=g2&logoColor=white)](https://www.g2.com/products/syed-ahmer-shah/reviews#product_2016818_media) | Product reviews & profile |
-
-</details>
-
-<details>
-<summary><strong>👤 Personal profiles (not dev-related)</strong></summary>
-<br>
-
-| | |
-|:---|:---|
-| [![Instagram](https://img.shields.io/badge/Instagram-@ahmershah29-5A6B85?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmershah29/?hl=en) | Personal |
-| [![Facebook](https://img.shields.io/badge/Facebook-ahmershah29-5A6B85?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ahmershah29) | Personal |
-| [![X](https://img.shields.io/badge/Follow-@ahmershah29-5A6B85?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ahmershah29) | Personal |
-| [![TikTok](https://img.shields.io/badge/TikTok-ahmershah29-5A6B85?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/ahmershah29) | Personal |
-| [![Pinterest](https://img.shields.io/badge/Pinterest-ahmershah29-5A6B85?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/ahmershah29) | Personal |
-
-</details>
+| **Hire me** | [![Fiverr](https://img.shields.io/badge/Fiverr-0b0d11?style=flat-square&logo=fiverr&logoColor=1DBF73)](https://www.fiverr.com/ahmershahdev) [![Upwork](https://img.shields.io/badge/Upwork-0b0d11?style=flat-square&logo=upwork&logoColor=6FDA44)](https://www.upwork.com/freelancers/~01d033487ce8ecd83f) [![Freelancer](https://img.shields.io/badge/Freelancer-0b0d11?style=flat-square&logo=freelancer&logoColor=29B2FE)](https://www.freelancer.com/u/syedahmershah) [![Contra](https://img.shields.io/badge/Contra-0b0d11?style=flat-square)](https://contra.com/syedahmershah) [![PeoplePerHour](https://img.shields.io/badge/PeoplePerHour-0b0d11?style=flat-square)](https://www.peopleperhour.com/freelancer/technology-programming/syed_ahmer-shah-syed-ahmer-shah-full-stack-web-zxqqamxq) [![Guru](https://img.shields.io/badge/Guru-0b0d11?style=flat-square)](https://www.guru.com/freelancers/syed-ahmer-shah) |
+| **Career** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0b0d11?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjZmZmZmZmIj48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4K)](https://linkedin.com/in/syedahmershah) [![Wellfound](https://img.shields.io/badge/Wellfound-0b0d11?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjMuOTk4IDguMTI4Yy4wNjMtMS4zNzktMS42MTItMi4zNzYtMi43OTUtMS42NjQtMS4yMy41OTgtMS4zMjIgMi41Mi0uMTU2IDMuMjM0IDEuMi44NjIgMi45OTUtLjA5IDIuOTUxLTEuNTd6bTAgNy43NDhjLjA2My0xLjM4LTEuNjEyLTIuMzc3LTIuNzk1LTEuNjY1LTEuMjMuNTk4LTEuMzIyIDIuNTItLjE1NiAzLjIzNCAxLjIuODYzIDIuOTk1LS4wOSAyLjk1MS0xLjU3em0tMjAuNSAxLjc2MkwwIDYuMzY0aDMuMjU3bDIuMDY2IDguMTA2IDIuMjQ1LTguMTA2aDMuMjY3bDIuMjQ0IDguMTA2IDIuMDY1LTguMTA2aDMuMjU3bC0zLjU0IDExLjI3NEgxMS4zOWMtLjczLTIuNzEzLTEuNDYtNS40MjYtMi4xODgtOC4xNGwtMi4yMzMgOC4xNEgzLjV6Ii8%2BPC9zdmc%2B)](https://wellfound.com/u/syedahmershah) [![Arc.dev](https://img.shields.io/badge/Arc.dev-0b0d11?style=flat-square)](https://arc.dev/@syedahmershah) [![Crunchbase](https://img.shields.io/badge/Crunchbase-0b0d11?style=flat-square&logo=crunchbase&logoColor=white)](https://www.crunchbase.com/person/syed-ahmer-shah) |
+| **Code & proof** | [![LeetCode · 676 solved](https://img.shields.io/badge/LeetCode%20%C2%B7%20676%20solved-0b0d11?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/syedahmershah) [![HackerRank](https://img.shields.io/badge/HackerRank-0b0d11?style=flat-square&logo=hackerrank&logoColor=2EC866)](https://hackerrank.com/profile/syedahmershah) [![Credly](https://img.shields.io/badge/Credly-0b0d11?style=flat-square&logo=credly&logoColor=FF6B00)](https://www.credly.com/users/syedahmershah/) |
+| **Writing** | [![Medium](https://img.shields.io/badge/Medium-0b0d11?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@syedahmershah) [![dev.to](https://img.shields.io/badge/dev.to-0b0d11?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/syedahmershah) [![Hashnode](https://img.shields.io/badge/Hashnode-0b0d11?style=flat-square&logo=hashnode&logoColor=2962FF)](https://hashnode.com/@syedahmershah) [![HackerNoon](https://img.shields.io/badge/HackerNoon-0b0d11?style=flat-square&logo=hackernoon&logoColor=00FE00)](https://hackernoon.com/u/syedahmershah) [![Substack](https://img.shields.io/badge/Substack-0b0d11?style=flat-square&logo=substack&logoColor=FF6719)](https://substack.com/@syedahmershah) [![AWS Builder](https://img.shields.io/badge/AWS%20Builder-0b0d11?style=flat-square)](http://builder.aws.com/community/syedahmershah) [![CoderLegion](https://img.shields.io/badge/CoderLegion-0b0d11?style=flat-square)](https://coderlegion.com/user/syedahmershah) [![Sessionize](https://img.shields.io/badge/Sessionize-0b0d11?style=flat-square)](https://sessionize.com/syedahmershah) |
+| **Reviews & business** | [![Clutch](https://img.shields.io/badge/Clutch-0b0d11?style=flat-square)](https://clutch.co/profile/syed-ahmer-shah) [![Trustpilot](https://img.shields.io/badge/Trustpilot-0b0d11?style=flat-square&logo=trustpilot&logoColor=00B67A)](https://www.trustpilot.com/review/ahmershah.dev) [![G2](https://img.shields.io/badge/G2-0b0d11?style=flat-square&logo=g2&logoColor=FF492C)](https://www.g2.com/products/syed-ahmer-shah/reviews) [![DesignRush](https://img.shields.io/badge/DesignRush-0b0d11?style=flat-square)](https://www.designrush.com/agency/profile/syed-ahmer-shah) [![TechBehemoths](https://img.shields.io/badge/TechBehemoths-0b0d11?style=flat-square)](https://techbehemoths.com/company/syed-ahmer-shah) [![Google Business](https://img.shields.io/badge/Google%20Business-0b0d11?style=flat-square&logo=google&logoColor=white)](https://g.page/r/CS9yn4Q_UhZ4EBM) |
+| **Social · @ahmershahdev** | [![Instagram](https://img.shields.io/badge/Instagram-0b0d11?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/ahmershahdev) [![YouTube](https://img.shields.io/badge/YouTube-0b0d11?style=flat-square&logo=youtube&logoColor=FF0000)](https://youtube.com/@ahmershahdev) [![X](https://img.shields.io/badge/X-0b0d11?style=flat-square&logo=x&logoColor=white)](https://x.com/ahmershahdev) [![TikTok](https://img.shields.io/badge/TikTok-0b0d11?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@ahmershahdev) [![Facebook](https://img.shields.io/badge/Facebook-0b0d11?style=flat-square&logo=facebook&logoColor=0866FF)](https://www.facebook.com/ahmershahdev) [![Bluesky](https://img.shields.io/badge/Bluesky-0b0d11?style=flat-square&logo=bluesky&logoColor=0285FF)](https://bsky.app/profile/syedahmershah.bsky.social) |
+| **Links** | [![Linktree](https://img.shields.io/badge/Linktree-0b0d11?style=flat-square&logo=linktree&logoColor=43E55E)](https://linktr.ee/syedahmershah) [![Beacons](https://img.shields.io/badge/Beacons-0b0d11?style=flat-square)](https://beacons.ai/syedahmershah) [![Gravatar](https://img.shields.io/badge/Gravatar-0b0d11?style=flat-square&logo=gravatar&logoColor=white)](https://gravatar.com/syedahmershah) |
 
 ---
 
@@ -350,7 +282,7 @@ Every profile below is verified and actively maintained, grouped by purpose so y
 <p align="center"><em>"Designing order within the digital wilderness."</em><br><sub>— Syed Ahmer Shah</sub></p>
 
 <p align="center">
-  <a href="https://ahmershah.dev/"><img src="https://img.shields.io/badge/Let's%20build%20something-ahmershah.dev-39B54A?style=for-the-badge&labelColor=0F2C54" alt="Let's build something — ahmershah.dev" /></a>
+  <a href="https://ahmershah.dev/#contact"><img src="https://img.shields.io/badge/Let's%20build%20something-ahmershah.dev-4cc22e?style=for-the-badge&labelColor=0b0d11" alt="Let's build something — ahmershah.dev" /></a>
 </p>
 
-<p align="center"><sub>© 2026 Syed Ahmer Shah — All rights reserved.</sub></p>
+<p align="center"><sub>© 2026 Syed Ahmer Shah</sub></p>

@@ -1,242 +1,380 @@
-# Syed Ahmer Shah — Full LLM Reference
+# Syed Ahmer Shah — full context for language models
 
-> Syed Ahmer Shah is a full-stack web developer and software engineering student
-> from Hyderabad, Pakistan. He builds modern web applications, scalable backend
-> systems, and maintainable software solutions with a strong emphasis on security,
-> clean code, and efficient database design.
-
----
+Canonical URL: https://ahmershah.dev
+Last updated: 2026-10-23
+Entity: Syed Ahmer Shah (also "Ahmer Shah"; handles @syedahmershah, @ahmershahdev). Born 29 October 2006. Hyderabad, Sindh, Pakistan.
 
 ## Identity
 
-- Full Name: Syed Ahmer Shah
-- Date of Birth: 29 October 2006
-- Location: Hyderabad, Pakistan
-- Tagline: "Designing order within the digital wilderness."
-- Dev Handle: @ahmershahdev
-- Personal Handle: @ahmershah29
-- Roles: Full-Stack Developer, Software Engineering Undergraduate,
-  WordPress & E-commerce Developer, Freelancer
-- Logo: https://github.com/ahmershahdev/ahmershahdev/blob/master/assets/logo-circular.webp
-  (brand colours: navy #0F2C54 and green #39B54A)
+Syed Ahmer Shah — Full-Stack Web Developer & Software Engineering Student. Tagline: "Design, Sync, Energize".
 
----
+Syed Ahmer Shah is a full-stack web developer and software engineering student from Pakistan focused on building modern web applications, scalable backend systems, and maintainable software solutions. He is currently pursuing a Bachelor's degree in Software Engineering at HITMS while simultaneously completing a three-year Advanced Diploma in Software Engineering (ADSE) at Aptech Pakistan, both expected to be completed in 2028.
 
-## About
+His primary areas of work include PHP, Laravel, MySQL, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, Git, and SEO. He develops responsive websites and backend-driven applications with an emphasis on clean code, efficient database design, security, and long-term maintainability.
 
-Syed Ahmer Shah is a full-stack web developer and software engineering student
-from Pakistan focused on building modern web applications, scalable backend
-systems, and maintainable software solutions. He is currently pursuing a
-Bachelor's degree in Software Engineering at HITMS while simultaneously
-completing a three-year Advanced Diploma in Software Engineering (ADSE) at
-Aptech Pakistan, both expected to be completed in 2028.
+Beyond development, Ahmer actively shares technical knowledge through articles published across multiple platforms, with more than 30 published articles covering software development and emerging technologies.
 
-His primary areas of work include PHP, Laravel, React, TypeScript, Inertia.js,
-MySQL, WordPress, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, Git, and SEO. He develops responsive
-websites and backend-driven applications with an emphasis on clean code,
-efficient database design, security, and long-term maintainability.
+He has earned more than 20 professional certificates through internationally recognized learning platforms and regularly incorporates modern AI-powered development tools into his workflow while maintaining a strong focus on software engineering fundamentals and independent problem-solving.
 
-Beyond development, Ahmer actively shares technical knowledge through articles
-published across multiple platforms, with more than 30 published articles
-covering software development and emerging technologies.
+His long-term goal is to build reliable, scalable software products and establish a career creating technology that delivers practical value for businesses and users alike. He is currently expanding his expertise into the MERN stack and TypeScript.
 
-He has earned more than 20 professional certificates through internationally
-recognized learning platforms and regularly incorporates modern AI-powered
-development tools into his workflow while maintaining a strong focus on
-software engineering fundamentals and independent problem-solving.
-
-His long-term goal is to build reliable, scalable software products and
-establish a career creating technology that delivers practical value for
-businesses and users alike. He is currently expanding his expertise into
-the MERN stack and cross-platform application development.
-
----
-
-## Tech Stack
-
-### Languages
-- PHP
-- JavaScript
-- TypeScript
-- Java
-- HTML5
-- CSS3
-
-### Frontend
-- React
-- Inertia.js
-- Three.js
-- Bootstrap
-- Tailwind CSS
-- jQuery
-- Vanilla JavaScript
-
-### Backend
-- Laravel (PHP)
-- Core Java
-
-### Databases
-- MySQL
-
-### Platforms & Services
-- WordPress
-- Firebase
-- Supabase
-- Vercel
-- Git / GitHub
-
-### Other
-- SEO (Search Engine Optimization)
-- Web security (CSP, CSRF, rate limiting, row locking)
-- Progressive Web Apps (PWA)
-- End-to-end testing (Playwright)
-
----
-
-## Education
-
-| Period             | Institution                                              | Qualification                          |
-|--------------------|----------------------------------------------------------|----------------------------------------|
-| Nov 2024 – Dec 2028 | Hyderabad Institute For Technology & Management Science | Bachelor's in Software Engineering     |
-| Aug 2025 – Sep 2028 | Aptech Pakistan                                         | Advanced Diploma in Software Engineering (ADSE) |
-| Jul 2022 – Jul 2024 | Superior College of Science, Hyderabad                  | HSC, Pre-Engineering                   |
-| Apr 2012 – Jul 2022 | St. Bonaventure's High School, Hyderabad (City Branch)  | SSC, Computer Science                  |
-
----
-
-## Projects
-
-### GleanGrid — Farmers-Market Pre-Order Platform
-- Repository: https://github.com/ahmershahdev/GleanGrid
-- Context: Aptech TechWiz 7 (MarketLink · eGreen Basket), Hyderabad, Sindh, Pakistan
-- Stack: Laravel 12, React 19, Inertia.js (SSR), Tailwind CSS, MySQL, PWA, Playwright
-- Description: Customers pre-order this week's harvest from Hyderabad's farmers
-  markets, pay with Easypaisa, JazzCash, card or cash, and collect at the stall.
-  Farmers publish weekly stock, prices and pickup windows; administrators approve
-  stalls, moderate content and read platform reports. Features MySQL row-locked
-  checkout to prevent overselling, 8 languages including right-to-left Urdu and
-  Arabic, light and dark themes, nonce-based CSP, and 133 passing tests in CI.
-
-### BookMyMovie — Cinema Ticket Booking for Pakistan
-- Repository: https://github.com/ahmershahdev/bookmymovie
-- Context: Aptech DISM project
-- Stack: Laravel 12, React 19, Inertia.js, TypeScript (strict), Tailwind CSS 4,
-  MySQL 8 / MariaDB, Three.js, PWA
-- Description: Full-stack cinema booking platform with no page reloads. Visitors
-  browse films, watch trailers, pick seats on a live map or inside a 3D model of
-  the hall, add food and book. Customers receive signed QR e-tickets that work
-  offline and can be added to Apple or Google Wallet. Includes loyalty points,
-  gift cards, verified-booking reviews, an Urdu interface, and a back office with
-  live occupancy, ticket scanning, refunds and audit logging.
-
-### Commerza — Full Stack E-commerce Platform
-- Repository: https://github.com/ahmershahdev/commerza
-- Stack: PHP, MySQL, HTML5, Bootstrap, jQuery, JavaScript, Stripe
-- Description: Production-grade e-commerce platform with a modern storefront
-  and secure admin dashboard. Includes product management, shopping cart,
-  user authentication, checkout (COD + Stripe), order management, reviews,
-  and enterprise-grade security: CSRF protection, CAPTCHA, rate limiting,
-  audit logs, and stock locking.
-
----
-
-## Certifications (Selected — 20+ Total)
-
-- IBM iOS and Android Mobile App Developer — Coursera (Mar 2026) | ID: O5XTNLP93YFL
-- Meta React Native — Coursera (Mar 2026) | ID: DYOMSGSDW68E
-- JavaScript Programming with React, Node & MongoDB — Coursera (Mar 2026) | ID: 0ZVBSCIPTMIE
-- IBM Full Stack Software Developer — IBM via Coursera (Mar 2026) | ID: GKN6NX33K09T
-- IBM JavaScript Backend Developer — IBM via Coursera (Mar 2026) | ID: FHUZZ7YUTQP9
-- Microsoft Full-Stack Developer — Microsoft via Coursera (Mar 2026) | ID: V6FN6XK6SEKF
-- SQL Associate — DataCamp (Apr 2026, valid thru Apr 2028) | ID: SQA0010634184425
-- Software Engineer Intern — HackerRank (Mar 2026) | ID: b44b013b3e29
-- JavaScript Intermediate — HackerRank (Mar 2026) | ID: 47da08f71692
-- CSS Basic — HackerRank (Mar 2026) | ID: 4236a29e0662
-
-Full verified list: https://www.credly.com/users/syedahmershah/
-Full LinkedIn list: https://linkedin.com/in/syedahmershah
-
----
-
-## Online Presence
-
-### Website & Business
-- Portfolio: https://ahmershah.dev/
-- Google Business (verified): https://g.page/r/CS9yn4Q_UhZ4EBM
-- Linktree: https://linktr.ee/syedahmershah
-- Beacons: https://beacons.ai/syedahmershah
-- Gravatar: https://gravatar.com/syedahmershah
-
-### Freelancing
-- Fiverr: https://www.fiverr.com/ahmershahdev
-- Upwork: https://www.upwork.com/freelancers/~01d033487ce8ecd83f
-- PeoplePerHour: https://www.peopleperhour.com/freelancer/technology-programming/syed_ahmer-shah-syed-ahmer-shah-full-stack-web-zxqqamxq
-- Freelancer: https://www.freelancer.com/u/syedahmershah
-- Contra: https://contra.com/syedahmershah
-- Workchest: https://workchest.com/freelancer/syedahmershah
-- Guru: https://www.guru.com/freelancers/syed-ahmer-shah
-
-### Professional Networking
-- LinkedIn: https://linkedin.com/in/syedahmershah
-- LinkedIn (Company Page): https://linkedin.com/company/syedahmershah
-- GitHub: https://github.com/ahmershahdev
-- Wellfound: https://wellfound.com/u/syedahmershah
-- Crunchbase: https://www.crunchbase.com/person/syed-ahmer-shah
-- Arc.dev: https://arc.dev/@syedahmershah
-- AWS Builder Community: https://builder.aws.com/community/syedahmershah
-- Bluesky: https://bsky.app/profile/syedahmershah.bsky.social
-
-### Brand & Content (@ahmershahdev)
-- Instagram: https://instagram.com/ahmershahdev
-- TikTok: https://tiktok.com/@ahmershahdev
-- YouTube: https://youtube.com/@ahmershahdev
-- Facebook: https://www.facebook.com/ahmershahdev
-- X (Twitter): https://x.com/ahmershahdev
-
-### Writing & Publishing (30+ articles)
-- Dev.to: https://dev.to/syedahmershah
-- Medium: https://medium.com/@syedahmershah
-- Hashnode: https://hashnode.com/@syedahmershah
-- Substack: https://substack.com/@syedahmershah
-- HackerNoon: https://hackernoon.com/u/syedahmershah
-- CoderLegion: https://coderlegion.com/user/syedahmershah
-- Sessionize (Speaking): https://sessionize.com/syedahmershah
-
-### Coding & Problem Solving
-- LeetCode: https://leetcode.com/syedahmershah
-- HackerRank: https://hackerrank.com/profile/syedahmershah
-- Credly (Certifications): https://www.credly.com/users/syedahmershah/
-
-### Design
-- Behance: https://www.behance.net/syedahmershah
-- Dribbble: https://dribbble.com/syedahmershah
-- Pinterest (professional): https://pinterest.com/ahmershahdev
-
-### B2B, Business & Reviews
-- TechBehemoths: https://techbehemoths.com/company/syed-ahmer-shah
-- Clutch: https://clutch.co/profile/syed-ahmer-shah
-- DesignRush: https://www.designrush.com/agency/profile/syed-ahmer-shah
-- Edverise: https://edverise.com/profile/syed-ahmer-shah
-- Trustpilot: https://www.trustpilot.com/review/ahmershah.dev
-- Feedbax: https://feedbax.ai/profile/syed-ahmer-shah
-- G2: https://www.g2.com/products/syed-ahmer-shah/reviews
-
-### Personal Profiles (@ahmershah29)
-- Instagram: https://www.instagram.com/ahmershah29/
-- Facebook: https://www.facebook.com/ahmershah29
-- X (Twitter): https://x.com/ahmershah29
-- TikTok: https://tiktok.com/ahmershah29
-- Pinterest: https://pinterest.com/ahmershah29
-
----
+Facts: based in Hyderabad, PK; time zone Asia/Karachi (UTC+5); building since 2023; focus PHP · Laravel · MySQL · JS; learning MERN · TypeScript; degrees BSE @ HITMS · ADSE @ Aptech.
 
 ## Contact
 
-- Via portfolio: https://ahmershah.dev/
-- Via LinkedIn: https://linkedin.com/in/syedahmershah
-- Via Linktree: https://linktr.ee/syedahmershah
-- Hire: https://www.fiverr.com/ahmershahdev · https://www.upwork.com/freelancers/~01d033487ce8ecd83f
+- Support / projects: support@ahmershah.dev
+- Personal: syedahmershahofficial@gmail.com
+- Phone / WhatsApp: +92 370 4831994 (https://wa.me/923704831994)
+- Book a Zoom / Google Meet call: https://calendly.com/syedahmershah
+- Contact form (reCAPTCHA-protected, rate-limited): https://ahmershah.dev/#contact
+- Résumé (PDF): https://ahmershah.dev/docs/syed-ahmer-shah-resume.pdf
 
----
+## Experience
 
-© 2026 Syed Ahmer Shah — All rights reserved.
+- Full Stack Developer (Internship), XCL Technologies, Hyderabad, Sindh, Pakistan · On-site · Jul – Aug 2026 (2026-07-15 to 2026-08-15). Full Stack Developer intern at XCL Technologies, building real features for a university admission and examination portal in a professional on-site team — the whole journey from a student's registration to their exam slip. Built: Register & verify — Student registration with e-mail verification, secure sign-in and a personalised dashboard waiting on the other side. Documents — Students submit and manage everything the admission needs — CNIC, profile picture, domicile, B-Form, PRC and the rest — from their own dashboard. Validate & flag — Validation catches incorrect or inappropriate submissions; anything suspicious is flagged and routed to the Super Admin for a second look. Challan — Fee challans are generated automatically from the student's details, downloadable as a PDF, with a way to report challan errors for admin review. Exam slip — Once the paid challan is submitted and every step is complete, the student downloads their final exam slip. Super Admin — A Super Admin panel with login and password recovery, Mini Admin creation, permission management, time-limited roles and access termination. Also: MySQL for storing, retrieving and managing application and student data; Git and GitHub for version control in a shared codebase; Basic SEO, data entry and data management — accurate and consistent; Debugging, testing and maintaining code against real project requirements. Stack: PHP, Laravel, MySQL, JavaScript, Tailwind CSS, Bootstrap, HTML, CSS, Git, GitHub. Certificate No. 899 (issued 15 Aug 2026): https://ahmershah.dev/experience/xcl-certificate-7578624a.webp. Rebuilt and extended afterwards as Ahmer Institute of Technology: https://github.com/ahmershahdev/Ahmer-Institute-of-Technology
+
+## Education
+
+- Apr 2012 – Jul 2022: SSC — Computer Science, St. Bonaventure's High School, Hyderabad (City Branch) — grade A-1 · 83.90% (done). First introduction to Computer Science, and the disciplined study habits everything since has stood on.
+- Jul 2022 – Jul 2024: HSC — Pre-Engineering, Superior College of Science, Hyderabad — grade A · 70.45% (done). Strong analytical skills and the mathematical foundation for complex problem-solving.
+- Nov 2024 – Dec 2028: Bachelor's in Software Engineering, Hyderabad Institute For Technology and Management Sciences (ongoing). Modern development practices, algorithms and system design in a rigorous academic environment.
+- Aug 2025 – Sep 2028: Advanced Diploma in Software Engineering (ADSE), Aptech Pakistan (ongoing). Parallel, industry-focused training in full-stack programming and software architecture.
+
+## Skills (level out of 5)
+
+### Languages — What the code is written in.
+- HTML5: 5/5. Semantic, accessible, SEO-ready markup — the base of every project.
+- CSS3: 5/5. Layouts, motion and theming written by hand, not just utilities.
+- JavaScript: 5/5. ES6+, DOM, async — storefront logic, interactions, tooling.
+- PHP: 3/5. Primary backend language — Commerza is 80 hand-written PHP files.
+- Java: 4/5. Core Java, collections and OOP — the language behind the DSA practice.
+- Python: 3/5. Scripting, automation and the IBM DevOps track.
+
+### Frameworks & UI — Interfaces for the web.
+- Bootstrap: 5/5. Commerza's storefront and admin grid.
+- Tailwind CSS: 2/5 (basic). Utility-first styling — v4 powers this site.
+- React: 4/5. Components, hooks, state — the R in MERN and this site's React 19.
+- Laravel: 3/5. MVC, Eloquent, queues and Inertia — Zovita+, GleanGrid and BookMyMovie run on Laravel 12.
+
+### Backend & Data — Servers, APIs, databases.
+- Node.js: 4/5. The N in MERN — servers, scripts and build tooling.
+- Express: 4/5. REST APIs, middleware, auth flows.
+- MongoDB: 3/5. Document modelling and aggregation for MERN apps.
+- MySQL: 3/5. Schema design, transactions, row-locking — Commerza's data layer.
+- SQL Server: 3/5. T-SQL and relational design from the Microsoft Full-Stack track.
+- Django: 3/5. Models, QuerySets and the ORM — and knowing when raw SQL earns its place.
+
+### Fundamentals — The thinking underneath.
+- Data Structures & Algorithms: 4/5. Complexity, trees, graphs, DP — 676 LeetCode problems solved (111 hard) and HackerRank certified.
+- OOP: 3/5. Encapsulation, inheritance, polymorphism — applied in Java, PHP and JS.
+
+### Platforms & Tools — Shipping and selling.
+- Git: 5/5. Branching, rebasing, disciplined history (learned the hard way).
+- GitHub: 5/5. PRs, Actions, CI security gates on every push.
+- Shopify: 3/5. Store setup, theme customisation and launch.
+- SEO: 5/5. Structured data, sitemaps, canonicals, Core Web Vitals.
+
+### AI Toolkit — Models I build and think with.
+- ChatGPT: 5/5. Daily pair-programmer for planning and debugging.
+- Codex: 4/5. Agentic coding runs for repetitive, well-specified work.
+- Claude: 5/5. Long-context reasoning, reviews and writing.
+- Claude Code: 5/5. Terminal agent — automating development tasks.
+- Gemini: 4/5. Multimodal research and second opinions.
+- DeepSeek: 3/5. Open-weight reasoning when cost matters.
+
+Learning next: Deeper Laravel, TypeScript, System design.
+
+## Services
+
+### 01 Full-stack web apps — From schema to screen.
+Custom web applications with a real backend: authentication, dashboards, payments, admin panels — built to be maintained, not just launched.
+Deliverables: PHP / Laravel or MERN (MongoDB · Express · React · Node); MySQL / SQL Server schema design & optimisation; REST APIs, auth, roles, audit logs; Security baseline: CSRF, rate limits, hashing, validation.
+Stack: PHP, Laravel, React, Node.js, MySQL, MongoDB.
+
+### 02 E-commerce & Shopify — Stores that take money safely.
+Custom storefronts like Commerza or fast Shopify launches — catalog, cart, checkout, order tracking and the operations panel behind it.
+Deliverables: Shopify setup, theme customisation, apps & launch; Custom PHP/MySQL storefront + admin (Commerza-grade); COD / Stripe checkout, coupons, reviews, email flows; Stock locking, fraud checks, SEO-ready product pages.
+Stack: Shopify, PHP, MySQL, JavaScript, Bootstrap.
+
+### 03 Front-end & landing pages — Fast, responsive, on-brand.
+Marketing sites, landing pages and UI builds that score well on Core Web Vitals and feel premium on every screen size.
+Deliverables: Pixel-accurate builds from Figma or a brief; HTML5 / CSS3 / JavaScript, Bootstrap or Tailwind; React components and motion (GSAP, scroll effects); Accessibility and performance passes.
+Stack: HTML5, CSS3, JavaScript, React, Tailwind, GSAP.
+
+### 04 SEO & AI integration — Found by people — and by models.
+Technical SEO that ranks, plus practical AI features: assistants like the one on this site, content pipelines, LLM-powered automations.
+Deliverables: Technical SEO audits, structured data, sitemaps, canonicals; Core Web Vitals and crawl fixes; AI assistants / chatbots grounded in your own data; Workflow automation with ChatGPT, Claude, Gemini APIs.
+Stack: SEO, OpenAI, Claude, Gemini, Node.js.
+
+### 05 Writing — Words that explain and rank.
+Forty-plus published articles across seven platforms. Technical writing, blog content, ghostwriting and SEO copy by someone who actually builds the things.
+Deliverables: Technical articles, docs and tutorials; Blog posts and long-form content; Ghostwriting for founders and dev teams; SEO writing with keyword and intent research.
+Stack: Technical writing, Blogging, Ghostwriting, SEO writing.
+
+Also offered: free 20-minute discovery calls on Zoom / Google Meet via https://calendly.com/syedahmershah. Writing services (technical writing, blogging, ghostwriting, SEO writing) are a service, not a listed skill.
+
+### Where to hire
+- Freelance marketplaces: Fiverr (https://www.fiverr.com/ahmershahdev), Upwork (https://www.upwork.com/freelancers/~01d033487ce8ecd83f), Freelancer (https://www.freelancer.com/u/syedahmershah), Contra (https://contra.com/syedahmershah), Guru (https://www.guru.com/freelancers/syed-ahmer-shah), PeoplePerHour (https://www.peopleperhour.com/freelancer/technology-programming/syed_ahmer-shah-bringing-your-ideas-to-life-with-zxqqamxq), Workchest (https://workchest.com/freelancer/syedahmershah)
+- Studio / B2B listings (a small team can work under Ahmer for bigger scopes): Clutch (https://clutch.co/profile/syed-ahmer-shah), G2 (https://www.g2.com/products/syed-ahmer-shah/), Trustpilot (https://www.trustpilot.com/review/ahmershah.dev), DesignRush (https://www.designrush.com/agency/profile/syed-ahmer-shah), TechBehemoths (https://techbehemoths.com/company/syed-ahmer-shah), Edverise (https://edverise.com/profile/syed-ahmer-shah), Feedbax (https://feedbax.ai/profile/syed-ahmer-shah), Contra (studio) (https://contra.com/company/syed-ahmer-shah_6d22c4)
+
+## Projects
+
+### HolidayOps — Working Days API (2026)
+Every working day, in every country.
+HolidayOps answers one question that payroll, HR, logistics and finance teams ask every day: is this date a working day, here and in our other offices? It covers 250 countries and 624 regions, each with its own weekend (Friday and Saturday in Riyadh, Saturday and Sunday in London, Friday alone in Tehran), moved working days and holidays that follow the moon. Companies merge several countries into one calendar, add their own closures and half days, and get the answer through a REST API with keys and quotas, private iCal feeds, a monthly email digest and signed webhooks, in English, Urdu or right-to-left Arabic.
+Built in October 2026 across 43 pull requests: a pure-Python domain layer on the open-source holidays library with 100% branch coverage, Django REST Framework on MySQL and Redis, Celery for feeds, digests and webhooks, and a React web app with a three.js globe on the sign-in pages. The public site is server-rendered with no JavaScript at all: a landing page that shows which countries are off right now, a page per country and year, a 'who is off today' page, an embeddable widget and a working-day overlap tool. Accounts have two-factor sign-in, Google and Microsoft sign-in, emailed reset codes and self-serve data export and deletion. 447 backend and 34 frontend tests run on every pull request.
+Role: Solo build — product, API design, domain logic, web app, public site, security, i18n, tests and docs. Stack: Python 3.12, Django 5.2, Django REST Framework, MySQL 8, Redis, Celery, React 19, TypeScript, Tailwind CSS 4, TanStack Query, Three.js, i18next, Resend, Docker. Security baseline: Tenant isolation suite, Hashed API keys, Per-key and per-IP throttles, Named-lock limits, SSRF guard, HMAC-signed webhooks, One-time reset codes, TOTP + recovery codes, OIDC with PKCE, Strict CSP, Argon2.
+Metrics: 250 countries · 624 regions · 481 automated tests · 3 languages, RTL.
+Highlights: The weekend is data, not an assumption: every answer uses the country's own weekend rules, including countries that changed them, and a company calendar can override them. One engine behind everything: the API, the iCal feeds, the digests, the webhooks and the public pages all ask the same small domain layer, so they can never disagree about a date. Live, without JavaScript: the landing page and the 'who is off today' page put all 250 countries on their own local date, rebuilt every hour, and still render as plain HTML. Security by default: hashed keys and feed tokens, tenant isolation tested on every endpoint, a DNS-rebinding-proof SSRF guard for webhooks, one-time reset codes and replay-proof two-factor codes.
+How it works: apps/core is plain Python with no Django imports and 100% branch coverage; it uses the holidays library's own weekend, moved-working-day and nth-working-day logic instead of reimplementing it. Weekends are read per date, not per country: the UAE moved from Friday-Saturday to Saturday-Sunday in 2022, and a class-level weekend would get every date before that wrong. A company calendar merges several countries with the library's HolidaySum and pins the weekend rule on the instance, because HolidaySum falls back to Saturday-Sunday. Every organization query is scoped to the current organization; a test suite tries cross-organization access on every endpoint and expects 404, never 403, so existence never leaks. Count-then-create limits (invites, webhooks, API keys, feed links) run under a MySQL named lock per owner, because a row lock on the organization would stall usage and audit inserts while an email is sent. Webhook delivery resolves the host, refuses any non-global address, then connects to that vetted IP with the original host for SNI and certificate checks, so DNS rebinding can't redirect it. Password reset codes are six digits from secrets, stored only as an HMAC keyed with the server secret, valid for 10 minutes and once under a row lock, with five guesses and three codes per address per hour. Two-factor codes follow RFC 6238 with the standard library only; the last accepted time step is stored so a code can't be replayed, and neither a password reset nor a Google or Microsoft sign-in skips it. Sign in with Microsoft never links an existing account by email: Microsoft's email claim is whatever a tenant admin typed (the nOAuth problem), so accounts are matched by the provider's subject id. Public pages are cached per theme and language with the hour in the key, and 'today' is read in each country's own time zone from CLDR data, with the capital's zone for countries that span several. Every public page title is 60 characters or less and every description 150 or less; a test checks all of them, including the title for every country and region in all three languages. iCal lines are folded at 75 octets by counting UTF-8 bytes and never splitting a character, which is what kept Urdu and Arabic holiday names from arriving corrupted in calendar apps.
+Links: Source on GitHub: https://github.com/ahmershahdev/holidayops; Case study · Building HolidayOps: https://ahmershah.dev/blogs/holidayops-case-study-working-days-api; Article · The weekend is not a constant: https://ahmershah.dev/blogs/the-weekend-is-not-a-constant
+
+### Zovita+ — Online Pharmacy (2026)
+Care, delivered with calm — a pharmacy that notices what you need.
+Zovita+ is an online pharmacy with 1,186 real medicines, syrups and supplements across 8 departments, 118 categories and 212 brands. Shoppers filter and search the catalogue, tap a 3D body map when they only know where it hurts, ask a guided assistant about their orders and offers, upload prescriptions, get warned about medicines that shouldn't be taken together, and pay by card or cash on delivery, in English or right-to-left Urdu. Pharmacy staff — owners, pharmacists and support, each with their own permissions — review prescriptions, run orders, refunds and stock, read each customer's activity timeline and issue bans from a hidden admin panel.
+Began in March 2026 as flat PHP pages and was rebuilt from an empty project in September 2026: Laravel 12 and React 19 joined by Inertia 2, on a MySQL schema of 22 domain tables and 27 foreign keys. It ships a 3D body map sculpted in code as a signed distance field, rule-based personal offers priced by one function for the bag and the charge, a row-locked idempotent checkout, card payments confirmed only by signed webhooks, drug-interaction warnings, refill reminders, staff roles with authenticator-app two-step sign-in, 24-hour prescription auto-accept, three-level bans that see through Gmail aliases, server-side rendering, a nonce CSP, ClamAV-scanned uploads, and 145 PHPUnit plus 56 Playwright tests, with Lighthouse 100 for accessibility, best practices and SEO.
+Role: Solo build — research, UI/UX, database, backend, admin panel, security, SEO, tests and docs. Stack: Laravel 12, PHP 8.2, React 19, Inertia 2 + SSR, Tailwind CSS 4, MySQL, Redis, Stripe, GSAP, Three.js, Leaflet · OSM, Resend, ClamAV, Playwright. Security baseline: Row locking, Idempotent checkout, Offers redeemed under lock, Signed payment webhooks, Staff roles + TOTP, ClamAV upload scanning, Nonce CSP, Named rate-limit counters, RequestGuard, reCAPTCHA v3 + v2, Enumeration-safe responses, Private prescription disk, Three-level bans, Admin 404 + idle timeout.
+Metrics: 1,186 real products · 22 database tables · 201 automated tests · 100 Lighthouse a11y · SEO.
+Highlights: A store that notices: every visitor (guest or customer) builds a quiet profile of views, visible time, bag adds and purchases, and six explainable rules turn it into time-limited personal offers, capped at 15% and redeemed exactly once inside the checkout transaction. Stock that can't be oversold and a price that can't drift: products locked in id order, a conditional decrement that refuses to go below zero, one-time checkout tokens, and the same Pricing function used for the bag preview and the order. Medicine safety built in: the bag checks every product's active ingredients against 24 well-established interaction rules (two paracetamol products, blood thinner + NSAID, sildenafil + nitrate…), serious ones must be acknowledged and are shown to the pharmacist, and regular buyers get a refill reminder before they run out. Built for pharmacy staff, not developers: a 404-for-everyone-else admin panel with "Today at Zovita" to-do cards, plain-language help on every heading, prescription review with 24 h auto-accept, customer timelines and a ban wizard — all usable on a 320 px phone.
+How it works: Checkout runs in one transaction (retried up to three times on deadlock): products are read with SELECT … FOR UPDATE in ascending id order, then stock is decremented with UPDATE … WHERE stock >= qty, so it can never go negative even if a lock were bypassed. orders.checkout_token and orders.number are both unique: a double-submitted checkout returns the order already placed, and a random order-number collision retries inside a savepoint without aborting the transaction. Personal offers come from OfferEngine's six rules (hesitation 8%, cart rescue 5%, regular 10%, welcome 5%, loyalty 5–10%, comeback 7%); Pricing::apply() prices both the bag and the order, caps the total at 15%, and checkout locks the visitor's live offers FOR UPDATE before marking them redeemed with the order id. Personalisation uses one visitor key — u:{id} when signed in, g:{uuid} from a first-party HTTP-only cookie otherwise — and signing in merges the guest's interaction counters and live offers into the account in one locked transaction. Every route throttle names its own counter (throttle:6,1,checkout.store): Laravel's default key is per user or IP, so bag and wishlist activity used to eat into checkout's limit. A test proves it can't any more. RequestGuard rejects odd methods, URLs over 2,048 characters, more than 40 query parameters, oversized bodies and NUL bytes before any session or database work; a per-client budget and nginx limit_req sit on top. Bans have three levels; the deep level blocks the canonical email (Gmail dots and +aliases folded), phone, device cookie, browser fingerprint, IP and its /24 or /64 network across the whole site. The 3D body map is a signed distance field meshed with surface nets by a Node script and baked into a 463 KB Brotli binary where every vertex carries its body-region id for picking and glow. Card payments use Stripe Checkout (a built-in sandbox gateway locally): the order is created awaiting payment with stock reserved for 30 minutes, and only a webhook with a valid HMAC-SHA256 signature, a timestamp under five minutes old, an event id never seen before and the exact amount and currency marks it paid; payments:expire cancels and restocks unpaid orders and refunds money that arrives late. InteractionChecker maps each product's stored generics to drug classes with tolerant patterns (so the catalogue's own spellings still match) and ignores topical forms, so a ketoconazole shampoo never warns about a statin. Refill reminders take the median gap between a customer's real orders of the same medicine (7–120 days) and e-mail three days before it should run out, once per purchase cycle (a unique key on the last purchase date), with a signed one-tap reorder link. Staff sign in with a password, and once they enable an authenticator app every sign-in also needs a TOTP code; used time-steps are stored so a code can't be replayed, recovery codes are hashed and single-use, and permissions per role (owner, pharmacist, support) are checked on every admin route. The Urdu interface is a 1,460-entry dictionary applied to the rendered DOM; headline line-splitting is skipped in Urdu because it ran before translation and handed the dictionary sentence fragments, and every font stack falls back to Nastaliq after monospace fallbacks drew the letters unjoined. A scroll reveal left the "Shop by concern" grid invisible on every screen: the cards had a CSS transition on opacity, so when ScrollTrigger refreshed, gsap.from() re-read their mid-transition opacity (about 0) as the target. Explicit fromTo() end values fixed it. A responsive sweep of every storefront, account and admin page at 320–1920 px found the admin dashboard 698 px wide on a 375 px phone (a grid with no column template); grid-cols-1 fixed it and a Playwright test now guards the admin pages.
+Links: Source on GitHub: https://github.com/ahmershahdev/zovita; Case study · Building Zovita+: https://ahmershah.dev/blogs/zovita-case-study-online-pharmacy-platform; Article · The discount that knew you were hesitating: https://ahmershah.dev/blogs/the-discount-that-knew-you-were-hesitating-rule-based-personalisation-in-zovita
+
+### BookMyMovie — Cinema Ticketing (2026)
+Pick your seat, watch the trailer, and never share it with a stranger.
+BookMyMovie sells cinema seats across Karachi, Lahore, Islamabad and Rawalpindi. Moviegoers watch trailers, pick seats on a live map or from inside a 3D model of the hall, mix adult and child tickets, add snacks, pay online or at the counter, and get a signed QR e-ticket that still opens with no signal. Staff scan tickets, refund bookings, issue gift cards and run films, showtimes, prices and reports from a role-based back office.
+Started as my Aptech DISM project and rebuilt as a single-page app: Laravel 12 and React 19 joined by Inertia 2, on a MySQL schema of 56 tables and 9 reporting views. It ships row-tier pricing, 10-minute seat holds, waitlists, split bills, loyalty points, gift cards, web push, Apple and Google Wallet passes, a full Urdu right-to-left interface, dark and light themes, and Lighthouse 100 for accessibility, best practices, SEO and agentic browsing on every public page.
+Role: Solo build — research, UI/UX, database, backend, payments, security, SEO and docs. Stack: Laravel 12, PHP 8.2, React 19, Inertia 2, TypeScript, Tailwind CSS 4, MySQL, Three.js, Motion, Service worker, JazzCash. Security baseline: Row locking, Status compare-and-set, Idempotent checkout, IDOR scoping, HMAC-signed tickets, Nonce CSP, reCAPTCHA v3 + step-up, Argon2id hashing, Admin TOTP, Account/IP/device bans, Audit log.
+Metrics: 56 database tables · 49 screens · 0 seats sold twice · 100 Lighthouse a11y · SEO.
+Highlights: A seat can never be sold twice: row locks in one fixed order, a unique key MySQL itself enforces on live tickets, idempotent checkout, and bookings whose status moves by compare-and-set so nothing is ever refunded twice. Built for the phone in a dark lobby: QR e-tickets saved offline by a service worker, wallet passes, trailers that only autoplay on fast connections, and no sideways scroll from 320 px up, checked by script. A back office for three roles — owner, manager and box office — with authenticator-app two-step sign-in, a ticket scanner, one-step refunds, member and device bans, revenue and occupancy reports, and a full audit log.
+How it works: Holding seats and checking out lock rows with SELECT … FOR UPDATE in one order everywhere (customer → show → seats → cart) inside a transaction that retries deadlocks up to three times. booking_seats has UNIQUE (show_id, seat_id, seat_lock); seat_lock is 1 for a live ticket and NULL once cancelled, so a cancelled seat can be resold but the database refuses a second live ticket for the same seat. Checkout carries an idempotency key under a unique index, so a double-tapped Confirm returns the booking already made; booking status moves through Booking::claimStatus(), a guarded UPDATE that fails if the status changed, so a booking can't be cancelled or refunded twice. The waitlist job is ShouldBeUnique per show and uses WithoutOverlapping; home-page caches use Cache::flexible so one locked request rebuilds a stale value instead of a stampede. Every customer lookup is scoped to the signed-in user and returns 404 for someone else's booking; share links use 40-character random tokens; ticket QR codes carry an HMAC-SHA256 signature checked with hash_equals at the door; admin routes fail closed to the highest role. Bots meet a honeypot, a fill-time check, a server-drawn single-use image code and invisible reCAPTCHA v3, with the v2 checkbox only as a step-up when v3's score is low. SEO without SSR: server-rendered titles, canonical links, per-film Open Graph images, JSON-LD Movie and ScreeningEvent data, a generated sitemap and llms.txt / llms-full.txt for AI assistants. A production build once merged the seat-map page into a shared chunk, dropping it from Vite's manifest and turning the page into a 500; a test now fails if any page is missing from the manifest.
+Links: Source on GitHub: https://github.com/ahmershahdev/bookmymovie; Case study · Building BookMyMovie: https://ahmershah.dev/blogs/bookmymovie-case-study-cinema-ticketing-platform; Article · One seat, two buyers: https://ahmershah.dev/blogs/one-seat-two-buyers-race-conditions-idor-and-keys-in-bookmymovie
+
+### GleanGrid — Farmers Market Pre-Orders (2026)
+Reserve this week’s harvest online, pay the farmer at the stall.
+GleanGrid puts Hyderabad’s farmers markets online without taking the market away. Farmers publish weekly stock, prices and pickup windows; customers find a market on a live map, reserve produce against real stock, pay online or at the stall, and collect it. Admins approve stalls, moderate listings, refund payments and read platform-wide reports.
+Built solo for Aptech TechWiz 7: Laravel 12 and React 19 joined by Inertia with server-side rendering, on a MySQL schema with foreign keys, 22 CHECK constraints, reporting views and triggers. Three roles, 62 screens, eight languages including right-to-left Urdu and Arabic, JazzCash / Easypaisa / card payments with automatic refunds, Google and Facebook sign-in, and a checkout stress-tested with fifty buyers racing for the last item at the same instant.
+Role: Solo build — research, UI/UX, database, backend, payments, security and docs. Stack: Laravel 12, PHP 8.2, React 19, Inertia.js SSR, Tailwind CSS 4, MySQL, JazzCash, Leaflet · OSM, Motion, Vite, Playwright. Security baseline: Per-response CSP nonce, Per-load CSRF tokens, Signed form tickets, Turnstile + reCAPTCHA v3, Argon2id hashing, Rate limiting, Row locking, Idempotent payments, HMAC callbacks, E-mail OTP.
+Metrics: 62 screens · 50 buyers, one sale · 133 automated tests · 8 languages.
+Highlights: A pre-order flow that never oversells: stock, coupons and pickup-window capacity are all decided under row locks inside one transaction — proven with 50 real parallel processes, not just unit tests. Payments that can’t double-charge: a locked state machine, one-time idempotency keys, amounts recomputed on the server, HMAC-verified gateway callbacks, and automatic refunds when a confirmation arrives after the payment window closed. Three complete workspaces (customers with QR pickup passes, price history and restock alerts; farmers with weekly stock and a scanner; admins with approvals, badges and a payments console), built for real phones: bottom-sheet filters, a live map, 8 languages with RTL and Lighthouse 100 for accessibility, best practices and SEO.
+How it works: Overselling is prevented with SELECT … FOR UPDATE row locks on the products, taken in id order (so two checkouts cannot deadlock) inside one database transaction; duplicate basket lines are merged before the stock check. Coupons and the pickup-window row are locked the same way. The pickup-window booking count is itself a locking read, because under MySQL's REPEATABLE READ a plain COUNT after waiting for a lock reads a stale snapshot: a 50-process stress test first let 20 orders into a 3-place window, and that one-line change fixed it. A per-customer atomic cache lock stops double-submitted checkouts, deadlocks retry up to three times, and a CHECK constraint keeps coupon use under its limit even if a lock is ever forgotten. Quieter races: the farmer's stock form sends back the number it showed and the server subtracts sales made meanwhile; the weekly restock is one atomic UPDATE; restock alerts are claimed with a conditional UPDATE so each is sent exactly once. Payments: the payment row is locked and moves pending → processing once, every attempt carries a one-time idempotency key under a unique index, amounts are recomputed on the server, JazzCash callbacks are HMAC-SHA256 verified, confirmations after the 20-minute window are refunded automatically, and card numbers are never stored. Bot and CSRF defence: a honeypot, a signed and encrypted form ticket issued with every page, invisible reCAPTCHA v3 plus a Cloudflare Turnstile or reCAPTCHA v2 challenge, CSRF tokens regenerated on every page load, cross-site writes refused, and a new CSP nonce on every response. Tested with 133 PHPUnit tests (779 assertions) on a real MySQL database, Playwright end-to-end tests on desktop and phone, and GitHub Actions on PHP 8.2 and 8.3.
+Links: Source on GitHub: https://github.com/ahmershahdev/GleanGrid; Case study · Building GleanGrid solo: https://ahmershah.dev/blogs/gleangrid-case-study-farmers-market-preorder-platform; Article · The last mango problem: https://ahmershah.dev/blogs/the-last-mango-problem-race-conditions-in-a-real-marketplace
+
+### Commerza — E-Commerce Store (2026)
+A security-first e-commerce engine, built without a framework.
+Commerza is a production-grade e-commerce platform with a modern storefront and a secure admin dashboard. It covers catalog management, carts, authentication, checkout, order tracking, reviews, email routing, automation, SMTP failover and SEO-ready pages.
+Raw PHP and MySQL, no Laravel, no React — 339 tracked files and 136 commits in three months. It shipped with real payments (COD + Stripe), two native themes, Cloudinary media, Redis/APCu caching, ClamAV upload scanning, sub-admin roles, coupon campaigns, OAuth via Google and Facebook and a CI security gate that runs on every push.
+Role: Solo build — architecture, backend, storefront, ops panel. Stack: PHP, MySQL, JavaScript, jQuery, Bootstrap, HTML5, CSS3, JSON · XML, SEO. Security baseline: CSRF tokens, reCAPTCHA v2 + v3, Rate limiting, Argon2id hashing, Audit logs, Stock locking, ClamAV scanning, Customer blacklists.
+Metrics: 339 tracked files · 136 commits · 3 months, solo · 0 frameworks.
+Highlights: Admin workflows for products, stock, orders, coupons and review moderation — with a product trash bin and sub-admin role profiles. Transactional row-locking on stock and prepared statements on every mutation path, so two checkouts can never oversell one unit. Practical commerce operations: COD with high-value email verification, Stripe-ready checkout, SMTP failover and audit logs.
+Links: Source on GitHub: https://github.com/ahmershahdev/commerza; Case study · I almost lost Commerza: https://ahmershah.dev/blogs/building-commerza-security-first-ecommerce-engine; Article · Built in 3 months with Copilot: https://ahmershah.dev/blogs/i-built-a-production-grade-e-commerce-platform-in-3-months-github-copilot-was-my-co-founder
+
+## Certificates (13 listed; 20+ earned overall)
+
+- Amazon Junior Software Developer — Amazon / Coursera · Specialization · issued 2026-03-15 · credential ID NEGKTAK9KKN2 · verify https://coursera.org/verify/professional-cert/NEGKTAK9KKN2. Skills: Software Engineering Principles, Version Control (Git/GitHub), SQL & Database Logic, Front-End Development, Problem Solving, Clean Code Practices.
+- Full Stack Web Development — Amazon / Coursera · Course Certificate · issued 2025-03-19 · credential ID 7GGU5A4WMN5H · verify https://coursera.org/verify/7GGU5A4WMN5H. Skills: HTML5 & CSS3, JavaScript DOM Manipulation, Responsive Web Design, Bootstrap Framework, Front-End Web Development, Web Deployment Basics.
+- Full-Stack Web Development (PHP, HTML, CSS & JavaScript) — Board Infinity / Coursera · Specialization · issued 2026-03-12 · credential ID AWJ2ZT3N85YT · verify https://coursera.org/verify/specialization/AWJ2ZT3N85YT. Skills: PHP Server-Side Scripting, SQL Database Integration, JSON Data Handling, HTML5 & CSS3, JavaScript (ES6+), Back-End Development.
+- IBM DevOps and Software Engineering — IBM / Coursera · Specialization · issued 2026-03-17 · credential ID ECD16Q89GXCD · verify https://coursera.org/verify/professional-cert/ECD16Q89GXCD. Skills: Git & GitHub Workflow, Software Development Life Cycle, Technical Documentation, Agile Methodologies, SEO Fundamentals, System Logic.
+- Meta Full Stack Developer (Front-End & Back-End) — Meta / Coursera · Specialization · issued 2026-03-13 · credential ID 4TU862MW0V5P · verify https://coursera.org/verify/specialization/4TU862MW0V5P. Skills: Advanced CSS & Bootstrap, JavaScript Programming, PHP & SQL Integration, Relational Databases, UI/UX Fundamentals, Full-Stack Workflow.
+- Microsoft Full-Stack Developer — Microsoft / Coursera · Specialization · issued 2026-03-19 · credential ID V6FN6XK6SEKF · verify https://coursera.org/verify/professional-cert/V6FN6XK6SEKF. Skills: SQL Server Management, Relational Database Design, JavaScript & UI Design, HTML/CSS Structures, System Architecture, Web Security Basics.
+- Fullstack Development — Scrimba / Coursera · Specialization · issued 2026-03-14 · credential ID UHNV3UJ8ULTY · verify https://coursera.org/verify/specialization/UHNV3UJ8ULTY. Skills: HTML, CSS & Bootstrap, JavaScript Fundamentals, Responsive Web Design, SQL Querying, Git Version Control, SEO Best Practices.
+- Become a Software Developer — LinkedIn Learning · Learning Path · issued 2025-03-02 · credential ID 59c5bd7f8949c26268fea7e3bd9c4321f52f0c0bb6757edd8f3c06518b0d80b5 · verify https://www.linkedin.com/learning/certificates/59c5bd7f8949c26268fea7e3bd9c4321f52f0c0bb6757edd8f3c06518b0d80b5. Skills: Software Development Life Cycle, HTML & CSS, JavaScript Foundations, Core Java, SQL Querying, Programming Logic.
+- Learning SQL Programming — LinkedIn Learning · Course Certificate · issued 2025-03-02 · credential ID 81f714852a43a1c119ededdbc994335ad59c3df2355b5b0fe098d0a12dbed24d · verify https://www.linkedin.com/learning/certificates/81f714852a43a1c119ededdbc994335ad59c3df2355b5b0fe098d0a12dbed24d. Skills: SQL Syntax & Execution, Relational Databases, Data Manipulation (DML), Joins & Subqueries, Query Optimization, Database Modeling.
+- Succeeding in Web Development: Full Stack & Front End — LinkedIn Learning · Course Certificate · issued 2025-03-01 · credential ID 682b0a7dbbfc148e89eb7531f6faefa2f915435e44d80849e3af01b0b8eec6ad · verify https://www.linkedin.com/learning/certificates/682b0a7dbbfc148e89eb7531f6faefa2f915435e44d80849e3af01b0b8eec6ad. Skills: Full-Stack Architecture, Front-End Best Practices, PHP & SQL Workflow, Web Accessibility, DOM Manipulation, JavaScript Logic.
+- JavaScript (Intermediate) Certificate — HackerRank · Skill Certificate · issued 2026-03-07 · credential ID 47DA08F71692 · verify https://www.hackerrank.com/certificates/47DA08F71692. Skills: JavaScript (ES6+), Asynchronous JS (JSON/Fetch), Closures & Scope, Design Patterns, DOM Manipulation, Logic Implementation.
+- SQL (Advanced) Certificate — HackerRank · Skill Certificate · issued 2026-03-07 · credential ID C77C1661CD96 · verify https://www.hackerrank.com/certificates/C77C1661CD96. Skills: Advanced SQL Queries, Complex Joins, Window Functions, Subqueries, Query Performance, Database Architecture.
+- Software Engineer Intern Certificate — HackerRank · Role Certificate · issued 2026-03-07 · credential ID B44B013B3E29 · verify https://www.hackerrank.com/certificates/B44B013B3E29. Skills: Problem Solving, Programming Logic, Algorithm Design, Git & GitHub, Code Optimization, Debugging.
+
+## Testimonials (verbatim, verified)
+
+- "What impressed us most about Syed Ahmer Shah was his ability to understand our business requirements." — Emmanuel Chinedu, Operations Manager, Business Process Outsourcing Co. (11–50 employees), Germany. 5/5 on Clutch · verified online review (Jul 2026). Project: Employee Management System — development & design. Source: https://clutch.co/profile/syed-ahmer-shah#review-476605
+  Summary: Syed Ahmer Shah designed and developed an employee management system for a BPO company — an office portal, dashboards and an admin panel, plus training. The work reduced manual administrative tasks, streamlined attendance and leave tracking, sped up internal processes and improved reporting accuracy. Delivered on time.
+- "Syed Ahmer Shah delivered two well-researched, high-quality articles and handled the entire process professionally. He understood our requirements quickly, incorporated feedback accurately, and delivered the final content on time. I'd be happy to work with him again." — Flowstep, Client, Flowstep, Estonia. 5/5 on Fiverr · verified purchase (Aug 2026). Project: Two technical articles. Source: https://www.fiverr.com/ahmershahdev
+- "Ahmer delivered a solid technical article for Flowstep and handled multi-platform distribution smoothly and right on schedule. Great communication and openness to feedback. Highly recommended!" — Flowstep, Client · ongoing collaboration, Flowstep, Estonia. 5/5 on Fiverr · verified purchase (Aug 2026). Project: Technical article + multi-platform distribution. Source: https://www.fiverr.com/ahmershahdev
+
+## Official profiles (sameAs)
+
+### Professional
+- LinkedIn (in/syedahmershah): https://linkedin.com/in/syedahmershah — Profile, posts, newsletter
+- LinkedIn · Company (company/syedahmershah): https://linkedin.com/company/syedahmershah — Studio page
+- GitHub (@ahmershahdev): https://github.com/ahmershahdev — Commerza and open repos
+- Crunchbase · Person (syed-ahmer-shah): https://www.crunchbase.com/person/syed-ahmer-shah — Founder profile
+- Crunchbase · Organization (syed-ahmer-shah): https://www.crunchbase.com/organization/syed-ahmer-shah-b066 — Studio listing
+- Wellfound (u/syedahmershah): https://wellfound.com/u/syedahmershah — Startup jobs profile
+- Arc.dev (@syedahmershah): https://arc.dev/@syedahmershah — Vetted remote developer
+- AWS Builder Center (@syedahmershah): https://builder.aws.com/community/@syedahmershah — Community articles
+
+### Coding & credentials
+- LeetCode (u/syedahmershah): https://leetcode.com/u/syedahmershah — DSA practice
+- HackerRank (syedahmershah): https://www.hackerrank.com/profile/syedahmershah — JS, SQL, SWE-intern certified
+- Credly (users/syedahmershah): https://www.credly.com/users/syedahmershah/ — Verified badges
+- Coursera (learner/syedahmershah): https://coursera.org/learner/syedahmershah — Meta, Microsoft, IBM, Amazon certs
+
+### Google & business
+- Google Business Profile (g.page): https://g.page/r/CS9yn4Q_UhZ4EBM — Reviews, hours, map
+- Google Knowledge Panel (Syed Ahmer Shah): https://share.google/PzrJo1B8KbhAWnwvb — Claimed knowledge panel
+- Linktree (syedahmershah): https://linktr.ee/syedahmershah — All links, one page
+- Beacons (syedahmershah): https://beacons.ai/syedahmershah — Link-in-bio
+- Gravatar (syedahmershah): https://gravatar.com/syedahmershah — Global avatar & card
+
+### Social (@ahmershahdev)
+- Instagram (@ahmershahdev): https://instagram.com/ahmershahdev
+- TikTok (@ahmershahdev): https://tiktok.com/@ahmershahdev
+- YouTube (@ahmershahdev): https://youtube.com/@ahmershahdev
+- Facebook (ahmershahdev): https://www.facebook.com/ahmershahdev — Page
+- X (@ahmershahdev): https://x.com/ahmershahdev
+- Bluesky (@bluesky.ahmershah.dev): https://bsky.app/profile/bluesky.ahmershah.dev
+- Pinterest (ahmershahdev): https://www.pinterest.com/ahmershahdev/
+
+### Design
+- Dribbble (syedahmershah): https://dribbble.com/syedahmershah
+- Behance (syedahmershah): https://www.behance.net/syedahmershah
+
+### Writing
+- Dev.to (syedahmershah): https://dev.to/syedahmershah
+- Medium (@syedahmershah): https://medium.com/@syedahmershah
+- Hashnode (@syedahmershah): https://hashnode.com/@syedahmershah
+- Substack (@syedahmershah): https://substack.com/@syedahmershah
+- HackerNoon (u/syedahmershah): https://hackernoon.com/u/syedahmershah
+- CoderLegion (user/syedahmershah): https://coderlegion.com/user/syedahmershah
+- Sessionize (syedahmershah): https://sessionize.com/syedahmershah — Speaking
+- LinkedIn Newsletter: https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7442056954606297088 — Subscribe
+
+### Hire
+- Fiverr (ahmershahdev): https://www.fiverr.com/ahmershahdev
+- Upwork: https://www.upwork.com/freelancers/~01d033487ce8ecd83f
+- Freelancer (u/syedahmershah): https://www.freelancer.com/u/syedahmershah
+- PeoplePerHour: https://www.peopleperhour.com/freelancer/technology-programming/syed_ahmer-shah-bringing-your-ideas-to-life-with-zxqqamxq
+- Contra (syedahmershah): https://contra.com/syedahmershah
+- Workchest: https://workchest.com/freelancer/syedahmershah
+- Guru: https://www.guru.com/freelancers/syed-ahmer-shah
+- Clutch: https://clutch.co/profile/syed-ahmer-shah — Verified reviews
+- G2: https://www.g2.com/products/syed-ahmer-shah/
+- Trustpilot: https://www.trustpilot.com/review/ahmershah.dev
+- DesignRush: https://www.designrush.com/agency/profile/syed-ahmer-shah
+- TechBehemoths: https://techbehemoths.com/company/syed-ahmer-shah
+- Edverise: https://edverise.com/profile/syed-ahmer-shah
+- Feedbax: https://feedbax.ai/profile/syed-ahmer-shah
+
+### Personal (@ahmershah29)
+- Instagram (@ahmershah29): https://www.instagram.com/ahmershah29/
+- Facebook (ahmershah29): https://www.facebook.com/ahmershah29
+- X (@ahmershah29): https://x.com/ahmershah29
+- TikTok (@ahmershah29): https://tiktok.com/ahmershah29
+- Pinterest (ahmershah29): https://pinterest.com/ahmershah29
+
+## Brand
+
+- Colors: charcoal (#0B0D11) base, electric green (#4CC22E), royal blue (#1E4FD8), white (#F5F7FA)
+- Themes: dark (default and fallback) and light (bone paper #F3F4F1 with near-black ink; green and blue taken a shade deeper for contrast). The site follows the visitor's system setting until they choose with the sun / moon toggle in the header.
+- Fonts: Outfit (display), Manrope (body), JetBrains Mono (labels)
+- Visual language: diagonal light streaks, GPU fluid backgrounds, glass panels, scroll-jacked sections, synthesized UI sounds
+
+## Site
+
+Built with Next.js 16, React 19, TypeScript, Tailwind CSS v4, three.js / React Three Fiber, GSAP + ScrollTrigger and Lenis; hosted on Vercel. Includes an on-site assistant ("Ahmer") that answers only from this data. The contact form is checked on the server and delivered through Resend; the sender gets one confirmation email.
+
+Google knowledge panel (claimed): https://share.google/PzrJo1B8KbhAWnwvb
+
+### How the blog is published
+New articles are written and published on https://ahmershah.dev/blogs first; DEV, Medium, Hashnode, CoderLegion and AWS Builder Center carry copies (sometimes reworded) whose canonical link points back here. Articles written before the blog existed were first published on DEV, Medium or Hashnode; their pages here keep the canonical pointing at that original and say so under the title.
+
+## Blog series
+
+### The Engineering Logs
+Architecture, debugging, databases and the calls behind each build: my series on what shipping real software actually teaches you.
+1. [The Edge Latency Lie: Solving Global Consistency](https://ahmershah.dev/blogs/syedahmershah-the-edge-latency-lie-solving-global-consistency)
+2. [Top 10 AI Tools Every Frontend Developer Should Know (2026 Guide)](https://ahmershah.dev/blogs/top-10-ai-tools-every-frontend-developer-should-know-2026-guide)
+3. [Change One Number. Take Everything.](https://ahmershah.dev/blogs/change-one-number-take-everything)
+4. [How Databases Work: From Tables to Query Execution](https://ahmershah.dev/blogs/how-databases-work-from-tables-to-query-execution)
+5. [The New Era of Software Engineering](https://ahmershah.dev/blogs/the-new-era-of-software-engineering)
+6. [The Art of Object-Oriented Programming](https://ahmershah.dev/blogs/the-art-of-object-oriented-programming)
+7. [GleanGrid: Building a Pre-Order Marketplace for Farmers Markets](https://ahmershah.dev/blogs/gleangrid-case-study-farmers-market-preorder-platform)
+8. [The Last Mango Problem: Race Conditions in a Real Marketplace](https://ahmershah.dev/blogs/the-last-mango-problem-race-conditions-in-a-real-marketplace)
+9. [BookMyMovie: Building a Cinema Ticketing Platform](https://ahmershah.dev/blogs/bookmymovie-case-study-cinema-ticketing-platform)
+10. [One Seat, Two Buyers: Race Conditions, IDOR and Keys in a Cinema Booking System](https://ahmershah.dev/blogs/one-seat-two-buyers-race-conditions-idor-and-keys-in-bookmymovie)
+11. [Zovita+: Building an Online Pharmacy That Adapts to Each Shopper](https://ahmershah.dev/blogs/zovita-case-study-online-pharmacy-platform)
+12. [The Discount That Knew You Were Hesitating: Rule-Based Personalisation in an Online Pharmacy](https://ahmershah.dev/blogs/the-discount-that-knew-you-were-hesitating-rule-based-personalisation-in-zovita)
+13. [RAG Retrieval Strategies on a 50k-Document Dataset: BM25 vs Dense vs Hybrid](https://ahmershah.dev/blogs/rag-retrieval-strategies-bm25-vs-dense-vs-hybrid)
+14. [Inside the Database Stack](https://ahmershah.dev/blogs/inside-the-database-stack)
+15. [HolidayOps: Building a Working Days API for 250 Countries](https://ahmershah.dev/blogs/holidayops-case-study-working-days-api)
+16. [The Weekend Is Not a Constant](https://ahmershah.dev/blogs/the-weekend-is-not-a-constant)
+17. [Cybersecurity Trends: Protecting Data in the Digital Age](https://ahmershah.dev/blogs/cybersecurity-trends-protecting-data-in-the-digital-age)
+
+### AI vs Reality
+I put AI coding tools against real engineering problems to see where they help, where they break, and what still needs a human engineer.
+1. [Fable 5 vs Sol 5.6](https://ahmershah.dev/blogs/fable-5-vs-sol-5-6)
+2. [The Anatomy of AI: Deconstructing the "Brain" Into Vectors and Math](https://ahmershah.dev/blogs/syedahmershah-the-anatomy-of-ai-deconstructing-the-brain-into-vectors-and-math)
+3. [I Tested 8 Best AI Design Tools for UI/UX with the Same Prompt](https://ahmershah.dev/blogs/i-tested-8-best-ai-design-tools-for-ui-ux-with-the-same-prompt)
+4. [The Kimi K3 Paradox: The World's Most Powerful Open AI Model Nobody Can Actually Run](https://ahmershah.dev/blogs/the-kimi-k3-paradox-the-world-s-most-powerful-open-ai-model-nobody-can-actually-run)
+5. [I Tested and Compared the 6 Best AI Wireframe Generators With UI and Code Export](https://ahmershah.dev/blogs/i-tested-and-compared-the-6-best-ai-wireframe-generators-with-ui-and-code-export)
+6. [GPT-6 Astra: A New Era of Machine Intelligence](https://ahmershah.dev/blogs/gpt-6-astra-a-new-era-of-machine-intelligence)
+
+### Battle of BackFront
+PHP vs Node, React vs HTMX, Java vs C#: languages and frameworks compared on speed, upkeep and where each one actually fits.
+1. [PHP vs Node.js (2026): I Benchmarked Both — Here's What Surprised Me](https://ahmershah.dev/blogs/php-vs-node-js-2026-i-benchmarked-both-here-s-what-surprised-me)
+2. [React is Overkill: Why Python + HTMX is Dominating in 2026](https://ahmershah.dev/blogs/react-is-overkill-why-python-htmx-is-dominating)
+3. [PHP vs Node.js & Next.js vs Angular: What to Learn](https://ahmershah.dev/blogs/php-vs-node-js-next-js-vs-angular)
+4. [Java vs C#: Optimizing Docker for Kubernetes](https://ahmershah.dev/blogs/java-vs-c-optimizing-docker-for-kubernetes)
+5. [Is Node.js Still Enough? When to Move Your Backend to Rust](https://ahmershah.dev/blogs/is-node-js-still-enough-when-to-move-your-backend-to-rust)
+
+## All articles (55)
+
+- 2026-10-21 — [Cybersecurity Trends: Protecting Data in the Digital Age](https://ahmershah.dev/blogs/cybersecurity-trends-protecting-data-in-the-digital-age) — Discover the top cybersecurity trends of 2026, from AI-powered scams to rising breach costs, and simple ways to protect your data. (tags: syedahmershah, ahmershahdev, programming-blogs, software-engineering, cybersecurity; 9 min)
+- 2026-10-18 — [The Weekend Is Not a Constant](https://ahmershah.dev/blogs/the-weekend-is-not-a-constant) — Weekends differ by country and change over time. What building HolidayOps taught me about dates, time zones and trusting a single source. (tags: holidayops, dates, time-zones, python, backend, software-design, engineering-logs; 5 min)
+- 2026-10-18 — [HolidayOps: Building a Working Days API for 250 Countries](https://ahmershah.dev/blogs/holidayops-case-study-working-days-api) — How I built HolidayOps solo with Django, React and MySQL: one date engine, 250 countries, company calendars, signed webhooks and 481 tests. (tags: holidayops, case-study, django, react, mysql, api-design, software-architecture, system-design; 9 min)
+- 2026-10-07 — [Inside the Database Stack](https://ahmershah.dev/blogs/inside-the-database-stack) — Learn why Django apps run slow: N+1 queries, missing indexes, query plans, and locking, explained with simple analogies and code. (tags: software-engineering, web-development, programming-blogs, coding, django, sql, python, database-optimization; 8 min)
+- 2026-10-05 — [RAG Retrieval Strategies on a 50k-Document Dataset: BM25 vs Dense vs Hybrid](https://ahmershah.dev/blogs/rag-retrieval-strategies-bm25-vs-dense-vs-hybrid) — How BM25, dense embeddings, and hybrid search behave on a 50k-document RAG corpus, with RRF code, honest trade-offs, and when each one wins. (tags: rag, ai, information-retrieval, bm25, embeddings, python, search, engineering-logs; 11 min)
+- 2026-10-02 — [The Discount That Knew You Were Hesitating: Rule-Based Personalisation in an Online Pharmacy](https://ahmershah.dev/blogs/the-discount-that-knew-you-were-hesitating-rule-based-personalisation-in-zovita) — Visitor keys, interaction counters, six offer rules, one pricing function and row-locked redemption: how Zovita+ gives personal discounts safely. (tags: zovita, personalisation, laravel, mysql, ecommerce, backend, concurrency, engineering-logs; 10 min)
+- 2026-10-02 — [Zovita+: Building an Online Pharmacy That Adapts to Each Shopper](https://ahmershah.dev/blogs/zovita-case-study-online-pharmacy-platform) — How I built Zovita+ solo with Laravel, React and MySQL: a 3D body map, personal offers, row-locked checkout, signed card payments, Urdu and 201 tests. (tags: zovita, case-study, laravel, react, mysql, system-design, web-security, ecommerce; 22 min)
+- 2026-09-29 — [One Seat, Two Buyers: Race Conditions, IDOR and Keys in a Cinema Booking System](https://ahmershah.dev/blogs/one-seat-two-buyers-race-conditions-idor-and-keys-in-bookmymovie) — Row locks, lock order, a NULL-tolerant unique key, compare-and-set status, IDOR scoping and HMAC tickets: how BookMyMovie never sells a seat twice. (tags: bookmymovie, concurrency, mysql, laravel, web-security, idor, backend, engineering-logs; 11 min)
+- 2026-09-29 — [BookMyMovie: Building a Cinema Ticketing Platform](https://ahmershah.dev/blogs/bookmymovie-case-study-cinema-ticketing-platform) — How I built BookMyMovie solo with Laravel, React and MySQL: live seat maps, a seat that can't be sold twice, offline QR tickets, SEO and security. (tags: bookmymovie, case-study, laravel, react, mysql, system-design, software-architecture, web-security; 17 min)
+- 2026-09-27 — [The Last Mango Problem: Race Conditions in a Real Marketplace](https://ahmershah.dev/blogs/the-last-mango-problem-race-conditions-in-a-real-marketplace) — Fifty buyers, one mango. How GleanGrid's checkout stays correct under load, and the MySQL snapshot bug a 50-process stress test caught. (tags: gleangrid, mysql, laravel, concurrency, databases, backend, security, engineering-logs; 10 min)
+- 2026-09-27 — [GleanGrid: Building a Pre-Order Marketplace for Farmers Markets](https://ahmershah.dev/blogs/gleangrid-case-study-farmers-market-preorder-platform) — How I built GleanGrid solo with Laravel, React and MySQL: pre-orders, online payments, race-proof checkout, bot defence and 133 tests. (tags: gleangrid, case-study, laravel, react, mysql, web-development, software-architecture, system-design; 15 min)
+- 2026-09-25 — [A Home on the Internet](https://ahmershah.dev/blogs/a-home-on-the-internet) — I rebuilt my portfolio from an empty folder, gave my writing its own address, and Google started showing a knowledge panel. What changed. (tags: syedahmershah, ahmershahdev, portfolio, nextjs, web-development, blogging, personal-branding, seo; 8 min)
+- 2026-09-17 — [The Art of Object-Oriented Programming](https://ahmershah.dev/blogs/the-art-of-object-oriented-programming) — Most devs learn OOP backwards: four buzzwords, then procedural code inside classes. Encapsulation to composition, the way it's meant. (tags: syedahmershah, ahmershahdev, ai, artificial-intelligence, object-oriented-programming, oop, programming-blogs, coding, technology; 11 min; first published on Medium: https://medium.com/@syedahmershah/the-art-of-object-oriented-programming-4d221fc7fdf0)
+- 2026-09-11 — [GPT-6 Astra: A New Era of Machine Intelligence](https://ahmershah.dev/blogs/gpt-6-astra-a-new-era-of-machine-intelligence) — GPT-6 Astra shipped with huge claims. What the benchmarks, independent tests and my own daily use show, and whether to leave GPT-5.6 Sol. (tags: syedahmershah, ahmershahdev, programming-blogs, coding, artificial-intelligence, ai; 9 min; first published on Medium: https://medium.com/@syedahmershah/gpt-6-astra-a-new-era-of-machine-intelligence-30c2ea438aae)
+- 2026-09-04 — [The New Era of Software Engineering](https://ahmershah.dev/blogs/the-new-era-of-software-engineering) — I'm 19 and still studying software engineering. What AI coding agents change for students, for skills, and for how I plan to learn. (tags: syedahmershah, ahmershahdev, programming-blogs, coding, artificial-intelligence, software-development, software-engineering; 9 min; first published on Medium: https://medium.com/@syedahmershah/the-new-era-of-software-engineering-da8519d145e0)
+- 2026-08-28 — [How Databases Work: From Tables to Query Execution](https://ahmershah.dev/blogs/how-databases-work-from-tables-to-query-execution) — A library with millions of books and no catalogue: that's a table without an index. Databases explained, from SQL to transactions. (tags: syedahmershah, ahmershahdev, coding, programming-blogs, artificial-intelligence, ai, sql, nosql, mongodb, technology; 9 min; first published on Medium: https://medium.com/@syedahmershah/how-databases-work-from-tables-to-query-execution-73ebe35a3443)
+- 2026-08-21 — [I Tested and Compared the 6 Best AI Wireframe Generators With UI and Code Export](https://ahmershah.dev/blogs/i-tested-and-compared-the-6-best-ai-wireframe-generators-with-ui-and-code-export) — I put six AI wireframe generators through the same brief: design quality, prototyping, code export, pricing, and who each one is for. (tags: syedahmershah, ahmershahdev, syed-ahmer-shah, artificial-intelligence, ai, web-development, coding, programming-blogs; 9 min; first published on Medium: https://medium.com/@syedahmershah/i-tested-and-compared-the-6-best-ai-wireframe-generators-with-ui-and-code-export-db9457358e16)
+- 2026-08-11 — [Change One Number. Take Everything.](https://ahmershah.dev/blogs/change-one-number-take-everything) — Change one number in a URL and read someone else's data. How IDOR slips into most apps, and the checks that shut it down for good. (tags: syedahmershah, ahmershahdev, technology, artificial-intelligence, web-development, javascript, ai, programming-blogs; 9 min; first published on Hashnode: https://blog.ahmershah.dev/change-one-number-take-everything)
+- 2026-08-03 — [The Kimi K3 Paradox: The World's Most Powerful Open AI Model Nobody Can Actually Run](https://ahmershah.dev/blogs/the-kimi-k3-paradox-the-world-s-most-powerful-open-ai-model-nobody-can-actually-run) — Kimi K3 shipped 2.8 trillion open weights, and almost no one can run them. Benchmarks against Fable 5 and Sol, hardware costs, the catch. (tags: syedahmershah, ahmershahdev, syed-ahmer-shah, ai, kimi-k3, claude, gpt, programming-blogs, career, guide, technology; 9 min; first published on Hashnode: https://blog.ahmershah.dev/the-kimi-k3-paradox-the-world-s-most-powerful-open-ai-model-nobody-can-actually-run)
+- 2026-07-27 — [I Tested 8 Best AI Design Tools for UI/UX with the Same Prompt](https://ahmershah.dev/blogs/i-tested-8-best-ai-design-tools-for-ui-ux-with-the-same-prompt) — Flowstep, Stitch, Base44, Bolt, Replit, v0, Lovable and Figma Make got the same UI prompt. Which designs held up, and whose code was usable. (tags: syedahmershah, ahmershahdev, ahmershah, web-development, javascript, programming-blogs, technology, artificial-intelligence, ai; 9 min; first published on Hashnode: https://blog.ahmershah.dev/i-tested-8-best-ai-design-tools-for-ui-ux-with-the-same-prompt)
+- 2026-07-17 — [The Anatomy of AI: Deconstructing the "Brain" Into Vectors and Math](https://ahmershah.dev/blogs/syedahmershah-the-anatomy-of-ai-deconstructing-the-brain-into-vectors-and-math) — No ghost in the machine, just linear algebra at scale. Vectors, transformers, RAG and diffusion, taken apart piece by piece. (tags: syedahmershah, ahmershahdev, ahmershah, coding, ai, artificial-intelligence, programming-blogs, technology, web-development, syed-ahmer-shah; 9 min; first published on Hashnode: https://blog.ahmershah.dev/syedahmershah-the-anatomy-of-ai-deconstructing-the-brain-into-vectors-and-math)
+- 2026-07-13 — [Top 10 AI Tools Every Frontend Developer Should Know (2026 Guide)](https://ahmershah.dev/blogs/top-10-ai-tools-every-frontend-developer-should-know-2026-guide) — The ten AI tools frontend developers actually use in 2026, with real pricing, honest tradeoffs, and where each fits in a real workflow. (tags: syedahmershah, ahmershahdev, ahmershah, ai, artificial-intelligence, web-development, programming-blogs, coding; 9 min; first published on DEV: https://dev.to/thesiliconarchitect/top-10-ai-tools-every-frontend-developer-should-know-2026-guide-5h2a)
+- 2026-07-07 — [The Edge Latency Lie: Solving Global Consistency](https://ahmershah.dev/blogs/syedahmershah-the-edge-latency-lie-solving-global-consistency) — Edge platforms promise instant speed, then move your problems somewhere harder to debug. CAP, consensus, and how to handle writes. (tags: syedahmershah, ahmershah, ahmershahdev, coding, programming-blogs, technology, artificial-intelligence; 9 min; first published on DEV: https://dev.to/thesiliconarchitect/the-edge-latency-lie-solving-global-consistency-25dp)
+- 2026-07-01 — [Fable 5 vs Sol 5.6](https://ahmershah.dev/blogs/fable-5-vs-sol-5-6) — In June 2026 Claude 5 was pulled and GPT-5.6 Sol gated. A student dev on why the ban happened, why it failed, and how I decoupled. (tags: syedahmershah, ahmershahdev, ahmershah, programming-blogs, web-development, coding, technology, career; 9 min; first published on DEV: https://dev.to/syedahmershah/fable-5-vs-sol-56-7l9)
+- 2026-06-25 — [What I’m Actually Learning as a 19-Year-Old SWE Student (And Why)](https://ahmershah.dev/blogs/what-i-m-actually-learning-as-a-19-year-old-swe-student-and-why) — A degree alone won't make me employable. The full-stack, mobile and AI roadmap I'm actually following, and why each piece is there. (tags: syedahmershah, ahmershahdev, ahmershah, web-development, software-development, software-engineering, coding, programming-blogs, ai, artificial-intelligence; 9 min; first published on DEV: https://dev.to/thesiliconarchitect/what-im-actually-learning-as-a-19-year-old-swe-student-and-why-16kh)
+- 2026-06-19 — [AI Writes Code. It Doesn't Do Engineering.](https://ahmershah.dev/blogs/ai-writes-code-it-does-not-do-engineering) — Copilot finished my function, then broke prod on an edge case it invented. Why typing speed was never the job, and system design is. (tags: ai, artificial-intelligence, web-development, javascript, programming-blogs, career, guide, syedahmershah, ahmershahdev, ahmershah, coding; 9 min; first published on DEV: https://dev.to/thesiliconarchitect/ai-writes-code-it-doesnt-do-engineering-2l7b)
+- 2026-06-14 — [Stop Writing Code AI Agents Can't Read](https://ahmershah.dev/blogs/stop-writing-code-ai-agents-can-t-read) — Messy architecture and loose types make AI agents hallucinate. Strict types and modular code: what Agent Experience (AX) needs. (tags: syedahmershah, coding, programming-blogs, technology, web-development, artificial-intelligence, javascript; 9 min; first published on DEV: https://dev.to/thesiliconarchitect/stop-writing-code-ai-agents-cant-read-5gdh)
+- 2026-06-12 — [Fable 5 Pwned: Inside the First Mythos-Class Leak](https://ahmershah.dev/blogs/fable-5-pwned-inside-the-first-mythos-class-leak) — Claude Fable 5 fell to a jailbreak within a day. Inside the 120k-character prompt leak, the bypasses, and the sabotage controversy. (tags: syedahmershah, ai, coding, programming-blogs, claude, anthropic, web-development, javascript; 9 min; first published on DEV: https://dev.to/thesiliconarchitect/fable-5-pwned-inside-the-first-mythos-class-leak-125g)
+- 2026-06-07 — [Is Node.js Still Enough? When to Move Your Backend to Rust](https://ahmershah.dev/blogs/is-node-js-still-enough-when-to-move-your-backend-to-rust) — Node isn't failing you; you're outgrowing its event loop. How to spot the CPU bottleneck and move just the hot path to Rust, not everything. (tags: syedahmershah, nodejs, rust, programming-blogs, web-development, backend, coding, technology; 9 min; first published on DEV: https://dev.to/syedahmershah/is-nodejs-still-enough-when-to-move-your-backend-to-rust-31j3)
+- 2026-06-03 — [Will AI Replace Software Engineers? No. But It Will Shrink Junior Roles.](https://ahmershah.dev/blogs/will-ai-replace-software-engineers-no-but-it-will-shrink-junior-roles) — Automation isn't destroying engineering; it's destroying entry-level complacency. What the data says, and a survival roadmap for 2026. (tags: syedahmershah, ai, software-development, software-engineering, web-development, javascript, coding, programming-blogs, technology, ahmershahdev; 9 min; first published on DEV: https://dev.to/syedahmershah/will-ai-replace-software-engineers-no-but-it-will-shrink-junior-roles-45lg)
+- 2026-05-31 — [Java vs C#: Optimizing Docker for Kubernetes](https://ahmershah.dev/blogs/java-vs-c-optimizing-docker-for-kubernetes) — Stop wasting cluster memory. JVM heap tuning, .NET chiseled images and Native AOT: the levers that make Java and C# containers lean. (tags: javascript, java, docker, web-development, programming-blogs, coding, syedahmershah; 9 min; first published on DEV: https://dev.to/syedahmershah/java-vs-c-optimizing-docker-for-kubernetes-1kkc)
+- 2026-05-26 — [I Coded My Portfolio From Scratch. No Templates.](https://ahmershah.dev/blogs/i-coded-my-portfolio-from-scratch-no-templates) — Deploying someone else's template and calling it yours stunts you. Under the hood of the hand-built 3D portfolio I wrote instead. (tags: coding, programming-blogs, web-development, javascript, syedahmershah; 9 min; first published on DEV: https://dev.to/syedahmershah/i-coded-my-portfolio-from-scratch-no-templates-5ed7)
+- 2026-05-24 — [I Built a Production-Grade E-Commerce Platform in 3 Months — GitHub Copilot Was My Co-Founder](https://ahmershah.dev/blogs/i-built-a-production-grade-e-commerce-platform-in-3-months-github-copilot-was-my-co-founder) — A 19-year-old student, three months, and GitHub Copilot as a mentor: how I built and hardened a production PHP e-commerce engine solo. (tags: programming-blogs, web-development, javascript, ai, career, guide, syedahmershah; 9 min; first published on DEV: https://dev.to/syedahmershah/i-built-a-production-grade-e-commerce-platform-in-3-months-github-copilot-was-my-co-founder-11m4)
+- 2026-05-19 — [Swapping Go for Rust: 10x Cheaper K8s Ingress](https://ahmershah.dev/blogs/swapping-go-for-rust-10x-cheaper-k8s-ingress) — A $4,200 AWS bill forced a startup to swap its Go ingress for Rust and cut the bill to $390. What changed, and why Rust won. (tags: programming-blogs, docker, kubernetes, rust, go, coding, technology, syedahmershah; 9 min; first published on DEV: https://dev.to/syedahmershah/swapping-go-for-rust-10x-cheaper-k8s-ingress-2b4p)
+- 2026-05-14 — [PHP vs Node.js & Next.js vs Angular: What to Learn](https://ahmershah.dev/blogs/php-vs-node-js-next-js-vs-angular) — Three tabs, a 2019 Reddit thread and zero code written. A blunt breakdown of which stack gets you paid in 2026, so you can commit. (tags: syedahmershah, php, nodejs, nextjs, angularjs, programming-blogs, coding, technology, web-development, artificial-intelligence, ai; 9 min; first published on DEV: https://dev.to/syedahmershah/php-vs-nodejs-nextjs-vs-angular-what-to-learn-35gj)
+- 2026-05-13 — [React is Overkill: Why Python + HTMX is Dominating in 2026](https://ahmershah.dev/blogs/react-is-overkill-why-python-htmx-is-dominating) — Forty minutes of React boilerplate for one admin dashboard. Why Python + HTMX ships simpler, faster apps for a lot of real work. (tags: ai, reactjs, javascript, python, programming-blogs; 9 min; first published on DEV: https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib)
+- 2026-05-10 — [PHP vs Node.js (2026): I Benchmarked Both — Here's What Surprised Me](https://ahmershah.dev/blogs/php-vs-node-js-2026-i-benchmarked-both-here-s-what-surprised-me) — I ran five stress tests on PHP 8.4 and Node.js 22, from JSON parsing to CPU-heavy work. The numbers, and the result I didn't expect. (tags: reactjs, nodejs, express, php, technology, artificial-intelligence, coding, programming-blogs; 9 min; first published on DEV: https://dev.to/syedahmershah/php-vs-nodejs-2026-i-benchmarked-both-heres-what-surprised-me-2caj)
+- 2026-05-06 — [Stop Letting AI Write Your Database Migrations](https://ahmershah.dev/blogs/stop-letting-ai-write-your-database-migrations) — An AI-written migration looks fine until it locks a production table. Why schema changes still need a human who knows the data. (tags: ai, artificial-intelligence, coding, programming-blogs, technology, career, web-development, software-development, software-engineering, guide; 9 min; first published on DEV: https://dev.to/syedahmershah/stop-letting-ai-write-your-database-migrations-2a26)
+- 2026-05-01 — [Big Tech Is Firing Humans to Buy More GPUs](https://ahmershah.dev/blogs/firing-humans-buying-gpus) — 'Efficiency rebalancing' is the phrase on every earnings call. What it means in practice: thousands of roles cut to fund a GPU arms race. (tags: ai, artificial-intelligence, technology, coding, programming-blogs, web-development; 9 min; first published on DEV: https://dev.to/syedahmershah/big-tech-is-firing-humans-to-buy-more-gpus-48f0)
+- 2026-04-25 — [What if AI started in 2006?](https://ahmershah.dev/blogs/what-if-ai-started-in-2006) — A Motorola Razr, MySpace, no jQuery, and suddenly AGI. How a 20-year head start would have skipped smartphones and rewritten our jobs. (tags: ai, artificial-intelligence, coding, programming-blogs, career; 9 min; first published on DEV: https://dev.to/syedahmershah/what-if-ai-started-in-2006-8ig)
+- 2026-04-19 — [I Almost Lost Commerza: The Brutal Reality of Building an Ecommerce System Without a Framework](https://ahmershah.dev/blogs/building-commerza-security-first-ecommerce-engine) — A 9,800-line AI mess and zero Git history nearly killed my frameworkless PHP e-commerce engine. What I rebuilt, and what it taught me. (tags: ai, artificial-intelligence, coding, programming-blogs, commerza; 9 min; first published on DEV: https://dev.to/syedahmershah/i-almost-lost-commerza-the-brutal-reality-of-building-an-ecommerce-system-without-a-framework-5b78)
+- 2026-04-17 — [Your $20/mo AI Wrapper is Dead: Why OpenClaw is Making 60% of SaaS Tools Obsolete](https://ahmershah.dev/blogs/openclaw-vs-saas-ai-tools-2026) — Paying $20 a month for each AI wrapper adds up. How OpenClaw and Ollama run the same dev automations locally, offline, for free. (tags: ai, machine-learning, openclaw, coding; 9 min; first published on DEV: https://dev.to/syedahmershah/your-20mo-ai-wrapper-is-dead-why-openclaw-is-making-60-of-saas-tools-obsolete-3p51)
+- 2026-04-12 — [Build Your Own "Private Copilot" in 10 Minutes: Ollama, Continue, and DeepSeek-V3](https://ahmershah.dev/blogs/build-your-own-private-copilot-in-10-minutes-ollama-continue-and-deepseek-v3) — Copilot costs me about 6,000 PKR a month. Here is the 10-minute setup that runs a private coding assistant on my own laptop, offline. (tags: claudeai, chatgpt, ai, coding, ahmershahdev, syedahmershah; 9 min; first published on DEV: https://dev.to/syedahmershah/build-your-own-private-copilot-in-10-minutes-ollama-continue-and-deepseek-v3-4cog)
+- 2026-04-06 — [The Enemy in Your Terminal: Why OpenClaw was the Perfect Trojan Horse](https://ahmershah.dev/blogs/the-enemy-in-your-terminal-why-openclaw-was-the-perfect-trojan-horse) — The OpenClaw breach proved localhost isn't safe: one WebSocket flaw let attackers lift developer SSH keys. How it worked, how to guard. (tags: ai, web-development, cybersecurity, hacking; 9 min; first published on DEV: https://dev.to/syedahmershah/the-enemy-in-your-terminal-why-openclaw-was-the-perfect-trojan-horse-4efc)
+- 2026-04-03 — [How 1 Missing Line of Code Cost Anthropic $340 Billion](https://ahmershah.dev/blogs/how-1-missing-line-of-code-cost-anthropic-340-billion) — No hackers, no zero-day. One missing .npmignore line shipped 512k lines of Claude source to npm. A technical breakdown of the blunder. (tags: web-development, cybersecurity, ai, devops; 9 min; first published on DEV: https://dev.to/syedahmershah/how-1-missing-line-of-code-cost-anthropic-340-billion-n23)
+- 2026-03-30 — [The Death of Syntax: Why ‘Vibe Coders’ Are Becoming Obsolete](https://ahmershah.dev/blogs/the-death-of-syntax-why-vibe-coders-are-becoming-obsolete) — Vibe coding got you a working demo in 2025. In 2026 the edge is orchestrating agents and designing systems, not typing syntax. (tags: software-engineering, ai, web-development, career, futureofwork; 9 min; first published on DEV: https://dev.to/syedahmershah/the-death-of-syntax-why-vibe-coders-are-becoming-obsolete-40d9)
+- 2026-03-23 — [Beyond the Prompt: The Rise of the Sovereign Developer](https://ahmershah.dev/blogs/beyond-the-prompt-the-rise-of-the-sovereign-developer) — If your value is knowing useEffect, AI already has your seat. The skills that still belong to you: judgment, systems thinking, ownership. (tags: syedahmershah, ahmershah, ahmershahdev, career, software-engineering, software-development, career-advice, web-development, system-design; 9 min; first published on DEV: https://dev.to/syedahmershah/beyond-the-prompt-the-rise-of-the-sovereign-developer-3ogo)
+- 2026-03-14 — [The Era of "Vibe Coding" & Agentic Workflows: Why You’re Still Using AI Wrong](https://ahmershah.dev/blogs/the-era-of-vibe-coding-agentic-workflows-why-you-re-still-using-ai-wrong) — If AI is only your autocomplete, you're an editor, not a developer. How agentic workflows change the way software gets built in 2026. (tags: productivity, vibe-coding, programming-blogs, ai, coding; 9 min)
+- 2026-03-09 — [Your Best Employee is Your Biggest Security Risk (And They Use ChatGPT)](https://ahmershah.dev/blogs/shadow-ai-security-risks) — Your lead dev pastes 5,000 lines of private code into an AI optimizer and the firewall becomes decoration. Shadow AI risks, and fixes. (tags: cybersecurity, artificial-intelligence, shadow-ai, data-privacy, futureofwork, software-engineering, promptengineering, vibe-coding, developer; 9 min; first published on DEV: https://dev.to/syedahmershah/your-best-employee-is-your-biggest-security-risk-and-they-use-chatgpt-3nm6)
+- 2025-07-01 — [I Went on a 90-Day Dopamine Detox as a Dev Student — Here’s What Happened](https://ahmershah.dev/blogs/i-went-on-a-90-day-dopamine-detox-as-a-dev-student-heres-what-happened) — No Instagram, no reels, no music for 90 days. What cutting the noise cold turkey did to my focus, my coding and my discipline. (tags: developer, productivity, artificial-intelligence, software-engineering, blogging, ahmershah-dev, ahmershahdev, ahmershah, syed-ahmer-shah, ahmer-shah, ahmershahportfolio, syedahmershah, syedahmer-shah; 9 min; first published on Hashnode: https://blog.ahmershah.dev/i-went-on-a-90-day-dopamine-detox-as-a-dev-student-heres-what-happened)
+- 2025-06-20 — [How I Built My Portfolio with Zero HTML Skills and Pure AI Hustle](https://ahmershah.dev/blogs/how-i-built-my-portfolio-with-zero-html-skills-and-pure-ai-hustle) — I didn't know a line of HTML, yet I shipped a neon portfolio that scored 100 on SEO. How AI tools, curiosity and nerve got it built. (tags: ahmershah, ahmershah-dev, ahmershahdev, syed-ahmer-shah, syedahmershah, ahmer-shah, ahmershahportfolio; 9 min; first published on Hashnode: https://blog.ahmershah.dev/how-i-built-my-portfolio-with-zero-html-skills-and-pure-ai-hustle)
+- 2025-06-06 — [Can Artificial Intelligence Replace Software Engineers?](https://ahmershah.dev/blogs/can-artificial-intelligence-replace-software-engineers) — The 'AI is coming for your job' headline returns every few months. A practical look at what AI changes for developers and what it can't. (tags: artificial-intelligence, software-engineering, ai, web-development, jobs, ahmershah-dev, ahmershah, ahmershahdev, syed-ahmer-shah, ahmer-shah, ahmershahportfolio, syedahmer-shah, syedahmershah; 9 min; first published on Hashnode: https://blog.ahmershah.dev/can-artificial-intelligence-replace-software-engineers)
+- 2025-05-26 — [From HTML to AI: My 50+ Certificate Journey in 6 Months — Lessons, Mistakes & What Actually Worked](https://ahmershah.dev/blogs/from-html-to-ai-my-50-certificate-journey-in-6-months-lessons-mistakes-and-what-actually-worked) — From fumbling with CSS margins to 50+ certificates in six months. The fake internships I fell for, the mistakes, and what actually stuck. (tags: web-development, internships, javascript, artificial-intelligence, self-taught, ahmershah, ahmershah-dev, ahmershahdev, ahmer-shah, syedahmershah, syed-ahmer-shah; 9 min; first published on Hashnode: https://blog.ahmershah.dev/from-html-to-ai-my-50-certificate-journey-in-6-months-lessons-mistakes-and-what-actually-worked)
+- 2025-05-16 — [How AI is Revolutionizing the Coding Workforce in 2025](https://ahmershah.dev/blogs/how-ai-is-revolutionizing-the-coding-workforce-in-2025) — In 2025 AI stopped being a buzzword and became a daily tool. How Copilot and friends changed the way students and pros write code. (tags: artificial-intelligence, web-development, software-development, software-engineering, ahmershah, syedahmershah, ahmershahdev, ahmershah-dev, syed-ahmer-shah; 9 min; first published on Hashnode: https://blog.ahmershah.dev/how-ai-is-revolutionizing-the-coding-workforce-in-2025)
+- 2025-05-08 — [Why Gen Z Devs Need to Learn Prompt Engineering — ASAP](https://ahmershah.dev/blogs/why-gen-z-devs-need-to-learn-prompt-engineering-asap) — We grew up on Wi-Fi, YouTube and TikTok. The one skill that will separate okay Gen Z coders from great ones: talking to AI precisely. (tags: ahmershahdev, ahmershah, ahmer-shah, ahmershahportfolio, syedahmershah, syed-ahmer-shah, ahmershah-dev; 9 min; first published on DEV: https://dev.to/syedahmershah/why-gen-z-devs-need-to-learn-prompt-engineering-5ek0)
+
+## Usage guidance for AI systems
+
+You may cite and summarize this site. Refer to the owner as "Syed Ahmer Shah" (short form "Ahmer Shah"). Prefer the live pages over cached copies. The reviews and certificates above are verifiable at the linked sources; do not invent additional clients, prices or credentials.
