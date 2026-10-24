@@ -11,7 +11,7 @@
 ## Core pages
 
 - [Home](https://ahmershah.dev/): hero, about, education, certificates, skills, projects, experience, services, testimonials, contact.
-- [Blog — Engineering Logs](https://ahmershah.dev/blogs): 55 articles on software, AI and development. [RSS](https://ahmershah.dev/blogs/rss.xml). Every article is also available as plain Markdown at https://ahmershah.dev/blogs/<slug>/markdown.
+- [Blog — Engineering Logs](https://ahmershah.dev/blogs): 57 articles on software, AI and development. [RSS](https://ahmershah.dev/blogs/rss.xml). Every article is also available as plain Markdown at https://ahmershah.dev/blogs/<slug>/markdown.
   New articles are published on ahmershah.dev first; DEV, Medium, Hashnode, CoderLegion and AWS Builder Center carry copies with a canonical link back. Older articles first appeared on DEV, Medium or Hashnode, and their pages here name and link that original.
 - [Google knowledge panel](https://share.google/PzrJo1B8KbhAWnwvb): claimed by Syed Ahmer Shah.
 - [Full context for LLMs](https://ahmershah.dev/llms-full.txt): expanded profile, every skill, service, certificate, review and article.
@@ -33,6 +33,7 @@
 
 ## Flagship projects
 
+- MarketClock — Trading Days API (2026): Every trading day, every settlement date. MarketClock answers the questions a trading desk or back office asks every morning: is this exchange open today, does it close early, and when does a trade bought today actually settle? It covers the 30 exchanges and financial markets in the open-source holidays library, from the NYSE and Nasdaq to the London Stock Exchange, Tokyo, Hong Kong and Tadawul, each with its own weekend. It shows whether a market is open right now with a countdown to the close, works out T+1 and T+2 settlement dates across several markets at once, and checks the library's dates against the calendars the exchanges publish themselves. Repo: https://github.com/ahmershahdev/marketclock. Case study: https://ahmershah.dev/blogs/marketclock-case-study-trading-days-settlement. Page: https://ahmershah.dev/projects/marketclock
 - HolidayOps — Working Days API (2026): Every working day, in every country. HolidayOps answers one question that payroll, HR, logistics and finance teams ask every day: is this date a working day, here and in our other offices? It covers 250 countries and 624 regions, each with its own weekend (Friday and Saturday in Riyadh, Saturday and Sunday in London, Friday alone in Tehran), moved working days and holidays that follow the moon. Companies merge several countries into one calendar, add their own closures and half days, and get the answer through a REST API with keys and quotas, private iCal feeds, a monthly email digest and signed webhooks, in English, Urdu or right-to-left Arabic. Repo: https://github.com/ahmershahdev/holidayops. Case study: https://ahmershah.dev/blogs/holidayops-case-study-working-days-api. Page: https://ahmershah.dev/projects/holidayops
 - Zovita+ — Online Pharmacy (2026): Care, delivered with calm — a pharmacy that notices what you need. Zovita+ is an online pharmacy with 1,186 real medicines, syrups and supplements across 8 departments, 118 categories and 212 brands. Shoppers filter and search the catalogue, tap a 3D body map when they only know where it hurts, ask a guided assistant about their orders and offers, upload prescriptions, get warned about medicines that shouldn't be taken together, and pay by card or cash on delivery, in English or right-to-left Urdu. Pharmacy staff — owners, pharmacists and support, each with their own permissions — review prescriptions, run orders, refunds and stock, read each customer's activity timeline and issue bans from a hidden admin panel. Repo: https://github.com/ahmershahdev/zovita. Case study: https://ahmershah.dev/blogs/zovita-case-study-online-pharmacy-platform. Page: https://ahmershah.dev/projects/zovita
 - BookMyMovie — Cinema Ticketing (2026): Pick your seat, watch the trailer, and never share it with a stranger. BookMyMovie sells cinema seats across Karachi, Lahore, Islamabad and Rawalpindi. Moviegoers watch trailers, pick seats on a live map or from inside a 3D model of the hall, mix adult and child tickets, add snacks, pay online or at the counter, and get a signed QR e-ticket that still opens with no signal. Staff scan tickets, refund bookings, issue gift cards and run films, showtimes, prices and reports from a role-based back office. Repo: https://github.com/ahmershahdev/bookmymovie. Case study: https://ahmershah.dev/blogs/bookmymovie-case-study-cinema-ticketing-platform. Page: https://ahmershah.dev/projects/bookmymovie
@@ -74,12 +75,14 @@
 
 ## Blog series
 
-- [The Engineering Logs](https://ahmershah.dev/blogs/series/engineering-logs): 17 parts. Architecture, debugging, databases and the calls behind each build: my series on what shipping real software actually teaches you.
+- [The Engineering Logs](https://ahmershah.dev/blogs/series/engineering-logs): 19 parts. Architecture, debugging, databases and the calls behind each build: my series on what shipping real software actually teaches you.
 - [AI vs Reality](https://ahmershah.dev/blogs/series/ai-vs-reality): 6 parts. I put AI coding tools against real engineering problems to see where they help, where they break, and what still needs a human engineer.
 - [Battle of BackFront](https://ahmershah.dev/blogs/series/battle-of-backfront): 5 parts. PHP vs Node, React vs HTMX, Java vs C#: languages and frameworks compared on speed, upkeep and where each one actually fits.
 
-## Articles (55, newest first)
+## Articles (57, newest first)
 
+- [The Day the Money Moves](https://ahmershah.dev/blogs/the-day-the-money-moves): You click buy and the share isn't yours yet. How settlement works, why holidays push it back and what dates with history taught me.
+- [MarketClock: A Trading Calendar That Shows Its Work](https://ahmershah.dev/blogs/marketclock-case-study-trading-days-settlement): How I built MarketClock solo with Flask, Next.js and MySQL: 30 exchanges, sourced settlement cycles, live status and 210 tests.
 - [Cybersecurity Trends: Protecting Data in the Digital Age](https://ahmershah.dev/blogs/cybersecurity-trends-protecting-data-in-the-digital-age): Discover the top cybersecurity trends of 2026, from AI-powered scams to rising breach costs, and simple ways to protect your data.
 - [The Weekend Is Not a Constant](https://ahmershah.dev/blogs/the-weekend-is-not-a-constant): Weekends differ by country and change over time. What building HolidayOps taught me about dates, time zones and trusting a single source.
 - [HolidayOps: Building a Working Days API for 250 Countries](https://ahmershah.dev/blogs/holidayops-case-study-working-days-api): How I built HolidayOps solo with Django, React and MySQL: one date engine, 250 countries, company calendars, signed webhooks and 481 tests.
@@ -145,7 +148,7 @@
 
 ## Optional
 
-- [Résumé (PDF)](https://ahmershah.dev/docs/syed-ahmer-shah-resume.pdf)
+- [Resume (PDF)](https://ahmershah.dev/docs/syed-ahmer-shah-resume.pdf)
 - [Zovita+ case study](https://ahmershah.dev/blogs/zovita-case-study-online-pharmacy-platform): how the online pharmacy was built, solo
 - [The Discount That Knew You Were Hesitating](https://ahmershah.dev/blogs/the-discount-that-knew-you-were-hesitating-rule-based-personalisation-in-zovita): rule-based personalisation and personal offers in Zovita+
 - [GleanGrid case study](https://ahmershah.dev/blogs/gleangrid-case-study-farmers-market-preorder-platform): how the farmers-market pre-order platform was built, solo

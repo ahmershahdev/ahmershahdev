@@ -1,7 +1,7 @@
 # Syed Ahmer Shah — full context for language models
 
 Canonical URL: https://ahmershah.dev
-Last updated: 2026-10-23
+Last updated: 2026-10-24
 Entity: Syed Ahmer Shah (also "Ahmer Shah"; handles @syedahmershah, @ahmershahdev). Born 29 October 2006. Hyderabad, Sindh, Pakistan.
 
 ## Identity
@@ -27,7 +27,7 @@ Facts: based in Hyderabad, PK; time zone Asia/Karachi (UTC+5); building since 20
 - Phone / WhatsApp: +92 370 4831994 (https://wa.me/923704831994)
 - Book a Zoom / Google Meet call: https://calendly.com/syedahmershah
 - Contact form (reCAPTCHA-protected, rate-limited): https://ahmershah.dev/#contact
-- Résumé (PDF): https://ahmershah.dev/docs/syed-ahmer-shah-resume.pdf
+- Resume (PDF): https://ahmershah.dev/docs/syed-ahmer-shah-resume.pdf
 
 ## Experience
 
@@ -118,6 +118,16 @@ Also offered: free 20-minute discovery calls on Zoom / Google Meet via https://c
 - Studio / B2B listings (a small team can work under Ahmer for bigger scopes): Clutch (https://clutch.co/profile/syed-ahmer-shah), G2 (https://www.g2.com/products/syed-ahmer-shah/), Trustpilot (https://www.trustpilot.com/review/ahmershah.dev), DesignRush (https://www.designrush.com/agency/profile/syed-ahmer-shah), TechBehemoths (https://techbehemoths.com/company/syed-ahmer-shah), Edverise (https://edverise.com/profile/syed-ahmer-shah), Feedbax (https://feedbax.ai/profile/syed-ahmer-shah), Contra (studio) (https://contra.com/company/syed-ahmer-shah_6d22c4)
 
 ## Projects
+
+### MarketClock — Trading Days API (2026)
+Every trading day, every settlement date.
+MarketClock answers the questions a trading desk or back office asks every morning: is this exchange open today, does it close early, and when does a trade bought today actually settle? It covers the 30 exchanges and financial markets in the open-source holidays library, from the NYSE and Nasdaq to the London Stock Exchange, Tokyo, Hong Kong and Tadawul, each with its own weekend. It shows whether a market is open right now with a countdown to the close, works out T+1 and T+2 settlement dates across several markets at once, and checks the library's dates against the calendars the exchanges publish themselves.
+Built in October 2026 across 24 pull requests: a pure-Python date layer on the holidays library with 100% branch coverage, a Flask API with Pydantic validation, MySQL for sourced settlement cycles and official calendars, and Redis for caching and rate limiting. The Next.js web app has a page per market and year, a yearly index of every exchange, settlement, overlap and business-day calculators, calendar subscriptions, an embeddable status card and a data-quality page. Every fact that doesn't come from the library, a session hour, a settlement cycle, an official holiday, carries the link to the page it was read from. 172 backend and 38 frontend tests run on every pull request.
+Role: Solo build — product, API design, date logic, data sourcing, web app, SEO, security, tests and docs. Stack: Python 3.12, Flask 3.1, Pydantic 2, SQLAlchemy 2, Alembic, MySQL 8.4, Redis, holidays, Next.js 16, React 19, TypeScript, Tailwind CSS 4, Three.js, Docker. Security baseline: Strict input validation, Per-client rate limit, Sourced data only, Parameterised queries, Escaped embed output, Non-root containers, CodeQL on every PR, No personal data stored.
+Metrics: 30 markets · 66 official days checked · 210 automated tests · 100% core branch coverage.
+Highlights: Sourced, not guessed: settlement cycles, trading hours and official calendars are stored with the exchange or regulator page they came from, and a market with no confirmed source says so instead of inventing an answer. Checked against the exchange: NYSE, Nasdaq and London Stock Exchange calendars were compared day by day with the library, 66 official days in all, and every one matched. Open right now: each market's state is worked out in its own time zone, with a countdown to the close or the next open, including early closes before holidays. Settlement that respects history: a trade dated 2020 settles on the old T+2 rule and a trade dated today on T+1, because cycles are stored with the date they took effect.
+How it works: app/core is plain Python with no Flask or database imports and 100% branch coverage; trading days use the holidays library's own working-day logic, never a copy of its data. T+n is the n-th day after the trade date on which every listed market is open, so a NYSE and London trade on 23 December 2026 at T+2 settles on the 29th, skipping London's Boxing Day substitute. Settlement cycles live in MySQL with their effective date and source URL; without a cycle in the request the API uses the longest cycle in force on the trade date and returns its sources. Holidays are cached in Redis under a key that includes the library version, so an upgrade can never serve stale dates, and a Redis outage only skips the cache. The OpenAPI schema is generated from the Pydantic models and the web app's TypeScript types from the schema; CI fails if either one drifts. Open-now status is computed by the API with zoneinfo and a pinned tzdata, reading each market's date in its own time zone; a trading day without confirmed hours reports hours unknown rather than open. The iCalendar feeds fold lines at 75 octets by UTF-8 bytes, use stable event ids so calendar apps update instead of duplicating, and roll over to cover this year and next. The rate limit counts requests per client per minute in Redis and keys on the last X-Forwarded-For entry, the one the reverse proxy adds, so a forged header cannot reset a budget. The 3D globe and 404 scene load only on wide screens with a mouse and hardware WebGL; software renderers had blocked the main thread for over a minute in Lighthouse. Redirects for old year links run in the Next.js proxy before rendering, because inside a streamed page a redirect arrives after a 200 status.
+Links: Source on GitHub: https://github.com/ahmershahdev/marketclock; Case study · Building MarketClock: https://ahmershah.dev/blogs/marketclock-case-study-trading-days-settlement; Article · The day the money moves: https://ahmershah.dev/blogs/the-day-the-money-moves
 
 ### HolidayOps — Working Days API (2026)
 Every working day, in every country.
@@ -298,7 +308,9 @@ Architecture, debugging, databases and the calls behind each build: my series on
 14. [Inside the Database Stack](https://ahmershah.dev/blogs/inside-the-database-stack)
 15. [HolidayOps: Building a Working Days API for 250 Countries](https://ahmershah.dev/blogs/holidayops-case-study-working-days-api)
 16. [The Weekend Is Not a Constant](https://ahmershah.dev/blogs/the-weekend-is-not-a-constant)
+17. [MarketClock: A Trading Calendar That Shows Its Work](https://ahmershah.dev/blogs/marketclock-case-study-trading-days-settlement)
 17. [Cybersecurity Trends: Protecting Data in the Digital Age](https://ahmershah.dev/blogs/cybersecurity-trends-protecting-data-in-the-digital-age)
+18. [The Day the Money Moves](https://ahmershah.dev/blogs/the-day-the-money-moves)
 
 ### AI vs Reality
 I put AI coding tools against real engineering problems to see where they help, where they break, and what still needs a human engineer.
@@ -317,8 +329,10 @@ PHP vs Node, React vs HTMX, Java vs C#: languages and frameworks compared on spe
 4. [Java vs C#: Optimizing Docker for Kubernetes](https://ahmershah.dev/blogs/java-vs-c-optimizing-docker-for-kubernetes)
 5. [Is Node.js Still Enough? When to Move Your Backend to Rust](https://ahmershah.dev/blogs/is-node-js-still-enough-when-to-move-your-backend-to-rust)
 
-## All articles (55)
+## All articles (57)
 
+- 2026-10-24 — [The Day the Money Moves](https://ahmershah.dev/blogs/the-day-the-money-moves) — You click buy and the share isn't yours yet. How settlement works, why holidays push it back and what dates with history taught me. (tags: marketclock, settlement, dates, finance, backend, software-design, engineering-logs; 4 min)
+- 2026-10-24 — [MarketClock: A Trading Calendar That Shows Its Work](https://ahmershah.dev/blogs/marketclock-case-study-trading-days-settlement) — How I built MarketClock solo with Flask, Next.js and MySQL: 30 exchanges, sourced settlement cycles, live status and 210 tests. (tags: marketclock, case-study, flask, nextjs, mysql, api-design, software-architecture, system-design; 9 min)
 - 2026-10-21 — [Cybersecurity Trends: Protecting Data in the Digital Age](https://ahmershah.dev/blogs/cybersecurity-trends-protecting-data-in-the-digital-age) — Discover the top cybersecurity trends of 2026, from AI-powered scams to rising breach costs, and simple ways to protect your data. (tags: syedahmershah, ahmershahdev, programming-blogs, software-engineering, cybersecurity; 9 min)
 - 2026-10-18 — [The Weekend Is Not a Constant](https://ahmershah.dev/blogs/the-weekend-is-not-a-constant) — Weekends differ by country and change over time. What building HolidayOps taught me about dates, time zones and trusting a single source. (tags: holidayops, dates, time-zones, python, backend, software-design, engineering-logs; 5 min)
 - 2026-10-18 — [HolidayOps: Building a Working Days API for 250 Countries](https://ahmershah.dev/blogs/holidayops-case-study-working-days-api) — How I built HolidayOps solo with Django, React and MySQL: one date engine, 250 countries, company calendars, signed webhooks and 481 tests. (tags: holidayops, case-study, django, react, mysql, api-design, software-architecture, system-design; 9 min)

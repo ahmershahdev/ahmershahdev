@@ -45,9 +45,9 @@ const ahmer = {
   name: "Syed Ahmer Shah",
   role: "Software Engineer · Full-Stack Developer",
   basedIn: "Hyderabad, Pakistan · UTC+5 · open to remote",
-  builds: ["Laravel + React (Inertia)", "Django REST + React", "PHP + MySQL"],
+  builds: ["Laravel + React (Inertia)", "Django REST + React", "Flask + Next.js", "PHP + MySQL"],
   strongest: { java: "advanced", dsa: "advanced · 676 LeetCode solved", sql: "row locking, views, constraints" },
-  shipped2026: ["HolidayOps", "Zovita+", "BookMyMovie", "GleanGrid", "Commerza"],
+  shipped2026: ["MarketClock", "HolidayOps", "Zovita+", "BookMyMovie", "GleanGrid", "Commerza"],
   learningNext: ["Deeper Laravel", "TypeScript", "System design"],
   motto: "Design, Sync, Energize.",
 };
@@ -57,13 +57,43 @@ const ahmer = {
 
 ## 02 — Selected work
 
-<!-- ─────────────── 01 · HolidayOps ─────────────── -->
+<!-- ─────────────── 01 · MarketClock ─────────────── -->
+
+<a href="https://ahmershah.dev/projects/marketclock">
+  <img src="assets/projects/marketclock.webp" width="100%" alt="MarketClock — Trading Days and Settlement Dates for 30 Exchanges — screenshot" />
+</a>
+
+### 01 · MarketClock — Trading Days and Settlement Dates for 30 Exchanges
+
+**Every trading day, every settlement date.** An API and web app answering the three questions a trading desk asks every morning: is this exchange open, does it close early, and when does a trade settle?
+
+- **30 exchanges and markets** from the open-source holidays library, each with its own weekend, live open or closed status in its own time zone
+- **Sourced, not guessed** — settlement cycles, trading hours and official calendars stored with the page they came from; T+1 or T+2 picked by trade date
+- **Checked against the exchanges** — 66 official NYSE, Nasdaq and LSE days compared with the library, all matching
+- Pure-Python date layer with 100% branch coverage; 210 automated tests across 24 pull requests; calendar feeds, embeddable widget, rate-limited API
+
+<p>
+  <img src="https://img.shields.io/badge/Flask%203-0b0d11?style=flat-square&logo=flask&logoColor=white" alt="Flask 3" />
+  <img src="https://img.shields.io/badge/Pydantic-0b0d11?style=flat-square&logo=pydantic&logoColor=E92063" alt="Pydantic" />
+  <img src="https://img.shields.io/badge/Next.js%2016-0b0d11?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 16" />
+  <img src="https://img.shields.io/badge/TypeScript-0b0d11?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/MySQL%208.4-0b0d11?style=flat-square&logo=mysql&logoColor=white" alt="MySQL 8.4" />
+  <img src="https://img.shields.io/badge/Redis-0b0d11?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-0b0d11?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+</p>
+
+<a href="https://ahmershah.dev/projects/marketclock"><img src="https://img.shields.io/badge/Case%20study-ahmershah.dev-4cc22e?style=for-the-badge&labelColor=0b0d11" alt="MarketClock case study" /></a>
+<a href="https://github.com/ahmershahdev/marketclock"><img src="https://img.shields.io/badge/Source-ahmershahdev%2Fmarketclock-1e4fd8?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0d11" alt="MarketClock source on GitHub" /></a>
+
+<br><br>
+
+<!-- ─────────────── 02 · HolidayOps ─────────────── -->
 
 <a href="https://ahmershah.dev/projects/holidayops">
   <img src="assets/projects/holidayops.webp" width="100%" alt="HolidayOps — Working-Days API for 250 Countries — screenshot" />
 </a>
 
-### 01 · HolidayOps — Working-Days API for 250 Countries
+### 02 · HolidayOps — Working-Days API for 250 Countries
 
 **Every working day, in every country.** A REST API, iCal feeds, digests and signed webhooks answering one question for payroll, HR and logistics teams: is this date a working day — here and in our other offices?
 
@@ -87,13 +117,13 @@ const ahmer = {
 
 <br><br>
 
-<!-- ─────────────── 02 · Zovita+ ─────────────── -->
+<!-- ─────────────── 03 · Zovita+ ─────────────── -->
 
 <a href="https://ahmershah.dev/projects/zovita">
   <img src="assets/projects/zovita.webp" width="100%" alt="Zovita+ — Online Pharmacy Platform — screenshot" />
 </a>
 
-### 02 · Zovita+ — Online Pharmacy Platform
+### 03 · Zovita+ — Online Pharmacy Platform
 
 A 1,186-product pharmacy across 8 departments with prescription upload, a **3D body-map symptom finder** and an English/Urdu interface.
 
@@ -116,13 +146,13 @@ A 1,186-product pharmacy across 8 departments with prescription upload, a **3D b
 
 <br><br>
 
-<!-- ─────────────── 03 · BookMyMovie ─────────────── -->
+<!-- ─────────────── 04 · BookMyMovie ─────────────── -->
 
 <a href="https://ahmershah.dev/projects/bookmymovie">
   <img src="assets/projects/bookmymovie.webp" width="100%" alt="BookMyMovie — Cinema Ticketing Platform — screenshot" />
 </a>
 
-### 03 · BookMyMovie — Cinema Ticketing Platform
+### 04 · BookMyMovie — Cinema Ticketing Platform
 
 Browse films, watch trailers and pick seats on a live map — or from inside a **3D model of the hall** — then add snacks and book. 56-table schema with 9 reporting views, 49 screens.
 
@@ -144,13 +174,13 @@ Browse films, watch trailers and pick seats on a live map — or from inside a *
 
 <br><br>
 
-<!-- ─────────────── 04 · GleanGrid ─────────────── -->
+<!-- ─────────────── 05 · GleanGrid ─────────────── -->
 
 <a href="https://ahmershah.dev/projects/gleangrid">
   <img src="assets/projects/gleangrid.webp" width="100%" alt="GleanGrid — Farmers-Market Pre-Orders · Aptech TechWiz 7 — screenshot" />
 </a>
 
-### 04 · GleanGrid — Farmers-Market Pre-Orders · Aptech TechWiz 7
+### 05 · GleanGrid — Farmers-Market Pre-Orders · Aptech TechWiz 7
 
 **Farm fresh, just a click away.** Customers reserve this week's harvest and collect it at the stall. Three role workspaces, 62 screens, 8 languages including right-to-left Urdu and Arabic.
 
@@ -172,13 +202,13 @@ Browse films, watch trailers and pick seats on a live map — or from inside a *
 
 <br><br>
 
-<!-- ─────────────── 05 · Commerza ─────────────── -->
+<!-- ─────────────── 06 · Commerza ─────────────── -->
 
 <a href="https://ahmershah.dev/projects/commerza">
   <img src="assets/projects/commerza.webp" width="100%" alt="Commerza — Security-First E-commerce Engine — screenshot" />
 </a>
 
-### 05 · Commerza — Security-First E-commerce Engine
+### 06 · Commerza — Security-First E-commerce Engine
 
 A framework-free production platform — **339 files, 136 commits**: storefront, admin with sub-admin roles, coupons, reviews, order tracking, Google and Facebook sign-in, Stripe and cash on delivery.
 
