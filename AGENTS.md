@@ -20,7 +20,8 @@ owns every fact. This repository copies it; it never invents numbers.
 
 When a project, certificate or count changes on the portfolio, update every place here in the same
 commit: the typing line, the intro sentence, the badge row (platforms, certificates, articles), the
-Selected work section and both llms files.
+Selected work section, the banner's `<desc>`, both llms files, and the matching wiki pages
+(`ahmershahdev.wiki.git`: Home, Projects, Certifications, Skills, Contact).
 
 ## Rules
 
@@ -33,6 +34,8 @@ Selected work section and both llms files.
 
 ## Status
 
-Last updated: 2026-10-25. Six projects: MarketClock, HolidayOps, Zovita+, BookMyMovie, GleanGrid,
-Commerza (all 2026). 13 certificates, LeetCode 676 solved. No releases or wiki: this is a profile
-page, not software.
+Last updated: 2026-10-26. Six projects: MarketClock, HolidayOps, Zovita+, BookMyMovie, GleanGrid,
+Commerza (all 2026). 13 certificates, LeetCode 676 solved, 57 articles, Zovita+ 211 tests. Wiki
+enabled as a short reference mirror of the README. No releases or tags: this is a profile page, not
+software. `master` is protected by the "Protect master" ruleset (no deletion, no force push).
+CONTRIBUTING.md and SECURITY.md cover corrections and reports.
