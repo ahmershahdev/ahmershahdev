@@ -8,12 +8,12 @@
 </a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=4CC22E&center=true&vCenter=true&width=560&lines=Software+Engineer+%C2%B7+Full-Stack+Developer;Laravel+%C2%B7+Django+%C2%B7+React+%C2%B7+MySQL;Five+platforms+built+solo+in+2026;676+LeetCode+problems+solved;Designing+order+within+the+digital+wilderness." alt="Software Engineer · Full-Stack Developer · Laravel · Django · React · MySQL" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=4CC22E&center=true&vCenter=true&width=560&lines=Software+Engineer+%C2%B7+Full-Stack+Developer;Laravel+%C2%B7+Django+%C2%B7+React+%C2%B7+MySQL;Six+platforms+built+solo+in+2026;676+LeetCode+problems+solved;Designing+order+within+the+digital+wilderness." alt="Software Engineer · Full-Stack Developer · Laravel · Django · React · MySQL" />
 </p>
 
 <p align="center">
   I design, build and ship web applications end to end — schema, backend, interface, security and deployment.<br>
-  In 2026 I built <strong>five production-grade platforms solo</strong> and completed a full-stack internship at <strong>XCL Technologies</strong>.
+  In 2026 I built <strong>six production-grade platforms solo</strong> and completed a full-stack internship at <strong>XCL Technologies</strong>.
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platforms%20built%20solo-5-4cc22e?style=flat-square&labelColor=0b0d11" alt="5 platforms built solo" />
+  <img src="https://img.shields.io/badge/Platforms%20built%20solo-6-4cc22e?style=flat-square&labelColor=0b0d11" alt="6 platforms built solo" />
   <img src="https://img.shields.io/badge/Verified%20certificates-13-4cc22e?style=flat-square&labelColor=0b0d11" alt="13 verified certificates" />
   <img src="https://img.shields.io/badge/Articles%20published-40%2B-4cc22e?style=flat-square&labelColor=0b0d11" alt="40+ articles published" />
   <img src="https://img.shields.io/github/followers/ahmershahdev?label=Followers&style=flat-square&color=1e4fd8&labelColor=0b0d11" alt="GitHub followers" />
