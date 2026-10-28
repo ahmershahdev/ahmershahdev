@@ -1,5 +1,5 @@
 # Syed Ahmer Shah
-
+ 
 > Hi, I'm Ahmer — a software engineer in Hyderabad, Pakistan. I build fast, secure full-stack web apps with Laravel, PHP and Next.js. Tagline: "Design, Sync, Energize". Canonical site: https://ahmershah.dev. Short name: "Ahmer Shah". Handles: @syedahmershah (personal), @ahmershahdev (brand).
 
 ## Who
