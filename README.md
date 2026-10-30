@@ -210,23 +210,25 @@ Browse films, watch trailers and pick seats on a live map — or from inside a *
 
 ### 06 · Commerza — Security-First E-commerce Engine
 
-A framework-free production platform — **339 files, 136 commits**: storefront, admin with sub-admin roles, coupons, reviews, order tracking, Google and Facebook sign-in, Stripe and cash on delivery.
+An online watch store in plain PHP and MySQL, with no framework. It has a storefront, an admin panel with sub-admin roles, coupons, reviews, order tracking, Google and Facebook sign-in, and Stripe or cash on delivery. **v2.0.0, MIT, 346 files, 143 commits.**
 
-- **Transactional stock locking** and prepared statements on every write path
-- CSRF tokens, reCAPTCHA v2/v3, Argon2id, ClamAV scanning, audit logs and SMTP failover
-- **CI security gate on every push**
+- **Never oversells:** stock rows are locked in a transaction, and every order has an idempotency key
+- Nonce-only CSP, CSRF tokens, layered reCAPTCHA, Argon2id, email 2FA for admins, and upload malware scanning. **33/33 security checks pass**
+- **Tested on every push in Docker:** 15 concurrent shoppers with 0% errors, a 60-user stress test, and Playwright on desktop and mobile
 
 <p>
   <img src="https://img.shields.io/badge/PHP-0b0d11?style=flat-square&logo=php&logoColor=777BB4" alt="PHP" />
   <img src="https://img.shields.io/badge/MySQL-0b0d11?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/JavaScript-0b0d11?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Bootstrap-0b0d11?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Redis-0b0d11?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-0b0d11?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Playwright-0b0d11?style=flat-square&logo=playwright&logoColor=2EAD33" alt="Playwright" />
   <img src="https://img.shields.io/badge/Stripe-0b0d11?style=flat-square&logo=stripe&logoColor=635BFF" alt="Stripe" />
 </p>
 
 <a href="https://ahmershah.dev/projects/commerza"><img src="https://img.shields.io/badge/Case%20study-ahmershah.dev-4cc22e?style=for-the-badge&labelColor=0b0d11" alt="Commerza case study" /></a>
 <a href="https://github.com/ahmershahdev/commerza"><img src="https://img.shields.io/badge/Source-ahmershahdev%2Fcommerza-1e4fd8?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0d11" alt="Commerza source on GitHub" /></a>
+<a href="https://github.com/ahmershahdev/commerza/wiki"><img src="https://img.shields.io/badge/Wiki-docs%20%26%20test%20reports-0b0d11?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0d11" alt="Commerza wiki" /></a>
 
 ---
 
