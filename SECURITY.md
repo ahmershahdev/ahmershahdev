@@ -8,7 +8,7 @@ Syed Ahmer Shah.
 
 - **This repository**: use [Report a vulnerability](https://github.com/ahmershahdev/ahmershahdev/security/advisories/new)
   (private) or email support@ahmershah.dev.
-- **MarketClock or HolidayOps**: report it privately in that project's repository under
+- **OfflineShelf, MarketClock or HolidayOps**: report it privately in that project's repository under
   **Security > Report a vulnerability**, or email support@ahmershah.dev.
 - **Zovita+, BookMyMovie, GleanGrid or Commerza**: these repositories are archived, so email
   support@ahmershah.dev.

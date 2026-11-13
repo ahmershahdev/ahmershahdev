@@ -8,12 +8,12 @@
 </a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=4CC22E&center=true&vCenter=true&width=560&lines=Software+Engineer+%C2%B7+Full-Stack+Developer;Laravel+%C2%B7+Django+%C2%B7+React+%C2%B7+MySQL;Six+platforms+built+solo+in+2026;676+LeetCode+problems+solved;Designing+order+within+the+digital+wilderness." alt="Software Engineer · Full-Stack Developer · Laravel · Django · React · MySQL" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=4CC22E&center=true&vCenter=true&width=560&lines=Software+Engineer+%C2%B7+Full-Stack+Developer;Laravel+%C2%B7+Django+%C2%B7+React+%C2%B7+MySQL;Eight+platforms+built+solo+in+2026;676+LeetCode+problems+solved;Designing+order+within+the+digital+wilderness." alt="Software Engineer · Full-Stack Developer · Laravel · Django · React · MySQL" />
 </p>
 
 <p align="center">
   I design, build and ship web applications end to end — schema, backend, interface, security and deployment.<br>
-  In 2026 I built <strong>six production-grade platforms solo</strong> and completed a full-stack internship at <strong>XCL Technologies</strong>.
+  In 2026 I built <strong>eight production-grade platforms solo</strong> and completed a full-stack internship at <strong>XCL Technologies</strong>.
 </p>
 
 <p align="center">
@@ -25,9 +25,9 @@
 </p>
 
 <p align="center">
-  <a href="#02--selected-work"><img src="https://img.shields.io/badge/Platforms%20built%20solo-6-4cc22e?style=flat-square&labelColor=0b0d11" alt="6 platforms built solo" /></a>
+  <a href="#02--selected-work"><img src="https://img.shields.io/badge/Platforms%20built%20solo-8-4cc22e?style=flat-square&labelColor=0b0d11" alt="8 platforms built solo" /></a>
   <a href="#04--certifications"><img src="https://img.shields.io/badge/Verified%20certificates-13-4cc22e?style=flat-square&labelColor=0b0d11" alt="13 verified certificates" /></a>
-  <a href="https://ahmershah.dev/blogs"><img src="https://img.shields.io/badge/Articles%20published-57-4cc22e?style=flat-square&labelColor=0b0d11" alt="57 articles published" /></a>
+  <a href="https://ahmershah.dev/blogs"><img src="https://img.shields.io/badge/Articles%20published-63-4cc22e?style=flat-square&labelColor=0b0d11" alt="63 articles published" /></a>
   <img src="https://img.shields.io/github/followers/ahmershahdev?label=Followers&style=flat-square&color=1e4fd8&labelColor=0b0d11" alt="GitHub followers" />
   <img src="https://komarev.com/ghpvc/?username=ahmershahdev&color=1e4fd8&style=flat-square&label=Profile+views" alt="Profile views" />
 </p>
@@ -47,7 +47,7 @@ const ahmer = {
   basedIn: "Hyderabad, Pakistan · UTC+5 · open to remote",
   builds: ["Laravel + React (Inertia)", "Django REST + React", "Flask + Next.js", "PHP + MySQL"],
   strongest: { java: "advanced", dsa: "advanced · 676 LeetCode solved", sql: "row locking, views, constraints" },
-  shipped2026: ["MarketClock", "HolidayOps", "Zovita+", "BookMyMovie", "GleanGrid", "Commerza"],
+  shipped2026: ["Karobar ERP", "OfflineShelf", "MarketClock", "HolidayOps", "Zovita+", "BookMyMovie", "GleanGrid", "Commerza"],
   learningNext: ["Deeper Laravel", "TypeScript", "System design"],
   motto: "Design, Sync, Energize.",
 };
@@ -57,13 +57,74 @@ const ahmer = {
 
 ## 02 — Selected work
 
-<!-- ─────────────── 01 · MarketClock ─────────────── -->
+<!-- ─────────────── 01 · Karobar ERP ─────────────── -->
+
+<a href="https://ahmershah.dev/projects/karobar-erp">
+  <img src="assets/projects/karobar-erp.webp" width="100%" alt="Karobar ERP — Stock, Sales, Accounts and Payroll for Small Shops — screenshot" />
+</a>
+
+### 01 · Karobar ERP — Stock, Sales, Accounts and Payroll for Small Shops
+
+**Every rupee and every unit, in balance.** An open-source ERP that gives a small shop, wholesaler or distributor its stock, sales, accounts and payroll in one place, in English, Urdu and Arabic, built for people who are not accountants.
+
+- **The books always balance**: every sale, purchase, payment and salary posts its own double-entry journal entry in one transaction, and posted entries can only be reversed, never edited
+- **Stock stays right under pressure**: stock levels change under a row lock, and a test fires parallel sales of the last item at a real MySQL database until exactly one succeeds
+- **Many businesses, each private**: a tenant manager that fails closed, and an isolation test that calls every endpoint as a member of another business
+- Payroll with income tax from the official slabs, payslips as PDF and the UAE WPS file; 1,171 automated tests across 73 pull requests; the public demo opens after end-to-end testing
+
+<p>
+  <img src="https://img.shields.io/badge/Django%205.2-0b0d11?style=flat-square&logo=django&logoColor=white" alt="Django 5.2" />
+  <img src="https://img.shields.io/badge/DRF-0b0d11?style=flat-square&logo=django&logoColor=white" alt="Django REST Framework" />
+  <img src="https://img.shields.io/badge/Celery-0b0d11?style=flat-square&logo=celery&logoColor=37814A" alt="Celery" />
+  <img src="https://img.shields.io/badge/React%2019-0b0d11?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
+  <img src="https://img.shields.io/badge/TypeScript-0b0d11?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/MySQL%208.4-0b0d11?style=flat-square&logo=mysql&logoColor=white" alt="MySQL 8.4" />
+  <img src="https://img.shields.io/badge/Redis-0b0d11?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-0b0d11?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+</p>
+
+<a href="https://ahmershah.dev/projects/karobar-erp"><img src="https://img.shields.io/badge/Case%20study-ahmershah.dev-4cc22e?style=for-the-badge&labelColor=0b0d11" alt="Karobar ERP case study" /></a>
+<a href="https://github.com/ahmershahdev/karobar-erp"><img src="https://img.shields.io/badge/Source-ahmershahdev%2Fkarobar--erp-1e4fd8?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0d11" alt="Karobar ERP source on GitHub" /></a>
+
+<br><br>
+
+<!-- ─────────────── 02 · OfflineShelf ─────────────── -->
+
+<a href="https://ahmershah.dev/projects/offlineshelf">
+  <img src="assets/projects/offlineshelf.webp" width="100%" alt="OfflineShelf — Wikipedia Reading Lists for Offline Use — screenshot" />
+</a>
+
+### 02 · OfflineShelf — Wikipedia Reading Lists for Offline Use
+
+**Millions of articles. Choose the ones that matter.** A web app and API that helps schools, libraries and clinics without reliable internet choose which Wikipedia articles to carry offline, and keeps that choice up to date.
+
+- **Four list builders**: a category walked to a chosen depth, a Wikidata query, a pasted reading list, or the most-read articles of a month; lists combine by union, intersection and difference
+- **A failed rebuild never replaces the last good list**: every build is a version with a report and the articles added and removed since the previous one; monthly rebuilds catch up after downtime
+- **Exports that work offline**: TSV, an HTML bundle that opens from a USB stick, or a ZIM file for the Kiwix apps, all with CC BY-SA attribution
+- Plain-Python list layer with 100% branch coverage; 235 automated tests across 26 pull requests; a 100,000-article list builds in under 2 MB of memory; public launch planned for February 2027
+
+<p>
+  <img src="https://img.shields.io/badge/Flask-0b0d11?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Pydantic-0b0d11?style=flat-square&logo=pydantic&logoColor=E92063" alt="Pydantic" />
+  <img src="https://img.shields.io/badge/React%2019-0b0d11?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
+  <img src="https://img.shields.io/badge/TypeScript-0b0d11?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/MariaDB%2011.4-0b0d11?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB 11.4" />
+  <img src="https://img.shields.io/badge/Redis%20%C2%B7%20RQ-0b0d11?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis · RQ" />
+  <img src="https://img.shields.io/badge/Docker-0b0d11?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+</p>
+
+<a href="https://ahmershah.dev/projects/offlineshelf"><img src="https://img.shields.io/badge/Case%20study-ahmershah.dev-4cc22e?style=for-the-badge&labelColor=0b0d11" alt="OfflineShelf case study" /></a>
+<a href="https://github.com/ahmershahdev/offlineshelf"><img src="https://img.shields.io/badge/Source-ahmershahdev%2Fofflineshelf-1e4fd8?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0d11" alt="OfflineShelf source on GitHub" /></a>
+
+<br><br>
+
+<!-- ─────────────── 03 · MarketClock ─────────────── -->
 
 <a href="https://ahmershah.dev/projects/marketclock">
   <img src="assets/projects/marketclock.webp" width="100%" alt="MarketClock — Trading Days and Settlement Dates for 30 Exchanges — screenshot" />
 </a>
 
-### 01 · MarketClock — Trading Days and Settlement Dates for 30 Exchanges
+### 03 · MarketClock — Trading Days and Settlement Dates for 30 Exchanges
 
 **Every trading day, every settlement date.** An API and web app answering the three questions a trading desk asks every morning: is this exchange open, does it close early, and when does a trade settle?
 
@@ -87,13 +148,13 @@ const ahmer = {
 
 <br><br>
 
-<!-- ─────────────── 02 · HolidayOps ─────────────── -->
+<!-- ─────────────── 04 · HolidayOps ─────────────── -->
 
 <a href="https://ahmershah.dev/projects/holidayops">
   <img src="assets/projects/holidayops.webp" width="100%" alt="HolidayOps — Working-Days API for 250 Countries — screenshot" />
 </a>
 
-### 02 · HolidayOps — Working-Days API for 250 Countries
+### 04 · HolidayOps — Working-Days API for 250 Countries
 
 **Every working day, in every country.** A REST API, iCal feeds, digests and signed webhooks answering one question for payroll, HR and logistics teams: is this date a working day — here and in our other offices?
 
@@ -117,13 +178,13 @@ const ahmer = {
 
 <br><br>
 
-<!-- ─────────────── 03 · Zovita+ ─────────────── -->
+<!-- ─────────────── 05 · Zovita+ ─────────────── -->
 
 <a href="https://ahmershah.dev/projects/zovita">
   <img src="assets/projects/zovita.webp" width="100%" alt="Zovita+ — Online Pharmacy Platform — screenshot" />
 </a>
 
-### 03 · Zovita+ — Online Pharmacy Platform
+### 05 · Zovita+ — Online Pharmacy Platform
 
 A 1,186-product pharmacy across 8 departments with prescription upload, a **3D body-map symptom finder** and an English/Urdu interface.
 
@@ -146,13 +207,13 @@ A 1,186-product pharmacy across 8 departments with prescription upload, a **3D b
 
 <br><br>
 
-<!-- ─────────────── 04 · BookMyMovie ─────────────── -->
+<!-- ─────────────── 06 · BookMyMovie ─────────────── -->
 
 <a href="https://ahmershah.dev/projects/bookmymovie">
   <img src="assets/projects/bookmymovie.webp" width="100%" alt="BookMyMovie — Cinema Ticketing Platform — screenshot" />
 </a>
 
-### 04 · BookMyMovie — Cinema Ticketing Platform
+### 06 · BookMyMovie — Cinema Ticketing Platform
 
 Browse films, watch trailers and pick seats on a live map — or from inside a **3D model of the hall** — then add snacks and book. 56-table schema with 9 reporting views, 49 screens.
 
@@ -174,13 +235,13 @@ Browse films, watch trailers and pick seats on a live map — or from inside a *
 
 <br><br>
 
-<!-- ─────────────── 05 · GleanGrid ─────────────── -->
+<!-- ─────────────── 07 · GleanGrid ─────────────── -->
 
 <a href="https://ahmershah.dev/projects/gleangrid">
   <img src="assets/projects/gleangrid.webp" width="100%" alt="GleanGrid — Farmers-Market Pre-Orders · Aptech TechWiz 7 — screenshot" />
 </a>
 
-### 05 · GleanGrid — Farmers-Market Pre-Orders · Aptech TechWiz 7
+### 07 · GleanGrid — Farmers-Market Pre-Orders · Aptech TechWiz 7
 
 **Farm fresh, just a click away.** Customers reserve this week's harvest and collect it at the stall. Three role workspaces, 62 screens, 8 languages including right-to-left Urdu and Arabic.
 
@@ -202,13 +263,13 @@ Browse films, watch trailers and pick seats on a live map — or from inside a *
 
 <br><br>
 
-<!-- ─────────────── 06 · Commerza ─────────────── -->
+<!-- ─────────────── 08 · Commerza ─────────────── -->
 
 <a href="https://ahmershah.dev/projects/commerza">
   <img src="assets/projects/commerza.webp" width="100%" alt="Commerza — Security-First E-commerce Engine — screenshot" />
 </a>
 
-### 06 · Commerza — Security-First E-commerce Engine
+### 08 · Commerza — Security-First E-commerce Engine
 
 An online watch store in plain PHP and MySQL, with no framework. It has a storefront, an admin panel with sub-admin roles, coupons, reviews, order tracking, Google and Facebook sign-in, and Stripe or cash on delivery. **v2.0.0, MIT, 346 files, 143 commits.**
 
@@ -237,8 +298,8 @@ An online watch store in plain PHP and MySQL, with no framework. It has a storef
 <p align="center">
   <a href="https://ahmershah.dev/#skills">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=php,laravel,java,python,django,js,ts,react,html,css,tailwind,bootstrap,nodejs,express,mongodb,mysql,git,github,vercel&perline=10&theme=light" />
-      <img src="https://skillicons.dev/icons?i=php,laravel,java,python,django,js,ts,react,html,css,tailwind,bootstrap,nodejs,express,mongodb,mysql,git,github,vercel&perline=10&theme=dark" alt="Stack: PHP, Laravel, Java, Python, Django, JavaScript, TypeScript, React, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, Express, MongoDB, MySQL, Git, GitHub, Vercel" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=php,laravel,java,python,django,js,ts,react,html,css,tailwind,bootstrap,nodejs,express,mongodb,mysql,flask,nextjs,redis,docker,vite,threejs,git,github,vercel&perline=10&theme=light" />
+      <img src="https://skillicons.dev/icons?i=php,laravel,java,python,django,js,ts,react,html,css,tailwind,bootstrap,nodejs,express,mongodb,mysql,flask,nextjs,redis,docker,vite,threejs,git,github,vercel&perline=10&theme=dark" alt="Stack: PHP, Laravel, Java, Python, Django, JavaScript, TypeScript, React, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, Express, MongoDB, MySQL, Flask, Next.js, Redis, Docker, Vite, Three.js, Git, GitHub, Vercel" />
     </picture>
   </a>
 </p>
@@ -251,6 +312,7 @@ An online watch store in plain PHP and MySQL, with no framework. It has a storef
 | **Fundamentals** | Data structures & algorithms `●●●●○` · OOP `●●●○○` |
 | **Platforms & tools** | Git `●●●●●` · GitHub `●●●●●` · SEO `●●●●●` · Shopify `●●●○○` |
 | **AI toolkit** | ChatGPT · Claude · Claude Code · Codex · Gemini · DeepSeek |
+| **Also in the eight projects** | TypeScript · Flask · Django REST Framework · Next.js · Inertia · Redis · Celery · Docker · Vite · Three.js · Playwright · Stripe · GitHub Actions |
 
 ---
 

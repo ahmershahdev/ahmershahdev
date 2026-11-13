@@ -1,5 +1,5 @@
 # Syed Ahmer Shah
- 
+
 > Hi, I'm Ahmer — a software engineer in Hyderabad, Pakistan. I build fast, secure full-stack web apps with Laravel, PHP and Next.js. Tagline: "Design, Sync, Energize". Canonical site: https://ahmershah.dev. Short name: "Ahmer Shah". Handles: @syedahmershah (personal), @ahmershahdev (brand).
 
 ## Who
@@ -11,7 +11,7 @@
 ## Core pages
 
 - [Home](https://ahmershah.dev/): hero, about, education, certificates, skills, projects, experience, services, testimonials, contact.
-- [Blog — Engineering Logs](https://ahmershah.dev/blogs): 59 articles on software, AI and development. [RSS](https://ahmershah.dev/blogs/rss.xml). Every article is also available as plain Markdown at https://ahmershah.dev/blogs/<slug>/markdown.
+- [Blog — Engineering Logs](https://ahmershah.dev/blogs): 63 articles on software, AI and development. [RSS](https://ahmershah.dev/blogs/rss.xml). Every article is also available as plain Markdown at https://ahmershah.dev/blogs/<slug>/markdown.
   New articles are published on ahmershah.dev first; DEV, Medium, Hashnode, CoderLegion and AWS Builder Center carry copies with a canonical link back. Older articles first appeared on DEV, Medium or Hashnode, and their pages here name and link that original.
 - [Google knowledge panel](https://share.google/PzrJo1B8KbhAWnwvb): claimed by Syed Ahmer Shah.
 - [Full context for LLMs](https://ahmershah.dev/llms-full.txt): expanded profile, every skill, service, certificate, review and article.
@@ -33,6 +33,8 @@
 
 ## Flagship projects
 
+- Karobar ERP — Stock, Sales, Accounts and Payroll for Small Shops (2026): Every rupee and every unit, in balance. Karobar ERP gives a small shop, wholesaler or distributor its stock, sales, accounts and payroll in one place, in English, Urdu and Arabic. It is built for people who are not accountants: the receivables report is called "Who owes me", the dashboard is "How is my business?", and every page explains itself in numbered steps. Underneath, every sale, purchase, payment and salary posts its own double-entry journal entry, so the trial balance, profit and loss and balance sheet are always up to date. One installation serves many businesses, each private from the others. Repo: https://github.com/ahmershahdev/karobar-erp. Case study: https://ahmershah.dev/blogs/karobar-erp-case-study-erp-for-small-shops. Page: https://ahmershah.dev/projects/karobar-erp
+- OfflineShelf — Wikipedia Reading Lists for Offline Use (2026): Millions of articles. Choose the ones that matter. OfflineShelf helps a school, library or clinic without reliable internet decide which Wikipedia articles to carry offline, and keeps that decision repeatable. A list can come from a Wikipedia category, a Wikidata query, a pasted reading list or the most-read articles of a month, and lists can be combined: "Vaccines minus Companies". Each list can rebuild every month, keeps a history of what was added and removed, and exports as a spreadsheet file, a folder of web pages that opens from a USB stick, or a ZIM file for the free Kiwix reader apps. Repo: https://github.com/ahmershahdev/offlineshelf. Case study: https://ahmershah.dev/blogs/offlineshelf-case-study-wikipedia-reading-lists-offline. Page: https://ahmershah.dev/projects/offlineshelf
 - MarketClock — Trading Days API (2026): Every trading day, every settlement date. MarketClock answers the questions a trading desk or back office asks every morning: is this exchange open today, does it close early, and when does a trade bought today actually settle? It covers the 30 exchanges and financial markets in the open-source holidays library, from the NYSE and Nasdaq to the London Stock Exchange, Tokyo, Hong Kong and Tadawul, each with its own weekend. It shows whether a market is open right now with a countdown to the close, works out T+1 and T+2 settlement dates across several markets at once, and checks the library's dates against the calendars the exchanges publish themselves. Repo: https://github.com/ahmershahdev/marketclock. Case study: https://ahmershah.dev/blogs/marketclock-case-study-trading-days-settlement. Page: https://ahmershah.dev/projects/marketclock
 - HolidayOps — Working Days API (2026): Every working day, in every country. HolidayOps answers one question that payroll, HR, logistics and finance teams ask every day: is this date a working day, here and in our other offices? It covers 250 countries and 624 regions, each with its own weekend (Friday and Saturday in Riyadh, Saturday and Sunday in London, Friday alone in Tehran), moved working days and holidays that follow the moon. Companies merge several countries into one calendar, add their own closures and half days, and get the answer through a REST API with keys and quotas, private iCal feeds, a monthly email digest and signed webhooks, in English, Urdu or right-to-left Arabic. Repo: https://github.com/ahmershahdev/holidayops. Case study: https://ahmershah.dev/blogs/holidayops-case-study-working-days-api. Page: https://ahmershah.dev/projects/holidayops
 - Zovita+ — Online Pharmacy (2026): Care, delivered with calm — a pharmacy that notices what you need. Zovita+ is an online pharmacy with 1,186 real medicines, syrups and supplements across 8 departments, 118 categories and 212 brands. Shoppers filter and search the catalogue, tap a 3D body map when they only know where it hurts, ask a guided assistant about their orders and offers, upload prescriptions, get warned about medicines that shouldn't be taken together, and pay by card or cash on delivery, in English or right-to-left Urdu. Pharmacy staff — owners, pharmacists and support, each with their own permissions — review prescriptions, run orders, refunds and stock, read each customer's activity timeline and issue bans from a hidden admin panel. Repo: https://github.com/ahmershahdev/zovita. Case study: https://ahmershah.dev/blogs/zovita-case-study-online-pharmacy-platform. Page: https://ahmershah.dev/projects/zovita
@@ -85,12 +87,16 @@
 
 ## Blog series
 
-- [The Engineering Logs](https://ahmershah.dev/blogs/series/engineering-logs): 21 parts. Architecture, debugging, databases and the calls behind each build: my series on what shipping real software actually teaches you.
+- [The Engineering Logs](https://ahmershah.dev/blogs/series/engineering-logs): 25 parts. Architecture, debugging, databases and the calls behind each build: my series on what shipping real software actually teaches you.
 - [AI vs Reality](https://ahmershah.dev/blogs/series/ai-vs-reality): 6 parts. I put AI coding tools against real engineering problems to see where they help, where they break, and what still needs a human engineer.
 - [Battle of BackFront](https://ahmershah.dev/blogs/series/battle-of-backfront): 5 parts. PHP vs Node, React vs HTMX, Java vs C#: languages and frameworks compared on speed, upkeep and where each one actually fits.
 
-## Articles (59, newest first)
+## Articles (63, newest first)
 
+- [The Shop That Ran on a Notebook](https://ahmershah.dev/blogs/the-shop-that-ran-on-a-notebook): What a shop's notebook really holds, why a 500-year-old bookkeeping idea still works, and what building software for small shops taught me.
+- [Karobar ERP: Books That Balance for the Corner Shop](https://ahmershah.dev/blogs/karobar-erp-case-study-erp-for-small-shops): How I built Karobar ERP with Django, React and MySQL: stock, sales, double-entry accounts and payroll for small shops, in three languages.
+- [A Library That Fits on a USB Stick](https://ahmershah.dev/blogs/a-library-that-fits-on-a-usb-stick): Wikipedia works without internet if you choose the right articles. How offline libraries are picked, kept current and credited.
+- [OfflineShelf: Choosing Which Wikipedia Goes Offline](https://ahmershah.dev/blogs/offlineshelf-case-study-wikipedia-reading-lists-offline): How I built OfflineShelf solo with Flask, React and MariaDB: four list builders, combinations, monthly rebuilds and exports for Kiwix.
 - [I Invented 14 People to Break My University Website](https://ahmershah.dev/blogs/i-invented-14-people-to-break-my-university-website): Hamza forgets his password, Rabia clicks submit three times, Eve tries to hack in. How 14 imaginary people found real bugs in my university website.
 - [AIT: Building a University Admissions Portal From Scratch](https://ahmershah.dev/blogs/ait-case-study-university-admissions-portal): How I built AIT, a university website with five portals in plain PHP and MySQL: safe uploads, race-free approvals, Docker and 58 end-to-end tests.
 - [The Day the Money Moves](https://ahmershah.dev/blogs/the-day-the-money-moves): You click buy and the share isn't yours yet. How settlement works, why holidays push it back and what dates with history taught me.
