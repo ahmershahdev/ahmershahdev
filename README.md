@@ -57,239 +57,106 @@ const ahmer = {
 
 ## 02 — Selected work
 
-<!-- ─────────────── 01 · Karobar ERP ─────────────── -->
+Eight platforms built solo in 2026. Every one has a case study and a narrated walkthrough on [ahmershah.dev/projects](https://ahmershah.dev/projects).
 
-<a href="https://ahmershah.dev/projects/karobar-erp">
-  <img src="assets/projects/karobar-erp.webp" width="100%" alt="Karobar ERP — Stock, Sales, Accounts and Payroll for Small Shops — screenshot" />
-</a>
-
-### 01 · Karobar ERP — Stock, Sales, Accounts and Payroll for Small Shops
-
-**Every rupee and every unit, in balance.** An open-source ERP that gives a small shop, wholesaler or distributor its stock, sales, accounts and payroll in one place, in English, Urdu and Arabic, built for people who are not accountants.
-
-- **The books always balance**: every sale, purchase, payment and salary posts its own double-entry journal entry in one transaction, and posted entries can only be reversed, never edited
-- **Stock stays right under pressure**: stock levels change under a row lock, and a test fires parallel sales of the last item at a real MySQL database until exactly one succeeds
-- **Many businesses, each private**: a tenant manager that fails closed, and an isolation test that calls every endpoint as a member of another business
-- Payroll with income tax from the official slabs, payslips as PDF and the UAE WPS file; 1,171 automated tests across 73 pull requests; the public demo opens after end-to-end testing
-
-<p>
-  <img src="https://img.shields.io/badge/Django%205.2-0b0d11?style=flat-square&logo=django&logoColor=white" alt="Django 5.2" />
-  <img src="https://img.shields.io/badge/DRF-0b0d11?style=flat-square&logo=django&logoColor=white" alt="Django REST Framework" />
-  <img src="https://img.shields.io/badge/Celery-0b0d11?style=flat-square&logo=celery&logoColor=37814A" alt="Celery" />
-  <img src="https://img.shields.io/badge/React%2019-0b0d11?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
-  <img src="https://img.shields.io/badge/TypeScript-0b0d11?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/MySQL%208.4-0b0d11?style=flat-square&logo=mysql&logoColor=white" alt="MySQL 8.4" />
-  <img src="https://img.shields.io/badge/Redis-0b0d11?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-0b0d11?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-</p>
-
-<a href="https://ahmershah.dev/projects/karobar-erp"><img src="https://img.shields.io/badge/Case%20study-ahmershah.dev-4cc22e?style=for-the-badge&labelColor=0b0d11" alt="Karobar ERP case study" /></a>
-<a href="https://github.com/ahmershahdev/karobar-erp"><img src="https://img.shields.io/badge/Source-ahmershahdev%2Fkarobar--erp-1e4fd8?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0d11" alt="Karobar ERP source on GitHub" /></a>
-
-<br><br>
-
-<!-- ─────────────── 02 · OfflineShelf ─────────────── -->
-
-<a href="https://ahmershah.dev/projects/offlineshelf">
-  <img src="assets/projects/offlineshelf.webp" width="100%" alt="OfflineShelf — Wikipedia Reading Lists for Offline Use — screenshot" />
-</a>
-
-### 02 · OfflineShelf — Wikipedia Reading Lists for Offline Use
-
-**Millions of articles. Choose the ones that matter.** A web app and API that helps schools, libraries and clinics without reliable internet choose which Wikipedia articles to carry offline, and keeps that choice up to date.
-
-- **Four list builders**: a category walked to a chosen depth, a Wikidata query, a pasted reading list, or the most-read articles of a month; lists combine by union, intersection and difference
-- **A failed rebuild never replaces the last good list**: every build is a version with a report and the articles added and removed since the previous one; monthly rebuilds catch up after downtime
-- **Exports that work offline**: TSV, an HTML bundle that opens from a USB stick, or a ZIM file for the Kiwix apps, all with CC BY-SA attribution
-- Plain-Python list layer with 100% branch coverage; 235 automated tests across 26 pull requests; a 100,000-article list builds in under 2 MB of memory; public launch planned for February 2027
-
-<p>
-  <img src="https://img.shields.io/badge/Flask-0b0d11?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Pydantic-0b0d11?style=flat-square&logo=pydantic&logoColor=E92063" alt="Pydantic" />
-  <img src="https://img.shields.io/badge/React%2019-0b0d11?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
-  <img src="https://img.shields.io/badge/TypeScript-0b0d11?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/MariaDB%2011.4-0b0d11?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB 11.4" />
-  <img src="https://img.shields.io/badge/Redis%20%C2%B7%20RQ-0b0d11?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis · RQ" />
-  <img src="https://img.shields.io/badge/Docker-0b0d11?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-</p>
-
-<a href="https://ahmershah.dev/projects/offlineshelf"><img src="https://img.shields.io/badge/Case%20study-ahmershah.dev-4cc22e?style=for-the-badge&labelColor=0b0d11" alt="OfflineShelf case study" /></a>
-<a href="https://github.com/ahmershahdev/offlineshelf"><img src="https://img.shields.io/badge/Source-ahmershahdev%2Fofflineshelf-1e4fd8?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0d11" alt="OfflineShelf source on GitHub" /></a>
-
-<br><br>
-
-<!-- ─────────────── 03 · MarketClock ─────────────── -->
-
-<a href="https://ahmershah.dev/projects/marketclock">
-  <img src="assets/projects/marketclock.webp" width="100%" alt="MarketClock — Trading Days and Settlement Dates for 30 Exchanges — screenshot" />
-</a>
-
-### 03 · MarketClock — Trading Days and Settlement Dates for 30 Exchanges
-
-**Every trading day, every settlement date.** An API and web app answering the three questions a trading desk asks every morning: is this exchange open, does it close early, and when does a trade settle?
-
-- **30 exchanges and markets** from the open-source holidays library, each with its own weekend, live open or closed status in its own time zone
-- **Sourced, not guessed** — settlement cycles, trading hours and official calendars stored with the page they came from; T+1 or T+2 picked by trade date
-- **Checked against the exchanges** — 66 official NYSE, Nasdaq and LSE days compared with the library, all matching
-- Pure-Python date layer with 100% branch coverage; 210 automated tests across 24 pull requests; calendar feeds, embeddable widget, rate-limited API
-
-<p>
-  <img src="https://img.shields.io/badge/Flask%203-0b0d11?style=flat-square&logo=flask&logoColor=white" alt="Flask 3" />
-  <img src="https://img.shields.io/badge/Pydantic-0b0d11?style=flat-square&logo=pydantic&logoColor=E92063" alt="Pydantic" />
-  <img src="https://img.shields.io/badge/Next.js%2016-0b0d11?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 16" />
-  <img src="https://img.shields.io/badge/TypeScript-0b0d11?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/MySQL%208.4-0b0d11?style=flat-square&logo=mysql&logoColor=white" alt="MySQL 8.4" />
-  <img src="https://img.shields.io/badge/Redis-0b0d11?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-0b0d11?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-</p>
-
-<a href="https://ahmershah.dev/projects/marketclock"><img src="https://img.shields.io/badge/Case%20study-ahmershah.dev-4cc22e?style=for-the-badge&labelColor=0b0d11" alt="MarketClock case study" /></a>
-<a href="https://github.com/ahmershahdev/marketclock"><img src="https://img.shields.io/badge/Source-ahmershahdev%2Fmarketclock-1e4fd8?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0d11" alt="MarketClock source on GitHub" /></a>
-
-<br><br>
-
-<!-- ─────────────── 04 · HolidayOps ─────────────── -->
-
-<a href="https://ahmershah.dev/projects/holidayops">
-  <img src="assets/projects/holidayops.webp" width="100%" alt="HolidayOps — Working-Days API for 250 Countries — screenshot" />
-</a>
-
-### 04 · HolidayOps — Working-Days API for 250 Countries
-
-**Every working day, in every country.** A REST API, iCal feeds, digests and signed webhooks answering one question for payroll, HR and logistics teams: is this date a working day — here and in our other offices?
-
-- **250 countries, 624 regions**, each with its own weekend rules (Friday–Saturday, Saturday–Sunday, Friday only)
-- **Pure-Python domain layer with 100% branch coverage**; 481 automated tests across 43 pull requests
-- **Security by default** — tenant isolation tested on every endpoint, hashed API keys, DNS-rebinding-proof SSRF guard, replay-proof TOTP
-- English, Urdu and right-to-left Arabic; the public site is server-rendered with no JavaScript
-
-<p>
-  <img src="https://img.shields.io/badge/Django%205.2-0b0d11?style=flat-square&logo=django&logoColor=white" alt="Django 5.2" />
-  <img src="https://img.shields.io/badge/REST%20Framework-0b0d11?style=flat-square&logo=django&logoColor=white" alt="REST Framework" />
-  <img src="https://img.shields.io/badge/React%2019-0b0d11?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
-  <img src="https://img.shields.io/badge/TypeScript-0b0d11?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/MySQL%208-0b0d11?style=flat-square&logo=mysql&logoColor=white" alt="MySQL 8" />
-  <img src="https://img.shields.io/badge/Redis%20%C2%B7%20Celery-0b0d11?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis · Celery" />
-  <img src="https://img.shields.io/badge/Docker-0b0d11?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-</p>
-
-<a href="https://ahmershah.dev/projects/holidayops"><img src="https://img.shields.io/badge/Case%20study-ahmershah.dev-4cc22e?style=for-the-badge&labelColor=0b0d11" alt="HolidayOps case study" /></a>
-<a href="https://github.com/ahmershahdev/holidayops"><img src="https://img.shields.io/badge/Source-ahmershahdev%2Fholidayops-1e4fd8?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0d11" alt="HolidayOps source on GitHub" /></a>
-
-<br><br>
-
-<!-- ─────────────── 05 · Zovita+ ─────────────── -->
-
-<a href="https://ahmershah.dev/projects/zovita">
-  <img src="assets/projects/zovita.webp" width="100%" alt="Zovita+ — Online Pharmacy Platform — screenshot" />
-</a>
-
-### 05 · Zovita+ — Online Pharmacy Platform
-
-A 1,186-product pharmacy across 8 departments with prescription upload, a **3D body-map symptom finder** and an English/Urdu interface.
-
-- **Checkout in one transaction** — `SELECT … FOR UPDATE` in id order and a conditional stock decrement: stock can't be oversold, a double-submit returns the original order
-- **Card payments confirmed only by HMAC-SHA256-verified, replay-protected Stripe webhooks**
-- Staff admin with per-role permissions and TOTP 2FA, ClamAV upload scanning, 24 drug-interaction rules before payment, 211 automated tests (155 PHPUnit, 56 Playwright)
-
-<p>
-  <img src="https://img.shields.io/badge/Laravel%2012-0b0d11?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel 12" />
-  <img src="https://img.shields.io/badge/React%2019-0b0d11?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
-  <img src="https://img.shields.io/badge/Inertia%202%20SSR-0b0d11?style=flat-square&logo=inertia&logoColor=9553E9" alt="Inertia 2 SSR" />
-  <img src="https://img.shields.io/badge/MySQL-0b0d11?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Stripe-0b0d11?style=flat-square&logo=stripe&logoColor=635BFF" alt="Stripe" />
-  <img src="https://img.shields.io/badge/Three.js-0b0d11?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Playwright-0b0d11?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BUGxheXdyaWdodDwvdGl0bGU%2BPHBhdGggZD0iTTIzLjk5NiA3LjQ2MmMtLjA1Ni44MzctLjI1NyAyLjEzNS0uNzE2IDMuODUtLjk5NSAzLjcxNS00LjI3IDEwLjg3NC0xMC40MiA5LjIyNy02LjE1LTEuNjUtNS40MDctOS40ODctNC40MTItMTMuMjAxLjQ2LTEuNzE2LjkzNC0yLjk0IDEuMzA1LTMuNjk0LjQyLS44NTMuODQ2LS4yODkgMS44MTUuNTIzLjY4NC41NzMgMi40MSAxLjc5MSA1LjAxMSAyLjQ4OCAyLjYwMS42OTcgNC43MDYuNTA2IDUuNTgzLjM1MiAxLjI0NS0uMjE5IDEuODk3LS40OTQgMS44MzQuNDU1Wm0tOS44MDcgMy44NjNzLS4xMjctMS44MTktMS43NzMtMi4yODZjLTEuNjQ0LS40NjctMi42MTMgMS4wNC0yLjYxMyAxLjA0Wm00LjA1OCA0LjUzOS03Ljc2OS0yLjE3MnMuNDQ2IDIuMzA2IDMuMzM4IDMuMTUzYzIuODYyLjgzNiA0LjQzLS45OCA0LjQzLS45ODFabTIuNzAxLTIuNTFzLS4xMy0xLjgxOC0xLjc3My0yLjI4NmMtMS42NDQtLjQ2OS0yLjYxMiAxLjAzOC0yLjYxMiAxLjAzOFpNOC41NyAxOC4yM2MtNC43NDkgMS4yNzktNy4yNjEtNC4yMjQtOC4wMjEtNy4wOEMuMTk3IDkuODMxLjA0NCA4LjgzMi4wMDMgOC4xODhjLS4wNDctLjczLjQ1NS0uNTIgMS40MTUtLjM1NC42NzcuMTE4IDIuMy4yNjEgNC4zMDgtLjI4YTExLjI4IDExLjI4IDAgMCAwIDIuNDEtLjk1NmMtLjA1OC4xOTctLjExNC40LS4xNy42MS0uNDMzIDEuNjE4LS44MjcgNC4wNTUtLjYzMiA2LjQyNi0xLjk3Ni43MzItMi4yNjcgMi40MjMtMi4yNjcgMi40MjNsMi41MjQtLjcxNWMuMjI3IDEuMDAyLjYgMS45ODcgMS4xNSAyLjgzOGE1LjkxNCA1LjkxNCAwIDAgMS0uMTcxLjA0OVptLTQuMTg4LTYuMjk4YzEuMjY1LS4zMzMgMS4zNjMtMS42MzEgMS4zNjMtMS42MzFsLTMuMzc0Ljg4OHMuNzQ1IDEuMDc2IDIuMDEuNzQzWiIvPjwvc3ZnPg%3D%3D" alt="Playwright" />
-</p>
-
-<a href="https://ahmershah.dev/projects/zovita"><img src="https://img.shields.io/badge/Case%20study-ahmershah.dev-4cc22e?style=for-the-badge&labelColor=0b0d11" alt="Zovita+ case study" /></a>
-<a href="https://github.com/ahmershahdev/zovita"><img src="https://img.shields.io/badge/Source-ahmershahdev%2Fzovita-1e4fd8?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0d11" alt="Zovita+ source on GitHub" /></a>
-
-<br><br>
-
-<!-- ─────────────── 06 · BookMyMovie ─────────────── -->
-
-<a href="https://ahmershah.dev/projects/bookmymovie">
-  <img src="assets/projects/bookmymovie.webp" width="100%" alt="BookMyMovie — Cinema Ticketing Platform — screenshot" />
-</a>
-
-### 06 · BookMyMovie — Cinema Ticketing Platform
-
-Browse films, watch trailers and pick seats on a live map — or from inside a **3D model of the hall** — then add snacks and book. 56-table schema with 9 reporting views, 49 screens.
-
-- **Zero double-sold seats** — deterministic row-lock ordering, a database-enforced unique live-ticket key, idempotent checkout
-- **Offline QR e-tickets** with Apple and Google Wallet passes, split bills, loyalty points and gift cards
-- Back office for three roles with TOTP 2FA, ticket scanner, refunds and audit log; full Urdu RTL; Lighthouse 100 accessibility & SEO
-
-<p>
-  <img src="https://img.shields.io/badge/Laravel%2012-0b0d11?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel 12" />
-  <img src="https://img.shields.io/badge/React%2019-0b0d11?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
-  <img src="https://img.shields.io/badge/TypeScript-0b0d11?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Three.js-0b0d11?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/MySQL%208-0b0d11?style=flat-square&logo=mysql&logoColor=white" alt="MySQL 8" />
-  <img src="https://img.shields.io/badge/PWA-0b0d11?style=flat-square&logo=pwa&logoColor=5A0FC8" alt="PWA" />
-</p>
-
-<a href="https://ahmershah.dev/projects/bookmymovie"><img src="https://img.shields.io/badge/Case%20study-ahmershah.dev-4cc22e?style=for-the-badge&labelColor=0b0d11" alt="BookMyMovie case study" /></a>
-<a href="https://github.com/ahmershahdev/bookmymovie"><img src="https://img.shields.io/badge/Source-ahmershahdev%2Fbookmymovie-1e4fd8?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0d11" alt="BookMyMovie source on GitHub" /></a>
-
-<br><br>
-
-<!-- ─────────────── 07 · GleanGrid ─────────────── -->
-
-<a href="https://ahmershah.dev/projects/gleangrid">
-  <img src="assets/projects/gleangrid.webp" width="100%" alt="GleanGrid — Farmers-Market Pre-Orders · Aptech TechWiz 7 — screenshot" />
-</a>
-
-### 07 · GleanGrid — Farmers-Market Pre-Orders · Aptech TechWiz 7
-
-**Farm fresh, just a click away.** Customers reserve this week's harvest and collect it at the stall. Three role workspaces, 62 screens, 8 languages including right-to-left Urdu and Arabic.
-
-- **A 50-process stress test** exposed a REPEATABLE READ stale-snapshot oversell (20 orders into a 3-place window); a locking read fixed it
-- Idempotent payments with HMAC-verified gateway callbacks; live market map and QR pickup passes
-- **133 PHPUnit tests (779 assertions)**, Playwright end-to-end and GitHub Actions on PHP 8.2 and 8.3
-
-<p>
-  <img src="https://img.shields.io/badge/Laravel%2012-0b0d11?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel 12" />
-  <img src="https://img.shields.io/badge/React%2019-0b0d11?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
-  <img src="https://img.shields.io/badge/Inertia%20SSR-0b0d11?style=flat-square&logo=inertia&logoColor=9553E9" alt="Inertia SSR" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS%204-0b0d11?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS 4" />
-  <img src="https://img.shields.io/badge/MySQL-0b0d11?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Leaflet-0b0d11?style=flat-square&logo=leaflet&logoColor=199900" alt="Leaflet" />
-</p>
-
-<a href="https://ahmershah.dev/projects/gleangrid"><img src="https://img.shields.io/badge/Case%20study-ahmershah.dev-4cc22e?style=for-the-badge&labelColor=0b0d11" alt="GleanGrid case study" /></a>
-<a href="https://github.com/ahmershahdev/GleanGrid"><img src="https://img.shields.io/badge/Source-ahmershahdev%2FGleanGrid-1e4fd8?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0d11" alt="GleanGrid source on GitHub" /></a>
-
-<br><br>
-
-<!-- ─────────────── 08 · Commerza ─────────────── -->
-
-<a href="https://ahmershah.dev/projects/commerza">
-  <img src="assets/projects/commerza.webp" width="100%" alt="Commerza — Security-First E-commerce Engine — screenshot" />
-</a>
-
-### 08 · Commerza — Security-First E-commerce Engine
-
-An online watch store in plain PHP and MySQL, with no framework. It has a storefront, an admin panel with sub-admin roles, coupons, reviews, order tracking, Google and Facebook sign-in, and Stripe or cash on delivery. **v2.0.0, MIT, 346 files, 143 commits.**
-
-- **Never oversells:** stock rows are locked in a transaction, and every order has an idempotency key
-- Nonce-only CSP, CSRF tokens, layered reCAPTCHA, Argon2id, email 2FA for admins, and upload malware scanning. **33/33 security checks pass**
-- **Tested on every push in Docker:** 15 concurrent shoppers with 0% errors, a 60-user stress test, and Playwright on desktop and mobile
-
-<p>
-  <img src="https://img.shields.io/badge/PHP-0b0d11?style=flat-square&logo=php&logoColor=777BB4" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-0b0d11?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/JavaScript-0b0d11?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bootstrap-0b0d11?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Docker-0b0d11?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Playwright-0b0d11?style=flat-square&logo=playwright&logoColor=2EAD33" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Stripe-0b0d11?style=flat-square&logo=stripe&logoColor=635BFF" alt="Stripe" />
-</p>
-
-<a href="https://ahmershah.dev/projects/commerza"><img src="https://img.shields.io/badge/Case%20study-ahmershah.dev-4cc22e?style=for-the-badge&labelColor=0b0d11" alt="Commerza case study" /></a>
-<a href="https://github.com/ahmershahdev/commerza"><img src="https://img.shields.io/badge/Source-ahmershahdev%2Fcommerza-1e4fd8?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0d11" alt="Commerza source on GitHub" /></a>
-<a href="https://github.com/ahmershahdev/commerza/wiki"><img src="https://img.shields.io/badge/Wiki-docs%20%26%20test%20reports-0b0d11?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0d11" alt="Commerza wiki" /></a>
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://ahmershah.dev/projects/karobar-erp"><img src="assets/projects/karobar-erp.webp" width="100%" alt="Karobar ERP — Stock, Sales, Accounts and Payroll for Small Shops — screenshot" /></a>
+<br>
+<b>01 · Karobar ERP</b> — Stock, Sales, Accounts and Payroll for Small Shops
+<br>
+<i>Every rupee and every unit, in balance.</i>
+<br>
+<code>Django 5.2</code> <code>DRF</code> <code>Celery</code> <code>React 19</code> <code>TypeScript</code> <code>MySQL 8.4</code> <code>Redis</code> <code>Docker</code>
+<br>
+<a href="https://ahmershah.dev/projects/karobar-erp">Case study</a> · <a href="https://ahmershah.dev/projects/karobar-erp/walkthrough-720.mp4">Video 1:34</a> · <a href="https://github.com/ahmershahdev/karobar-erp">Source</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://ahmershah.dev/projects/offlineshelf"><img src="assets/projects/offlineshelf.webp" width="100%" alt="OfflineShelf — Wikipedia Reading Lists for Offline Use — screenshot" /></a>
+<br>
+<b>02 · OfflineShelf</b> — Wikipedia Reading Lists for Offline Use
+<br>
+<i>Millions of articles. Choose the ones that matter.</i>
+<br>
+<code>Flask</code> <code>Pydantic</code> <code>React 19</code> <code>TypeScript</code> <code>MariaDB 11.4</code> <code>Redis</code> <code>RQ</code> <code>Docker</code>
+<br>
+<a href="https://ahmershah.dev/projects/offlineshelf">Case study</a> · <a href="https://ahmershah.dev/projects/offlineshelf/walkthrough-720.mp4">Video 2:08</a> · <a href="https://github.com/ahmershahdev/offlineshelf">Source</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://ahmershah.dev/projects/marketclock"><img src="assets/projects/marketclock.webp" width="100%" alt="MarketClock — Trading Days and Settlement Dates for 30 Exchanges — screenshot" /></a>
+<br>
+<b>03 · MarketClock</b> — Trading Days and Settlement Dates for 30 Exchanges
+<br>
+<i>Every trading day, every settlement date.</i>
+<br>
+<code>Flask 3</code> <code>Pydantic</code> <code>Next.js 16</code> <code>TypeScript</code> <code>MySQL 8.4</code> <code>Redis</code> <code>Docker</code>
+<br>
+<a href="https://ahmershah.dev/projects/marketclock">Case study</a> · <a href="https://ahmershah.dev/projects/marketclock/walkthrough-720.mp4">Video 1:41</a> · <a href="https://github.com/ahmershahdev/marketclock">Source</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://ahmershah.dev/projects/holidayops"><img src="assets/projects/holidayops.webp" width="100%" alt="HolidayOps — Working-Days API for 250 Countries — screenshot" /></a>
+<br>
+<b>04 · HolidayOps</b> — Working-Days API for 250 Countries
+<br>
+<i>Every working day, in every country.</i>
+<br>
+<code>Django 5.2</code> <code>REST Framework</code> <code>React 19</code> <code>TypeScript</code> <code>MySQL 8</code> <code>Redis</code> <code>Celery</code> <code>Docker</code>
+<br>
+<a href="https://ahmershah.dev/projects/holidayops">Case study</a> · <a href="https://ahmershah.dev/projects/holidayops/walkthrough-720.mp4">Video 1:34</a> · <a href="https://github.com/ahmershahdev/holidayops">Source</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://ahmershah.dev/projects/zovita"><img src="assets/projects/zovita.webp" width="100%" alt="Zovita+ — Online Pharmacy Platform — screenshot" /></a>
+<br>
+<b>05 · Zovita+</b> — Online Pharmacy Platform
+<br>
+<i>Care, delivered with calm — a pharmacy that notices what you need.</i>
+<br>
+<code>Laravel 12</code> <code>React 19</code> <code>Inertia 2 SSR</code> <code>MySQL</code> <code>Stripe</code> <code>Three.js</code> <code>Playwright</code>
+<br>
+<a href="https://ahmershah.dev/projects/zovita">Case study</a> · <a href="https://ahmershah.dev/projects/zovita/walkthrough-720.mp4">Video 1:38</a> · <a href="https://github.com/ahmershahdev/zovita">Source</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://ahmershah.dev/projects/bookmymovie"><img src="assets/projects/bookmymovie.webp" width="100%" alt="BookMyMovie — Cinema Ticketing Platform — screenshot" /></a>
+<br>
+<b>06 · BookMyMovie</b> — Cinema Ticketing Platform
+<br>
+<i>Pick your seat, watch the trailer, and never share it with a stranger.</i>
+<br>
+<code>Laravel 12</code> <code>React 19</code> <code>TypeScript</code> <code>Three.js</code> <code>MySQL 8</code> <code>PWA</code>
+<br>
+<a href="https://ahmershah.dev/projects/bookmymovie">Case study</a> · <a href="https://ahmershah.dev/projects/bookmymovie/walkthrough-720.mp4">Video 1:27</a> · <a href="https://github.com/ahmershahdev/bookmymovie">Source</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://ahmershah.dev/projects/gleangrid"><img src="assets/projects/gleangrid.webp" width="100%" alt="GleanGrid — Farmers-Market Pre-Orders · Aptech TechWiz 7 — screenshot" /></a>
+<br>
+<b>07 · GleanGrid</b> — Farmers-Market Pre-Orders · Aptech TechWiz 7
+<br>
+<i>Reserve this week’s harvest online, pay the farmer at the stall.</i>
+<br>
+<code>Laravel 12</code> <code>React 19</code> <code>Inertia SSR</code> <code>Tailwind CSS 4</code> <code>MySQL</code> <code>Leaflet</code>
+<br>
+<a href="https://ahmershah.dev/projects/gleangrid">Case study</a> · <a href="https://ahmershah.dev/projects/gleangrid/walkthrough-720.mp4">Video 1:37</a> · <a href="https://github.com/ahmershahdev/GleanGrid">Source</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://ahmershah.dev/projects/commerza"><img src="assets/projects/commerza.webp" width="100%" alt="Commerza — Security-First E-commerce Engine — screenshot" /></a>
+<br>
+<b>08 · Commerza</b> — Security-First E-commerce Engine
+<br>
+<i>A security-first e-commerce engine, built without a framework.</i>
+<br>
+<code>PHP</code> <code>MySQL</code> <code>JavaScript</code> <code>Bootstrap</code> <code>Docker</code> <code>Playwright</code> <code>Stripe</code>
+<br>
+<a href="https://ahmershah.dev/projects/commerza">Case study</a> · <a href="https://ahmershah.dev/projects/commerza/walkthrough-720.mp4">Video 1:08</a> · <a href="https://github.com/ahmershahdev/commerza">Source</a> · <a href="https://github.com/ahmershahdev/commerza/wiki">Wiki</a>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -374,10 +241,10 @@ The same 13 credentials shown on [ahmershah.dev](https://ahmershah.dev/#certific
   <a href="https://ahmershah.dev/"><img src="assets/logo-circular.webp" width="64" alt="Syed Ahmer Shah logo" /></a>
 </p>
 
-<p align="center"><em>"Designing order within the digital wilderness."</em><br><sub>— Syed Ahmer Shah</sub></p>
+<p align="center"><em>"Designing order within the digital wilderness."</em><br><code>— Syed Ahmer Shah</code></p>
 
 <p align="center">
   <a href="https://ahmershah.dev/#contact"><img src="https://img.shields.io/badge/Let's%20build%20something-ahmershah.dev-4cc22e?style=for-the-badge&labelColor=0b0d11" alt="Let's build something — ahmershah.dev" /></a>
 </p>
 
-<p align="center"><sub>© 2026 Syed Ahmer Shah</sub></p>
+<p align="center"><code>© 2026 Syed Ahmer Shah</code></p>

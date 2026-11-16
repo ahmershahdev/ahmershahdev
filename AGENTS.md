@@ -25,8 +25,10 @@ Selected work section, the banner's `<desc>`, both llms files, and the matching 
 
 ## Rules
 
-- Projects are numbered `01 ·` to `NN ·` in portfolio order, each with a screenshot, a bold one-line
-  pitch, three or four highlights, stack badges and case study and source links.
+- Selected work is a two-column HTML `<table>`, one card per project in portfolio order: screenshot (links to the
+  project page), `<b>NN · Name</b>` with the subtitle in `<sub>`, the tagline in `<i>` (from `projects.ts`), the stack as one
+  `<sub>` line joined with ` · `, then Case study · Video m:ss (`/projects/<slug>/walkthrough-720.mp4`) · Source. Keep it
+  that short: highlights live on the case study, not here.
 - Badge logos: Shields.io `logo=` names; when one is missing, a base64 SVG data URI.
 - Every image has a descriptive `alt`.
 - `googlefd88f5d13cd71b69.html` is the Google Search Console verification file: never delete it.
@@ -34,7 +36,7 @@ Selected work section, the banner's `<desc>`, both llms files, and the matching 
 
 ## Status
 
-Last updated: 2026-11-13. Eight projects: Karobar ERP, OfflineShelf, MarketClock, HolidayOps, Zovita+, BookMyMovie, GleanGrid,
+Last updated: 2026-11-16. Projects section compacted to a 2-column grid with walkthrough video links. Eight projects: Karobar ERP, OfflineShelf, MarketClock, HolidayOps, Zovita+, BookMyMovie, GleanGrid,
 Commerza (all 2026). 13 certificates, LeetCode 676 solved, 63 articles, Zovita+ 211 tests. Wiki
 enabled as a short reference mirror of the README. No releases or tags: this is a profile page, not
 software. `master` is protected by the "Protect master" ruleset (no deletion, no force push).
